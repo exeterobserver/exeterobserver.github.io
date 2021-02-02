@@ -3,17 +3,17 @@
     <channel>
         <title>Exeter Observer - Independent public interest community journalism</title>
 
-        <description>Editorially and financially independent, Exeter Observer delivers in-depth articles and investigative journalism that help people participate more effectively in local democracy</description>
+        <description>Exeter Observer publishes news, analysis and investigative feature stories that strengthen civil society and help people participate more effectively in local democracy</description>
 
-        <link>https://exeterobserver.org</link>
+        <link>http://localhost:3000</link>
 
-        <generator>Jekyll v4.1.1</generator>
+        <generator>Jekyll v4.2.0</generator>
 
-        <atom:link href="https://exeterobserver.org/feed.xml" rel="self" type="application/rss+xml"/>
+        <atom:link href="http://localhost:3000/feed.xml" rel="self" type="application/rss+xml"/>
 
-        <pubDate>Fri, 04 Dec 2020 12:08:45 +0000</pubDate>
+        <pubDate>Tue, 02 Feb 2021 22:00:37 +0000</pubDate>
 
-        <lastBuildDate>Fri, 04 Dec 2020 12:08:45 +0000</lastBuildDate>
+        <lastBuildDate>Tue, 02 Feb 2021 22:00:37 +0000</lastBuildDate>
 
         
 
@@ -35,7 +35,7 @@ Curlew Alternatives, a developer which has previously specialised in ...</extrac
                     
 
                     
-                        <link>https://exeterobserver.org/2020/12/03/harlequins-shopping-centre-redevelopment-substandard-coliving-hotel-student-accommodation-liveable-exeter-city-council-conservation-charities-community-campaign-harm-historic-heritage-assets/</link>
+                        <link>http://localhost:3000/2020/12/03/harlequins-shopping-centre-redevelopment-substandard-coliving-hotel-student-accommodation-liveable-exeter-city-council-conservation-charities-community-campaign-harm-historic-heritage-assets/</link>
                     
 
                     
@@ -63,7 +63,7 @@ Curlew Alternatives, a developer which has previously specialised in ...</extrac
                     
 
                     
-                        <guid isPermaLink="true">https://exeterobserver.org/2020/12/03/harlequins-shopping-centre-redevelopment-substandard-coliving-hotel-student-accommodation-liveable-exeter-city-council-conservation-charities-community-campaign-harm-historic-heritage-assets/</guid>
+                        <guid isPermaLink="true">http://localhost:3000/2020/12/03/harlequins-shopping-centre-redevelopment-substandard-coliving-hotel-student-accommodation-liveable-exeter-city-council-conservation-charities-community-campaign-harm-historic-heritage-assets/</guid>
                     
 
                 </item>
@@ -92,7 +92,7 @@ The new legislation gives health and local authorities conditional but wide-rang
                     
 
                     
-                        <link>https://exeterobserver.org/2020/10/28/royal-devon-and-exeter-hospital-wonford-nhs-trust-creates-200-car-parking-spaces-despite-city-climate-crisis-goals-local-plan-policy-exeter-net-zero-air-quality/</link>
+                        <link>http://localhost:3000/2020/10/28/royal-devon-and-exeter-hospital-wonford-nhs-trust-creates-200-car-parking-spaces-despite-city-climate-crisis-goals-local-plan-policy-exeter-net-zero-air-quality/</link>
                     
 
                     
@@ -122,7 +122,7 @@ The new legislation gives health and local authorities conditional but wide-rang
                     
 
                     
-                        <guid isPermaLink="true">https://exeterobserver.org/2020/10/28/royal-devon-and-exeter-hospital-wonford-nhs-trust-creates-200-car-parking-spaces-despite-city-climate-crisis-goals-local-plan-policy-exeter-net-zero-air-quality/</guid>
+                        <guid isPermaLink="true">http://localhost:3000/2020/10/28/royal-devon-and-exeter-hospital-wonford-nhs-trust-creates-200-car-parking-spaces-despite-city-climate-crisis-goals-local-plan-policy-exeter-net-zero-air-quality/</guid>
                     
 
                 </item>
@@ -149,7 +149,7 @@ The...</extract>
                     
 
                     
-                        <link>https://exeterobserver.org/2020/09/07/exeter-city-council-executive-planning-committee-membership-majority-despite-local-government-association-guidance/</link>
+                        <link>http://localhost:3000/2020/09/07/exeter-city-council-executive-planning-committee-membership-majority-despite-local-government-association-guidance/</link>
                     
 
                     
@@ -177,7 +177,7 @@ The...</extract>
                     
 
                     
-                        <guid isPermaLink="true">https://exeterobserver.org/2020/09/07/exeter-city-council-executive-planning-committee-membership-majority-despite-local-government-association-guidance/</guid>
+                        <guid isPermaLink="true">http://localhost:3000/2020/09/07/exeter-city-council-executive-planning-committee-membership-majority-despite-local-government-association-guidance/</guid>
                     
 
                 </item>
@@ -204,7 +204,7 @@ The county council has repeatedly said it would provide “improved foot and cyc
                     
 
                     
-                        <link>https://exeterobserver.org/2020/08/04/devon-county-council-covid-19-temporary-cycling-and-walking-infrastructure-safety-plans-exeter-city-centre/</link>
+                        <link>http://localhost:3000/2020/08/04/devon-county-council-covid-19-temporary-cycling-and-walking-infrastructure-safety-plans-exeter-city-centre/</link>
                     
 
                     
@@ -230,7 +230,7 @@ The county council has repeatedly said it would provide “improved foot and cyc
                     
 
                     
-                        <guid isPermaLink="true">https://exeterobserver.org/2020/08/04/devon-county-council-covid-19-temporary-cycling-and-walking-infrastructure-safety-plans-exeter-city-centre/</guid>
+                        <guid isPermaLink="true">http://localhost:3000/2020/08/04/devon-county-council-covid-19-temporary-cycling-and-walking-infrastructure-safety-plans-exeter-city-centre/</guid>
                     
 
                 </item>
@@ -255,7 +255,7 @@ The government nevertheless announced spending plans a few days later that disma
                     
 
                     
-                        <link>https://exeterobserver.org/2020/07/21/net-zero-exeter-2030-plan-part-one-exeters-carbon-footprint-exeter-city-futures-exeter-city-council-fridays-for-future-climate-activists/</link>
+                        <link>http://localhost:3000/2020/07/21/net-zero-exeter-2030-plan-part-one-exeters-carbon-footprint-exeter-city-futures-exeter-city-council-fridays-for-future-climate-activists/</link>
                     
 
                     
@@ -285,7 +285,7 @@ The government nevertheless announced spending plans a few days later that disma
                     
 
                     
-                        <guid isPermaLink="true">https://exeterobserver.org/2020/07/21/net-zero-exeter-2030-plan-part-one-exeters-carbon-footprint-exeter-city-futures-exeter-city-council-fridays-for-future-climate-activists/</guid>
+                        <guid isPermaLink="true">http://localhost:3000/2020/07/21/net-zero-exeter-2030-plan-part-one-exeters-carbon-footprint-exeter-city-futures-exeter-city-council-fridays-for-future-climate-activists/</guid>
                     
 
                 </item>
@@ -312,7 +312,7 @@ The city council has had a predilection for such bodies for some time: recent ar
                     
 
                     
-                        <link>https://exeterobserver.org/2020/07/14/unelected-liveable-exeter-place-board-created-by-city-council-to-take-responsibility-for-major-policies-determining-Exeter-future-development/</link>
+                        <link>http://localhost:3000/2020/07/14/unelected-liveable-exeter-place-board-created-by-city-council-to-take-responsibility-for-major-policies-determining-Exeter-future-development/</link>
                     
 
                     
@@ -340,7 +340,7 @@ The city council has had a predilection for such bodies for some time: recent ar
                     
 
                     
-                        <guid isPermaLink="true">https://exeterobserver.org/2020/07/14/unelected-liveable-exeter-place-board-created-by-city-council-to-take-responsibility-for-major-policies-determining-Exeter-future-development/</guid>
+                        <guid isPermaLink="true">http://localhost:3000/2020/07/14/unelected-liveable-exeter-place-board-created-by-city-council-to-take-responsibility-for-major-policies-determining-Exeter-future-development/</guid>
                     
 
                 </item>
@@ -365,7 +365,7 @@ Exeter’s performance in the count was poor: it reported the 25th highest numbe
                     
 
                     
-                        <link>https://exeterobserver.org/2020/06/10/exeter-rough-sleepers-covid19-emergency-accommodation-rough-sleeping-initiative-homelessness/</link>
+                        <link>http://localhost:3000/2020/06/10/exeter-rough-sleepers-covid19-emergency-accommodation-rough-sleeping-initiative-homelessness/</link>
                     
 
                     
@@ -391,7 +391,7 @@ Exeter’s performance in the count was poor: it reported the 25th highest numbe
                     
 
                     
-                        <guid isPermaLink="true">https://exeterobserver.org/2020/06/10/exeter-rough-sleepers-covid19-emergency-accommodation-rough-sleeping-initiative-homelessness/</guid>
+                        <guid isPermaLink="true">http://localhost:3000/2020/06/10/exeter-rough-sleepers-covid19-emergency-accommodation-rough-sleeping-initiative-homelessness/</guid>
                     
 
                 </item>
@@ -416,7 +416,7 @@ The plan sets out a range of actions that Exeter City Futures believes can deliv
                     
 
                     
-                        <link>https://exeterobserver.org/2020/06/05/exeter-city-futures-net-zero-exeter-2030-plan-exeter-city-council-executive-decision/</link>
+                        <link>http://localhost:3000/2020/06/05/exeter-city-futures-net-zero-exeter-2030-plan-exeter-city-council-executive-decision/</link>
                     
 
                     
@@ -440,7 +440,7 @@ The plan sets out a range of actions that Exeter City Futures believes can deliv
                     
 
                     
-                        <guid isPermaLink="true">https://exeterobserver.org/2020/06/05/exeter-city-futures-net-zero-exeter-2030-plan-exeter-city-council-executive-decision/</guid>
+                        <guid isPermaLink="true">http://localhost:3000/2020/06/05/exeter-city-futures-net-zero-exeter-2030-plan-exeter-city-council-executive-decision/</guid>
                     
 
                 </item>
@@ -469,7 +469,7 @@ Andrew Leadbe...</extract>
                     
 
                     
-                        <link>https://exeterobserver.org/2020/06/01/devon-county-council-cycling-walking-infrastructure-delivery-failure-department-for-transport-new-road-layouts-funding/</link>
+                        <link>http://localhost:3000/2020/06/01/devon-county-council-cycling-walking-infrastructure-delivery-failure-department-for-transport-new-road-layouts-funding/</link>
                     
 
                     
@@ -491,7 +491,7 @@ Andrew Leadbe...</extract>
                     
 
                     
-                        <guid isPermaLink="true">https://exeterobserver.org/2020/06/01/devon-county-council-cycling-walking-infrastructure-delivery-failure-department-for-transport-new-road-layouts-funding/</guid>
+                        <guid isPermaLink="true">http://localhost:3000/2020/06/01/devon-county-council-cycling-walking-infrastructure-delivery-failure-department-for-transport-new-road-layouts-funding/</guid>
                     
 
                 </item>
@@ -520,7 +520,7 @@ Public transport will only be able to car...</extract>
                     
 
                     
-                        <link>https://exeterobserver.org/2020/05/22/devon-county-council-local-cycling-walking-infrastructure-plans-exeter-transport-strategy-department-for-transport-new-road-layout-for-coronavirus-social-distancing/</link>
+                        <link>http://localhost:3000/2020/05/22/devon-county-council-local-cycling-walking-infrastructure-plans-exeter-transport-strategy-department-for-transport-new-road-layout-for-coronavirus-social-distancing/</link>
                     
 
                     
@@ -544,7 +544,7 @@ Public transport will only be able to car...</extract>
                     
 
                     
-                        <guid isPermaLink="true">https://exeterobserver.org/2020/05/22/devon-county-council-local-cycling-walking-infrastructure-plans-exeter-transport-strategy-department-for-transport-new-road-layout-for-coronavirus-social-distancing/</guid>
+                        <guid isPermaLink="true">http://localhost:3000/2020/05/22/devon-county-council-local-cycling-walking-infrastructure-plans-exeter-transport-strategy-department-for-transport-new-road-layout-for-coronavirus-social-distancing/</guid>
                     
 
                 </item>
@@ -574,7 +574,7 @@ A council report proposed spending £2.4 million to refurbish its lo...</extract
                     
 
                     
-                        <link>https://exeterobserver.org/2020/05/14/exeter-cathedral-and-quay-car-park-3.9m-refurbishment-capital-spending-decision/</link>
+                        <link>http://localhost:3000/2020/05/14/exeter-cathedral-and-quay-car-park-3.9m-refurbishment-capital-spending-decision/</link>
                     
 
                     
@@ -598,7 +598,7 @@ A council report proposed spending £2.4 million to refurbish its lo...</extract
                     
 
                     
-                        <guid isPermaLink="true">https://exeterobserver.org/2020/05/14/exeter-cathedral-and-quay-car-park-3.9m-refurbishment-capital-spending-decision/</guid>
+                        <guid isPermaLink="true">http://localhost:3000/2020/05/14/exeter-cathedral-and-quay-car-park-3.9m-refurbishment-capital-spending-decision/</guid>
                     
 
                 </item>
@@ -623,7 +623,7 @@ The proposal to develop the 3.9 acre greenfield site between Pulling Road and Ch
                     
 
                     
-                        <link>https://exeterobserver.org/2020/05/08/pulling-road-pinhoe-exeter-net-zero-carbon-affordable-housing-car-parking-congestion/</link>
+                        <link>http://localhost:3000/2020/05/08/pulling-road-pinhoe-exeter-net-zero-carbon-affordable-housing-car-parking-congestion/</link>
                     
 
                     
@@ -651,7 +651,7 @@ The proposal to develop the 3.9 acre greenfield site between Pulling Road and Ch
                     
 
                     
-                        <guid isPermaLink="true">https://exeterobserver.org/2020/05/08/pulling-road-pinhoe-exeter-net-zero-carbon-affordable-housing-car-parking-congestion/</guid>
+                        <guid isPermaLink="true">http://localhost:3000/2020/05/08/pulling-road-pinhoe-exeter-net-zero-carbon-affordable-housing-car-parking-congestion/</guid>
                     
 
                 </item>
@@ -678,7 +678,7 @@ It will now also open from April to the end of September, when it will accommoda
                     
 
                     
-                        <link>https://exeterobserver.org/2020/05/07/night-shelter-homeless-rough-sleepers-magdalen-street-exeter-bcha/</link>
+                        <link>http://localhost:3000/2020/05/07/night-shelter-homeless-rough-sleepers-magdalen-street-exeter-bcha/</link>
                     
 
                     
@@ -700,7 +700,7 @@ It will now also open from April to the end of September, when it will accommoda
                     
 
                     
-                        <guid isPermaLink="true">https://exeterobserver.org/2020/05/07/night-shelter-homeless-rough-sleepers-magdalen-street-exeter-bcha/</guid>
+                        <guid isPermaLink="true">http://localhost:3000/2020/05/07/night-shelter-homeless-rough-sleepers-magdalen-street-exeter-bcha/</guid>
                     
 
                 </item>
@@ -727,7 +727,7 @@ It will be designed flexibly to host a range of Devon County Council services an
                     
 
                     
-                        <link>https://exeterobserver.org/2020/05/07/cranbrook-community-building-plans/</link>
+                        <link>http://localhost:3000/2020/05/07/cranbrook-community-building-plans/</link>
                     
 
                     
@@ -749,7 +749,7 @@ It will be designed flexibly to host a range of Devon County Council services an
                     
 
                     
-                        <guid isPermaLink="true">https://exeterobserver.org/2020/05/07/cranbrook-community-building-plans/</guid>
+                        <guid isPermaLink="true">http://localhost:3000/2020/05/07/cranbrook-community-building-plans/</guid>
                     
 
                 </item>
@@ -778,7 +778,7 @@ Council leader Phil Bialyk said: “The...</extract>
                     
 
                     
-                        <link>https://exeterobserver.org/2020/04/24/exeter-city-council-announces-1.584-million-april-budget-shortfall-caused-by-covid-19-restrictions/</link>
+                        <link>http://localhost:3000/2020/04/24/exeter-city-council-announces-1.584-million-april-budget-shortfall-caused-by-covid-19-restrictions/</link>
                     
 
                     
@@ -802,7 +802,7 @@ Council leader Phil Bialyk said: “The...</extract>
                     
 
                     
-                        <guid isPermaLink="true">https://exeterobserver.org/2020/04/24/exeter-city-council-announces-1.584-million-april-budget-shortfall-caused-by-covid-19-restrictions/</guid>
+                        <guid isPermaLink="true">http://localhost:3000/2020/04/24/exeter-city-council-announces-1.584-million-april-budget-shortfall-caused-by-covid-19-restrictions/</guid>
                     
 
                 </item>
@@ -829,7 +829,7 @@ Many businesses with premises that qualify for Small Business Rate Relief can cl
                     
 
                     
-                        <link>https://exeterobserver.org/2020/04/22/half-of-exeter-city-council-covid-19-coronavirus-pandemic-business-grant-payments-unclaimed/</link>
+                        <link>http://localhost:3000/2020/04/22/half-of-exeter-city-council-covid-19-coronavirus-pandemic-business-grant-payments-unclaimed/</link>
                     
 
                     
@@ -853,7 +853,7 @@ Many businesses with premises that qualify for Small Business Rate Relief can cl
                     
 
                     
-                        <guid isPermaLink="true">https://exeterobserver.org/2020/04/22/half-of-exeter-city-council-covid-19-coronavirus-pandemic-business-grant-payments-unclaimed/</guid>
+                        <guid isPermaLink="true">http://localhost:3000/2020/04/22/half-of-exeter-city-council-covid-19-coronavirus-pandemic-business-grant-payments-unclaimed/</guid>
                     
 
                 </item>
@@ -882,7 +882,7 @@ Ac...</extract>
                     
 
                     
-                        <link>https://exeterobserver.org/2020/03/06/exeter-university-college-union-strike-third-week-rally-concert/</link>
+                        <link>http://localhost:3000/2020/03/06/exeter-university-college-union-strike-third-week-rally-concert/</link>
                     
 
                     
@@ -910,7 +910,7 @@ Ac...</extract>
                     
 
                     
-                        <guid isPermaLink="true">https://exeterobserver.org/2020/03/06/exeter-university-college-union-strike-third-week-rally-concert/</guid>
+                        <guid isPermaLink="true">http://localhost:3000/2020/03/06/exeter-university-college-union-strike-third-week-rally-concert/</guid>
                     
 
                 </item>
@@ -939,7 +939,7 @@ Although ...</extract>
                     
 
                     
-                        <link>https://exeterobserver.org/2020/03/05/exeter-city-futures-blueprint-carbon-neutral-2030-net-zero-mobilisation-summit-green-new-deal-devon-climate-emergency/</link>
+                        <link>http://localhost:3000/2020/03/05/exeter-city-futures-blueprint-carbon-neutral-2030-net-zero-mobilisation-summit-green-new-deal-devon-climate-emergency/</link>
                     
 
                     
@@ -971,7 +971,7 @@ Although ...</extract>
                     
 
                     
-                        <guid isPermaLink="true">https://exeterobserver.org/2020/03/05/exeter-city-futures-blueprint-carbon-neutral-2030-net-zero-mobilisation-summit-green-new-deal-devon-climate-emergency/</guid>
+                        <guid isPermaLink="true">http://localhost:3000/2020/03/05/exeter-city-futures-blueprint-carbon-neutral-2030-net-zero-mobilisation-summit-green-new-deal-devon-climate-emergency/</guid>
                     
 
                 </item>
@@ -998,7 +998,7 @@ Students from local schools, colleges and the University of Exeter were joined .
                     
 
                     
-                        <link>https://exeterobserver.org/2020/02/28/exeter-climate-strike-anniversary-march-blocks-city-centre-road-junction/</link>
+                        <link>http://localhost:3000/2020/02/28/exeter-climate-strike-anniversary-march-blocks-city-centre-road-junction/</link>
                     
 
                     
@@ -1026,7 +1026,7 @@ Students from local schools, colleges and the University of Exeter were joined .
                     
 
                     
-                        <guid isPermaLink="true">https://exeterobserver.org/2020/02/28/exeter-climate-strike-anniversary-march-blocks-city-centre-road-junction/</guid>
+                        <guid isPermaLink="true">http://localhost:3000/2020/02/28/exeter-climate-strike-anniversary-march-blocks-city-centre-road-junction/</guid>
                     
 
                 </item>
@@ -1055,7 +1055,7 @@ Madi Pollard-Shore discussed the work of polar explorer and botanist Elke Macken
                     
 
                     
-                        <link>https://exeterobserver.org/2020/02/27/university-of-exeter-prism-queer-stemm-champions-competition-winners/</link>
+                        <link>http://localhost:3000/2020/02/27/university-of-exeter-prism-queer-stemm-champions-competition-winners/</link>
                     
 
                     
@@ -1079,7 +1079,7 @@ Madi Pollard-Shore discussed the work of polar explorer and botanist Elke Macken
                     
 
                     
-                        <guid isPermaLink="true">https://exeterobserver.org/2020/02/27/university-of-exeter-prism-queer-stemm-champions-competition-winners/</guid>
+                        <guid isPermaLink="true">http://localhost:3000/2020/02/27/university-of-exeter-prism-queer-stemm-champions-competition-winners/</guid>
                     
 
                 </item>
@@ -1106,7 +1106,7 @@ So it was not a great surprise to find yet more Ro...</extract>
                     
 
                     
-                        <link>https://exeterobserver.org/2020/02/20/exeter-roman-remains-discovery-bus-station-leisure-centre-redevelopment-site-risk/</link>
+                        <link>http://localhost:3000/2020/02/20/exeter-roman-remains-discovery-bus-station-leisure-centre-redevelopment-site-risk/</link>
                     
 
                     
@@ -1130,7 +1130,7 @@ So it was not a great surprise to find yet more Ro...</extract>
                     
 
                     
-                        <guid isPermaLink="true">https://exeterobserver.org/2020/02/20/exeter-roman-remains-discovery-bus-station-leisure-centre-redevelopment-site-risk/</guid>
+                        <guid isPermaLink="true">http://localhost:3000/2020/02/20/exeter-roman-remains-discovery-bus-station-leisure-centre-redevelopment-site-risk/</guid>
                     
 
                 </item>
@@ -1159,7 +1159,7 @@ Luis Gonzalez said: “My five year...</extract>
                     
 
                     
-                        <link>https://exeterobserver.org/2020/02/06/exeter-central-library-childrens-rocking-horse-crowdfunding-appeal-jubilee-beauty/</link>
+                        <link>http://localhost:3000/2020/02/06/exeter-central-library-childrens-rocking-horse-crowdfunding-appeal-jubilee-beauty/</link>
                     
 
                     
@@ -1181,7 +1181,7 @@ Luis Gonzalez said: “My five year...</extract>
                     
 
                     
-                        <guid isPermaLink="true">https://exeterobserver.org/2020/02/06/exeter-central-library-childrens-rocking-horse-crowdfunding-appeal-jubilee-beauty/</guid>
+                        <guid isPermaLink="true">http://localhost:3000/2020/02/06/exeter-central-library-childrens-rocking-horse-crowdfunding-appeal-jubilee-beauty/</guid>
                     
 
                 </item>
@@ -1206,7 +1206,7 @@ The pilot has been developed by the city council in partnership with others incl
                     
 
                     
-                        <link>https://exeterobserver.org/2020/01/22/exeter-net-zero-carbon-housing-pilot-project-wonford-chestnut-avenue/</link>
+                        <link>http://localhost:3000/2020/01/22/exeter-net-zero-carbon-housing-pilot-project-wonford-chestnut-avenue/</link>
                     
 
                     
@@ -1236,7 +1236,7 @@ The pilot has been developed by the city council in partnership with others incl
                     
 
                     
-                        <guid isPermaLink="true">https://exeterobserver.org/2020/01/22/exeter-net-zero-carbon-housing-pilot-project-wonford-chestnut-avenue/</guid>
+                        <guid isPermaLink="true">http://localhost:3000/2020/01/22/exeter-net-zero-carbon-housing-pilot-project-wonford-chestnut-avenue/</guid>
                     
 
                 </item>
@@ -1263,7 +1263,7 @@ The delay also prevents the government from...</extract>
                     
 
                     
-                        <link>https://exeterobserver.org/2020/01/03/exeter-city-council-accounts-delayed-grant-thornton-auditors-local-government-finance-conservative-private-sector-outsourcing/</link>
+                        <link>http://localhost:3000/2020/01/03/exeter-city-council-accounts-delayed-grant-thornton-auditors-local-government-finance-conservative-private-sector-outsourcing/</link>
                     
 
                     
@@ -1291,7 +1291,7 @@ The delay also prevents the government from...</extract>
                     
 
                     
-                        <guid isPermaLink="true">https://exeterobserver.org/2020/01/03/exeter-city-council-accounts-delayed-grant-thornton-auditors-local-government-finance-conservative-private-sector-outsourcing/</guid>
+                        <guid isPermaLink="true">http://localhost:3000/2020/01/03/exeter-city-council-accounts-delayed-grant-thornton-auditors-local-government-finance-conservative-private-sector-outsourcing/</guid>
                     
 
                 </item>
@@ -1318,7 +1318,7 @@ The only South West seat that changed hands was Stroud, which has been marginal 
                     
 
                     
-                        <link>https://exeterobserver.org/2019/12/15/2019-parliamentary-elections-devon-results-analysis-varying-conservative-performance-labour-losses/</link>
+                        <link>http://localhost:3000/2019/12/15/2019-parliamentary-elections-devon-results-analysis-varying-conservative-performance-labour-losses/</link>
                     
 
                     
@@ -1360,7 +1360,7 @@ The only South West seat that changed hands was Stroud, which has been marginal 
                     
 
                     
-                        <guid isPermaLink="true">https://exeterobserver.org/2019/12/15/2019-parliamentary-elections-devon-results-analysis-varying-conservative-performance-labour-losses/</guid>
+                        <guid isPermaLink="true">http://localhost:3000/2019/12/15/2019-parliamentary-elections-devon-results-analysis-varying-conservative-performance-labour-losses/</guid>
                     
 
                 </item>
@@ -1389,7 +1389,7 @@ Labour’s Ivan Jordan finished second on this occasion with 1713 votes on a 31%
                     
 
                     
-                        <link>https://exeterobserver.org/2019/12/14/conservative-wins-exeter-topsham-byelection-reduced-vote-share/</link>
+                        <link>http://localhost:3000/2019/12/14/conservative-wins-exeter-topsham-byelection-reduced-vote-share/</link>
                     
 
                     
@@ -1413,7 +1413,7 @@ Labour’s Ivan Jordan finished second on this occasion with 1713 votes on a 31%
                     
 
                     
-                        <guid isPermaLink="true">https://exeterobserver.org/2019/12/14/conservative-wins-exeter-topsham-byelection-reduced-vote-share/</guid>
+                        <guid isPermaLink="true">http://localhost:3000/2019/12/14/conservative-wins-exeter-topsham-byelection-reduced-vote-share/</guid>
                     
 
                 </item>
@@ -1442,7 +1442,7 @@ Then last week’s MRP YouGov poll found that Claire Wright was the most l...</e
                     
 
                     
-                        <link>https://exeterobserver.org/2019/12/05/2019-east-devon-independent-claire-wright-unite-remain-voters-general-election-green-party-lib-dems/</link>
+                        <link>http://localhost:3000/2019/12/05/2019-east-devon-independent-claire-wright-unite-remain-voters-general-election-green-party-lib-dems/</link>
                     
 
                     
@@ -1472,7 +1472,7 @@ Then last week’s MRP YouGov poll found that Claire Wright was the most l...</e
                     
 
                     
-                        <guid isPermaLink="true">https://exeterobserver.org/2019/12/05/2019-east-devon-independent-claire-wright-unite-remain-voters-general-election-green-party-lib-dems/</guid>
+                        <guid isPermaLink="true">http://localhost:3000/2019/12/05/2019-east-devon-independent-claire-wright-unite-remain-voters-general-election-green-party-lib-dems/</guid>
                     
 
                 </item>
@@ -1496,7 +1496,7 @@ Then last week’s MRP YouGov poll found that Claire Wright was the most l...</e
                     
 
                     
-                        <link>https://exeterobserver.org/2019/11/30/exeter-climate-strikers-create-human-chain-around-county-hall/</link>
+                        <link>http://localhost:3000/2019/11/30/exeter-climate-strikers-create-human-chain-around-county-hall/</link>
                     
 
                     
@@ -1510,7 +1510,7 @@ Then last week’s MRP YouGov poll found that Claire Wright was the most l...</e
                     
 
                     
-                        <guid isPermaLink="true">https://exeterobserver.org/2019/11/30/exeter-climate-strikers-create-human-chain-around-county-hall/</guid>
+                        <guid isPermaLink="true">http://localhost:3000/2019/11/30/exeter-climate-strikers-create-human-chain-around-county-hall/</guid>
                     
 
                 </item>
@@ -1535,7 +1535,7 @@ Members of the University and College Union (UCU) began eight days of strike act
                     
 
                     
-                        <link>https://exeterobserver.org/2019/11/27/exeter-university-college-union-strike/</link>
+                        <link>http://localhost:3000/2019/11/27/exeter-university-college-union-strike/</link>
                     
 
                     
@@ -1563,7 +1563,7 @@ Members of the University and College Union (UCU) began eight days of strike act
                     
 
                     
-                        <guid isPermaLink="true">https://exeterobserver.org/2019/11/27/exeter-university-college-union-strike/</guid>
+                        <guid isPermaLink="true">http://localhost:3000/2019/11/27/exeter-university-college-union-strike/</guid>
                     
 
                 </item>
@@ -1588,7 +1588,7 @@ In May 2019 Country Bus replaced Stagecoach as the G service operator following 
                     
 
                     
-                        <link>https://exeterobserver.org/2019/11/25/integrated-public-transport-devon-county-council-country-bus-stagecoach-exeter-g-service/</link>
+                        <link>http://localhost:3000/2019/11/25/integrated-public-transport-devon-county-council-country-bus-stagecoach-exeter-g-service/</link>
                     
 
                     
@@ -1614,7 +1614,7 @@ In May 2019 Country Bus replaced Stagecoach as the G service operator following 
                     
 
                     
-                        <guid isPermaLink="true">https://exeterobserver.org/2019/11/25/integrated-public-transport-devon-county-council-country-bus-stagecoach-exeter-g-service/</guid>
+                        <guid isPermaLink="true">http://localhost:3000/2019/11/25/integrated-public-transport-devon-county-council-country-bus-stagecoach-exeter-g-service/</guid>
                     
 
                 </item>
@@ -1643,7 +1643,7 @@ In 2010 the Conservative/Liberal Democrat coalition government published its blu
                     
 
                     
-                        <link>https://exeterobserver.org/2019/11/12/heart-of-the-south-west-local-enterprise-partnership-local-industrial-strategy/</link>
+                        <link>http://localhost:3000/2019/11/12/heart-of-the-south-west-local-enterprise-partnership-local-industrial-strategy/</link>
                     
 
                     
@@ -1669,7 +1669,7 @@ In 2010 the Conservative/Liberal Democrat coalition government published its blu
                     
 
                     
-                        <guid isPermaLink="true">https://exeterobserver.org/2019/11/12/heart-of-the-south-west-local-enterprise-partnership-local-industrial-strategy/</guid>
+                        <guid isPermaLink="true">http://localhost:3000/2019/11/12/heart-of-the-south-west-local-enterprise-partnership-local-industrial-strategy/</guid>
                     
 
                 </item>
@@ -1696,7 +1696,7 @@ Labour secured a comfortable victory in the previous county council election in 
                     
 
                     
-                        <link>https://exeterobserver.org/2019/10/25/exeter-heavitree-whipton-barton-byelection-devon-county-council-labour-vote-share-collapse/</link>
+                        <link>http://localhost:3000/2019/10/25/exeter-heavitree-whipton-barton-byelection-devon-county-council-labour-vote-share-collapse/</link>
                     
 
                     
@@ -1718,7 +1718,7 @@ Labour secured a comfortable victory in the previous county council election in 
                     
 
                     
-                        <guid isPermaLink="true">https://exeterobserver.org/2019/10/25/exeter-heavitree-whipton-barton-byelection-devon-county-council-labour-vote-share-collapse/</guid>
+                        <guid isPermaLink="true">http://localhost:3000/2019/10/25/exeter-heavitree-whipton-barton-byelection-devon-county-council-labour-vote-share-collapse/</guid>
                     
 
                 </item>
@@ -1745,7 +1745,7 @@ Scrutiny committees were introduced as part of legislative reforms to local gove
                     
 
                     
-                        <link>https://exeterobserver.org/2019/10/09/exeter-city-council-reduces-scrutiny-decision-making/</link>
+                        <link>http://localhost:3000/2019/10/09/exeter-city-council-reduces-scrutiny-decision-making/</link>
                     
 
                     
@@ -1767,7 +1767,7 @@ Scrutiny committees were introduced as part of legislative reforms to local gove
                     
 
                     
-                        <guid isPermaLink="true">https://exeterobserver.org/2019/10/09/exeter-city-council-reduces-scrutiny-decision-making/</guid>
+                        <guid isPermaLink="true">http://localhost:3000/2019/10/09/exeter-city-council-reduces-scrutiny-decision-making/</guid>
                     
 
                 </item>
@@ -1791,7 +1791,7 @@ Scrutiny committees were introduced as part of legislative reforms to local gove
                     
 
                     
-                        <link>https://exeterobserver.org/2019/09/21/exeter-global-climate-strike-march-photo-gallery/</link>
+                        <link>http://localhost:3000/2019/09/21/exeter-global-climate-strike-march-photo-gallery/</link>
                     
 
                     
@@ -1805,7 +1805,7 @@ Scrutiny committees were introduced as part of legislative reforms to local gove
                     
 
                     
-                        <guid isPermaLink="true">https://exeterobserver.org/2019/09/21/exeter-global-climate-strike-march-photo-gallery/</guid>
+                        <guid isPermaLink="true">http://localhost:3000/2019/09/21/exeter-global-climate-strike-march-photo-gallery/</guid>
                     
 
                 </item>
@@ -1834,7 +1834,7 @@ It focusses on the interdependence of cli...</extract>
                     
 
                     
-                        <link>https://exeterobserver.org/2019/09/20/exeter-youth-climate-strikers-launch-green-new-deal-devon/</link>
+                        <link>http://localhost:3000/2019/09/20/exeter-youth-climate-strikers-launch-green-new-deal-devon/</link>
                     
 
                     
@@ -1856,7 +1856,7 @@ It focusses on the interdependence of cli...</extract>
                     
 
                     
-                        <guid isPermaLink="true">https://exeterobserver.org/2019/09/20/exeter-youth-climate-strikers-launch-green-new-deal-devon/</guid>
+                        <guid isPermaLink="true">http://localhost:3000/2019/09/20/exeter-youth-climate-strikers-launch-green-new-deal-devon/</guid>
                     
 
                 </item>
@@ -1885,7 +1885,7 @@ A samb...</extract>
                     
 
                     
-                        <link>https://exeterobserver.org/2019/09/20/exeter-global-climate-strike-climate-crisis-green-new-deal/</link>
+                        <link>http://localhost:3000/2019/09/20/exeter-global-climate-strike-climate-crisis-green-new-deal/</link>
                     
 
                     
@@ -1909,7 +1909,7 @@ A samb...</extract>
                     
 
                     
-                        <guid isPermaLink="true">https://exeterobserver.org/2019/09/20/exeter-global-climate-strike-climate-crisis-green-new-deal/</guid>
+                        <guid isPermaLink="true">http://localhost:3000/2019/09/20/exeter-global-climate-strike-climate-crisis-green-new-deal/</guid>
                     
 
                 </item>
@@ -1942,7 +1942,7 @@ The figures reveal that only 1275 of the university’s 3520 acade...</extract>
                     
 
                     
-                        <link>https://exeterobserver.org/2019/09/17/exeter-university-college-union-launches-anti-casualisation-campaign/</link>
+                        <link>http://localhost:3000/2019/09/17/exeter-university-college-union-launches-anti-casualisation-campaign/</link>
                     
 
                     
@@ -1968,7 +1968,7 @@ The figures reveal that only 1275 of the university’s 3520 acade...</extract>
                     
 
                     
-                        <guid isPermaLink="true">https://exeterobserver.org/2019/09/17/exeter-university-college-union-launches-anti-casualisation-campaign/</guid>
+                        <guid isPermaLink="true">http://localhost:3000/2019/09/17/exeter-university-college-union-launches-anti-casualisation-campaign/</guid>
                     
 
                 </item>
@@ -1992,7 +1992,7 @@ The figures reveal that only 1275 of the university’s 3520 acade...</extract>
                     
 
                     
-                        <link>https://exeterobserver.org/2019/09/14/exeter-extinction-rebellion-wave-of-water-fashion-industry-march-photo-gallery/</link>
+                        <link>http://localhost:3000/2019/09/14/exeter-extinction-rebellion-wave-of-water-fashion-industry-march-photo-gallery/</link>
                     
 
                     
@@ -2006,7 +2006,7 @@ The figures reveal that only 1275 of the university’s 3520 acade...</extract>
                     
 
                     
-                        <guid isPermaLink="true">https://exeterobserver.org/2019/09/14/exeter-extinction-rebellion-wave-of-water-fashion-industry-march-photo-gallery/</guid>
+                        <guid isPermaLink="true">http://localhost:3000/2019/09/14/exeter-extinction-rebellion-wave-of-water-fashion-industry-march-photo-gallery/</guid>
                     
 
                 </item>
@@ -2033,7 +2033,7 @@ South West MEP Caroline Voaden argued that the European Par...</extract>
                     
 
                     
-                        <link>https://exeterobserver.org/2019/09/03/exeter-anti-government-protest-prorogation-parliament-brexit-no-deal/</link>
+                        <link>http://localhost:3000/2019/09/03/exeter-anti-government-protest-prorogation-parliament-brexit-no-deal/</link>
                     
 
                     
@@ -2057,7 +2057,7 @@ South West MEP Caroline Voaden argued that the European Par...</extract>
                     
 
                     
-                        <guid isPermaLink="true">https://exeterobserver.org/2019/09/03/exeter-anti-government-protest-prorogation-parliament-brexit-no-deal/</guid>
+                        <guid isPermaLink="true">http://localhost:3000/2019/09/03/exeter-anti-government-protest-prorogation-parliament-brexit-no-deal/</guid>
                     
 
                 </item>
@@ -2082,7 +2082,7 @@ Pall bearers carrying a coffin representing the death of the natural world were 
                     
 
                     
-                        <link>https://exeterobserver.org/2019/07/30/exeter-extinction-rebellion-funeral-march-climate-crisis-wildlife-loss/</link>
+                        <link>http://localhost:3000/2019/07/30/exeter-extinction-rebellion-funeral-march-climate-crisis-wildlife-loss/</link>
                     
 
                     
@@ -2104,7 +2104,7 @@ Pall bearers carrying a coffin representing the death of the natural world were 
                     
 
                     
-                        <guid isPermaLink="true">https://exeterobserver.org/2019/07/30/exeter-extinction-rebellion-funeral-march-climate-crisis-wildlife-loss/</guid>
+                        <guid isPermaLink="true">http://localhost:3000/2019/07/30/exeter-extinction-rebellion-funeral-march-climate-crisis-wildlife-loss/</guid>
                     
 
                 </item>
@@ -2128,7 +2128,7 @@ Pall bearers carrying a coffin representing the death of the natural world were 
                     
 
                     
-                        <link>https://exeterobserver.org/2019/07/27/exeter-extinction-rebellion-funeral-march-photo-gallery/</link>
+                        <link>http://localhost:3000/2019/07/27/exeter-extinction-rebellion-funeral-march-photo-gallery/</link>
                     
 
                     
@@ -2142,7 +2142,7 @@ Pall bearers carrying a coffin representing the death of the natural world were 
                     
 
                     
-                        <guid isPermaLink="true">https://exeterobserver.org/2019/07/27/exeter-extinction-rebellion-funeral-march-photo-gallery/</guid>
+                        <guid isPermaLink="true">http://localhost:3000/2019/07/27/exeter-extinction-rebellion-funeral-march-photo-gallery/</guid>
                     
 
                 </item>
@@ -2167,7 +2167,7 @@ On 27 June the council’s Corporate Services Scrutiny Committee reviewed spendi
                     
 
                     
-                        <link>https://exeterobserver.org/2019/07/08/exeter-could-do-better-council-budget-cuts-public-toilet-closures/</link>
+                        <link>http://localhost:3000/2019/07/08/exeter-could-do-better-council-budget-cuts-public-toilet-closures/</link>
                     
 
                     
@@ -2191,7 +2191,7 @@ On 27 June the council’s Corporate Services Scrutiny Committee reviewed spendi
                     
 
                     
-                        <guid isPermaLink="true">https://exeterobserver.org/2019/07/08/exeter-could-do-better-council-budget-cuts-public-toilet-closures/</guid>
+                        <guid isPermaLink="true">http://localhost:3000/2019/07/08/exeter-could-do-better-council-budget-cuts-public-toilet-closures/</guid>
                     
 
                 </item>
@@ -2216,7 +2216,7 @@ Following the Exeter co...</extract>
                     
 
                     
-                        <link>https://exeterobserver.org/2019/06/23/climate-crisis-exeter-devon-carbon-reduction-ultra-low-emission-clean-air-zones-parking-levy-living-streets/</link>
+                        <link>http://localhost:3000/2019/06/23/climate-crisis-exeter-devon-carbon-reduction-ultra-low-emission-clean-air-zones-parking-levy-living-streets/</link>
                     
 
                     
@@ -2248,7 +2248,7 @@ Following the Exeter co...</extract>
                     
 
                     
-                        <guid isPermaLink="true">https://exeterobserver.org/2019/06/23/climate-crisis-exeter-devon-carbon-reduction-ultra-low-emission-clean-air-zones-parking-levy-living-streets/</guid>
+                        <guid isPermaLink="true">http://localhost:3000/2019/06/23/climate-crisis-exeter-devon-carbon-reduction-ultra-low-emission-clean-air-zones-parking-levy-living-streets/</guid>
                     
 
                 </item>
@@ -2273,7 +2273,7 @@ There is significant public interest not only in what services will be reduced, 
                     
 
                     
-                        <link>https://exeterobserver.org/2019/06/11/exeter-budget-cuts-public-toilet-closures/</link>
+                        <link>http://localhost:3000/2019/06/11/exeter-budget-cuts-public-toilet-closures/</link>
                     
 
                     
@@ -2297,7 +2297,7 @@ There is significant public interest not only in what services will be reduced, 
                     
 
                     
-                        <guid isPermaLink="true">https://exeterobserver.org/2019/06/11/exeter-budget-cuts-public-toilet-closures/</guid>
+                        <guid isPermaLink="true">http://localhost:3000/2019/06/11/exeter-budget-cuts-public-toilet-closures/</guid>
                     
 
                 </item>
@@ -2322,7 +2322,7 @@ Five figures approach the statue in line, dressed in black utility-style clothin
                     
 
                     
-                        <link>https://exeterobserver.org/2019/06/07/preston-street-union-serge-surge-exeter-city-walls-woollen-trade-ramm-commission/</link>
+                        <link>http://localhost:3000/2019/06/07/preston-street-union-serge-surge-exeter-city-walls-woollen-trade-ramm-commission/</link>
                     
 
                     
@@ -2342,7 +2342,7 @@ Five figures approach the statue in line, dressed in black utility-style clothin
                     
 
                     
-                        <guid isPermaLink="true">https://exeterobserver.org/2019/06/07/preston-street-union-serge-surge-exeter-city-walls-woollen-trade-ramm-commission/</guid>
+                        <guid isPermaLink="true">http://localhost:3000/2019/06/07/preston-street-union-serge-surge-exeter-city-walls-woollen-trade-ramm-commission/</guid>
                     
 
                 </item>
@@ -2367,7 +2367,7 @@ We occupied a platform beside the council’s offices. Our spontaneous speeches.
                     
 
                     
-                        <link>https://exeterobserver.org/2019/06/06/exeter-youth-strike-for-climate-floodgates-open/</link>
+                        <link>http://localhost:3000/2019/06/06/exeter-youth-strike-for-climate-floodgates-open/</link>
                     
 
                     
@@ -2391,7 +2391,7 @@ We occupied a platform beside the council’s offices. Our spontaneous speeches.
                     
 
                     
-                        <guid isPermaLink="true">https://exeterobserver.org/2019/06/06/exeter-youth-strike-for-climate-floodgates-open/</guid>
+                        <guid isPermaLink="true">http://localhost:3000/2019/06/06/exeter-youth-strike-for-climate-floodgates-open/</guid>
                     
 
                 </item>
@@ -2416,7 +2416,7 @@ On Thursday 6 June at Exeter’s Barnfield Theatre The Jambassadors will be digg
                     
 
                     
-                        <link>https://exeterobserver.org/2019/05/30/exeter-college-music-academy-jambassadors-jazz-toast-barnfield-theatre/</link>
+                        <link>http://localhost:3000/2019/05/30/exeter-college-music-academy-jambassadors-jazz-toast-barnfield-theatre/</link>
                     
 
                     
@@ -2436,7 +2436,7 @@ On Thursday 6 June at Exeter’s Barnfield Theatre The Jambassadors will be digg
                     
 
                     
-                        <guid isPermaLink="true">https://exeterobserver.org/2019/05/30/exeter-college-music-academy-jambassadors-jazz-toast-barnfield-theatre/</guid>
+                        <guid isPermaLink="true">http://localhost:3000/2019/05/30/exeter-college-music-academy-jambassadors-jazz-toast-barnfield-theatre/</guid>
                     
 
                 </item>
@@ -2461,7 +2461,7 @@ An air of quiet concentration falls over the group gathered for a tour of RAMM�
                     
 
                     
-                        <link>https://exeterobserver.org/2019/05/24/extreme-imagination-inside-the-minds-eye-aphantasia-exeter-ramm/</link>
+                        <link>http://localhost:3000/2019/05/24/extreme-imagination-inside-the-minds-eye-aphantasia-exeter-ramm/</link>
                     
 
                     
@@ -2481,7 +2481,7 @@ An air of quiet concentration falls over the group gathered for a tour of RAMM�
                     
 
                     
-                        <guid isPermaLink="true">https://exeterobserver.org/2019/05/24/extreme-imagination-inside-the-minds-eye-aphantasia-exeter-ramm/</guid>
+                        <guid isPermaLink="true">http://localhost:3000/2019/05/24/extreme-imagination-inside-the-minds-eye-aphantasia-exeter-ramm/</guid>
                     
 
                 </item>
@@ -2506,7 +2506,7 @@ The Green Party is often characterised by its commitment to tackling climate cha
                     
 
                     
-                        <link>https://exeterobserver.org/2019/05/21/molly-scott-cato-eu-elections-climate-change-brexit-european-parliament/</link>
+                        <link>http://localhost:3000/2019/05/21/molly-scott-cato-eu-elections-climate-change-brexit-european-parliament/</link>
                     
 
                     
@@ -2530,7 +2530,7 @@ The Green Party is often characterised by its commitment to tackling climate cha
                     
 
                     
-                        <guid isPermaLink="true">https://exeterobserver.org/2019/05/21/molly-scott-cato-eu-elections-climate-change-brexit-european-parliament/</guid>
+                        <guid isPermaLink="true">http://localhost:3000/2019/05/21/molly-scott-cato-eu-elections-climate-change-brexit-european-parliament/</guid>
                     
 
                 </item>
@@ -2555,7 +2555,7 @@ This is just one way in which this Exeter College student production has twisted
                     
 
                     
-                        <link>https://exeterobserver.org/2019/05/17/exeter-college-midsummer-nights-dream-barnfield-theatre/</link>
+                        <link>http://localhost:3000/2019/05/17/exeter-college-midsummer-nights-dream-barnfield-theatre/</link>
                     
 
                     
@@ -2577,7 +2577,7 @@ This is just one way in which this Exeter College student production has twisted
                     
 
                     
-                        <guid isPermaLink="true">https://exeterobserver.org/2019/05/17/exeter-college-midsummer-nights-dream-barnfield-theatre/</guid>
+                        <guid isPermaLink="true">http://localhost:3000/2019/05/17/exeter-college-midsummer-nights-dream-barnfield-theatre/</guid>
                     
 
                 </item>
@@ -2602,7 +2602,7 @@ The occupants of an historic house built during the reign of Elizabeth I first l
                     
 
                     
-                        <link>https://exeterobserver.org/2019/05/17/mount-radford-lawn-development-proposals-conflict-with-community-vision/</link>
+                        <link>http://localhost:3000/2019/05/17/mount-radford-lawn-development-proposals-conflict-with-community-vision/</link>
                     
 
                     
@@ -2626,7 +2626,7 @@ The occupants of an historic house built during the reign of Elizabeth I first l
                     
 
                     
-                        <guid isPermaLink="true">https://exeterobserver.org/2019/05/17/mount-radford-lawn-development-proposals-conflict-with-community-vision/</guid>
+                        <guid isPermaLink="true">http://localhost:3000/2019/05/17/mount-radford-lawn-development-proposals-conflict-with-community-vision/</guid>
                     
 
                 </item>
@@ -2655,7 +2655,7 @@ The trail is the first of its kind for the museum. It invites visitors to consid
                     
 
                     
-                        <link>https://exeterobserver.org/2019/05/11/exeter-ramm-rainbow-trail-lgbtqia-exhibition-pride/</link>
+                        <link>http://localhost:3000/2019/05/11/exeter-ramm-rainbow-trail-lgbtqia-exhibition-pride/</link>
                     
 
                     
@@ -2677,7 +2677,7 @@ The trail is the first of its kind for the museum. It invites visitors to consid
                     
 
                     
-                        <guid isPermaLink="true">https://exeterobserver.org/2019/05/11/exeter-ramm-rainbow-trail-lgbtqia-exhibition-pride/</guid>
+                        <guid isPermaLink="true">http://localhost:3000/2019/05/11/exeter-ramm-rainbow-trail-lgbtqia-exhibition-pride/</guid>
                     
 
                 </item>
@@ -2704,7 +2704,7 @@ There are ongoing controversies around development decisions taken by Exeter’s
                     
 
                     
-                        <link>https://exeterobserver.org/2019/05/03/exeter-labour-loses-city-centre-wards-local-elections/</link>
+                        <link>http://localhost:3000/2019/05/03/exeter-labour-loses-city-centre-wards-local-elections/</link>
                     
 
                     
@@ -2730,7 +2730,7 @@ There are ongoing controversies around development decisions taken by Exeter’s
                     
 
                     
-                        <guid isPermaLink="true">https://exeterobserver.org/2019/05/03/exeter-labour-loses-city-centre-wards-local-elections/</guid>
+                        <guid isPermaLink="true">http://localhost:3000/2019/05/03/exeter-labour-loses-city-centre-wards-local-elections/</guid>
                     
 
                 </item>
@@ -2755,7 +2755,7 @@ Despite presenting several popular petitions, demonstrating at the council’s..
                     
 
                     
-                        <link>https://exeterobserver.org/2019/04/26/exeter-local-resident-stands-independent-candidate-exeter-elections/</link>
+                        <link>http://localhost:3000/2019/04/26/exeter-local-resident-stands-independent-candidate-exeter-elections/</link>
                     
 
                     
@@ -2783,7 +2783,7 @@ Despite presenting several popular petitions, demonstrating at the council’s..
                     
 
                     
-                        <guid isPermaLink="true">https://exeterobserver.org/2019/04/26/exeter-local-resident-stands-independent-candidate-exeter-elections/</guid>
+                        <guid isPermaLink="true">http://localhost:3000/2019/04/26/exeter-local-resident-stands-independent-candidate-exeter-elections/</guid>
                     
 
                 </item>
@@ -2810,7 +2810,7 @@ It also led to an independent candidate from the Save our Green Space campaign s
                     
 
                     
-                        <link>https://exeterobserver.org/2019/04/26/exeter-clifton-hill-sports-centre-background/</link>
+                        <link>http://localhost:3000/2019/04/26/exeter-clifton-hill-sports-centre-background/</link>
                     
 
                     
@@ -2832,7 +2832,7 @@ It also led to an independent candidate from the Save our Green Space campaign s
                     
 
                     
-                        <guid isPermaLink="true">https://exeterobserver.org/2019/04/26/exeter-clifton-hill-sports-centre-background/</guid>
+                        <guid isPermaLink="true">http://localhost:3000/2019/04/26/exeter-clifton-hill-sports-centre-background/</guid>
                     
 
                 </item>
@@ -2857,7 +2857,7 @@ Getting Rumsfeld’s statement word perfect is challenging, but it nevertheless 
                     
 
                     
-                        <link>https://exeterobserver.org/2019/04/19/exeter-city-council-information-transparency-democracy/</link>
+                        <link>http://localhost:3000/2019/04/19/exeter-city-council-information-transparency-democracy/</link>
                     
 
                     
@@ -2881,7 +2881,7 @@ Getting Rumsfeld’s statement word perfect is challenging, but it nevertheless 
                     
 
                     
-                        <guid isPermaLink="true">https://exeterobserver.org/2019/04/19/exeter-city-council-information-transparency-democracy/</guid>
+                        <guid isPermaLink="true">http://localhost:3000/2019/04/19/exeter-city-council-information-transparency-democracy/</guid>
                     
 
                 </item>
@@ -2904,7 +2904,7 @@ Getting Rumsfeld’s statement word perfect is challenging, but it nevertheless 
                     
 
                     
-                        <link>https://exeterobserver.org/2019/04/05/greater-exeter-strategic-plan-update-delivery/</link>
+                        <link>http://localhost:3000/2019/04/05/greater-exeter-strategic-plan-update-delivery/</link>
                     
 
                     
@@ -2926,7 +2926,7 @@ Getting Rumsfeld’s statement word perfect is challenging, but it nevertheless 
                     
 
                     
-                        <guid isPermaLink="true">https://exeterobserver.org/2019/04/05/greater-exeter-strategic-plan-update-delivery/</guid>
+                        <guid isPermaLink="true">http://localhost:3000/2019/04/05/greater-exeter-strategic-plan-update-delivery/</guid>
                     
 
                 </item>
@@ -2951,7 +2951,7 @@ They set up stall on the High Street then set off in a colourful procession arou
                     
 
                     
-                        <link>https://exeterobserver.org/2019/03/30/extinction-rebellion-climate-emergency-protest-exeter-guildhall-shopping-centre/</link>
+                        <link>http://localhost:3000/2019/03/30/extinction-rebellion-climate-emergency-protest-exeter-guildhall-shopping-centre/</link>
                     
 
                     
@@ -2971,7 +2971,7 @@ They set up stall on the High Street then set off in a colourful procession arou
                     
 
                     
-                        <guid isPermaLink="true">https://exeterobserver.org/2019/03/30/extinction-rebellion-climate-emergency-protest-exeter-guildhall-shopping-centre/</guid>
+                        <guid isPermaLink="true">http://localhost:3000/2019/03/30/extinction-rebellion-climate-emergency-protest-exeter-guildhall-shopping-centre/</guid>
                     
 
                 </item>
@@ -2996,7 +2996,7 @@ The set resembles a sort of pop-concert panopticon. Red velvet rope loops laid o
                     
 
                     
-                        <link>https://exeterobserver.org/2019/03/16/kaleider-mikrofest-our-dancing-shadows-exeter-princesshay/</link>
+                        <link>http://localhost:3000/2019/03/16/kaleider-mikrofest-our-dancing-shadows-exeter-princesshay/</link>
                     
 
                     
@@ -3014,7 +3014,7 @@ The set resembles a sort of pop-concert panopticon. Red velvet rope loops laid o
                     
 
                     
-                        <guid isPermaLink="true">https://exeterobserver.org/2019/03/16/kaleider-mikrofest-our-dancing-shadows-exeter-princesshay/</guid>
+                        <guid isPermaLink="true">http://localhost:3000/2019/03/16/kaleider-mikrofest-our-dancing-shadows-exeter-princesshay/</guid>
                     
 
                 </item>
@@ -3039,7 +3039,7 @@ Exeter St James c...</extract>
                     
 
                     
-                        <link>https://exeterobserver.org/2019/03/08/exeter-st-james-regeneration/</link>
+                        <link>http://localhost:3000/2019/03/08/exeter-st-james-regeneration/</link>
                     
 
                     
@@ -3069,7 +3069,7 @@ Exeter St James c...</extract>
                     
 
                     
-                        <guid isPermaLink="true">https://exeterobserver.org/2019/03/08/exeter-st-james-regeneration/</guid>
+                        <guid isPermaLink="true">http://localhost:3000/2019/03/08/exeter-st-james-regeneration/</guid>
                     
 
                 </item>
@@ -3092,7 +3092,7 @@ Exeter St James c...</extract>
                     
 
                     
-                        <link>https://exeterobserver.org/2019/03/01/streets-are-for-people-not-cars/</link>
+                        <link>http://localhost:3000/2019/03/01/streets-are-for-people-not-cars/</link>
                     
 
                     
@@ -3120,7 +3120,7 @@ Exeter St James c...</extract>
                     
 
                     
-                        <guid isPermaLink="true">https://exeterobserver.org/2019/03/01/streets-are-for-people-not-cars/</guid>
+                        <guid isPermaLink="true">http://localhost:3000/2019/03/01/streets-are-for-people-not-cars/</guid>
                     
 
                 </item>
