@@ -5,7 +5,7 @@
         <loc>https://exeterobserver.org/</loc>
     
         
-        <lastmod>2021-04-22T14:56:20.780Z</lastmod>
+        <lastmod>2021-04-22T15:02:28.769Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -19,63 +19,7 @@
         <loc>https://exeterobserver.org/about/</loc>
     
         
-        <lastmod>2021-04-15T14:56:20.780Z</lastmod>
-    
-        
-        <changefreq>weekly</changefreq>
-    
-        
-        <priority>0.6</priority>
-    
-    </url>
-    <url>
-        
-        <loc>https://exeterobserver.org/contributors/</loc>
-    
-        
-        <lastmod>2021-04-15T14:56:20.780Z</lastmod>
-    
-        
-        <changefreq>weekly</changefreq>
-    
-        
-        <priority>0.6</priority>
-    
-    </url>
-    <url>
-        
-        <loc>https://exeterobserver.org/exeter-observer-limited/</loc>
-    
-        
-        <lastmod>2021-04-15T14:56:20.780Z</lastmod>
-    
-        
-        <changefreq>weekly</changefreq>
-    
-        
-        <priority>0.6</priority>
-    
-    </url>
-    <url>
-        
-        <loc>https://exeterobserver.org/join/</loc>
-    
-        
-        <lastmod>2021-04-15T14:56:20.780Z</lastmod>
-    
-        
-        <changefreq>weekly</changefreq>
-    
-        
-        <priority>0.6</priority>
-    
-    </url>
-    <url>
-        
-        <loc>https://exeterobserver.org/membership/</loc>
-    
-        
-        <lastmod>2021-04-15T14:56:20.780Z</lastmod>
+        <lastmod>2021-04-15T15:02:28.769Z</lastmod>
     
         
         <changefreq>weekly</changefreq>
@@ -89,7 +33,7 @@
         <loc>https://exeterobserver.org/contact/</loc>
     
         
-        <lastmod>2021-04-15T14:56:20.780Z</lastmod>
+        <lastmod>2021-04-15T15:02:28.769Z</lastmod>
     
         
         <changefreq>weekly</changefreq>
@@ -100,24 +44,10 @@
     </url>
     <url>
         
-        <loc>https://exeterobserver.org/subscribe/</loc>
+        <loc>https://exeterobserver.org/exeter-observer-limited/</loc>
     
         
-        <lastmod>2021-04-15T14:56:20.780Z</lastmod>
-    
-        
-        <changefreq>weekly</changefreq>
-    
-        
-        <priority>0.6</priority>
-    
-    </url>
-    <url>
-        
-        <loc>https://exeterobserver.org/support/</loc>
-    
-        
-        <lastmod>2021-04-15T14:56:20.780Z</lastmod>
+        <lastmod>2021-04-15T15:02:28.769Z</lastmod>
     
         
         <changefreq>weekly</changefreq>
@@ -128,10 +58,38 @@
     </url>
     <url>
         
-        <loc>https://exeterobserver.org/topics/</loc>
+        <loc>https://exeterobserver.org/contributors/</loc>
     
         
-        <lastmod>2021-04-15T14:56:20.780Z</lastmod>
+        <lastmod>2021-04-15T15:02:28.769Z</lastmod>
+    
+        
+        <changefreq>weekly</changefreq>
+    
+        
+        <priority>0.6</priority>
+    
+    </url>
+    <url>
+        
+        <loc>https://exeterobserver.org/join/</loc>
+    
+        
+        <lastmod>2021-04-15T15:02:28.769Z</lastmod>
+    
+        
+        <changefreq>weekly</changefreq>
+    
+        
+        <priority>0.6</priority>
+    
+    </url>
+    <url>
+        
+        <loc>https://exeterobserver.org/membership/</loc>
+    
+        
+        <lastmod>2021-04-15T15:02:28.769Z</lastmod>
     
         
         <changefreq>weekly</changefreq>
@@ -145,7 +103,7 @@
         <loc>https://exeterobserver.org/stories/</loc>
     
         
-        <lastmod>2021-04-15T14:56:20.780Z</lastmod>
+        <lastmod>2021-04-15T15:02:28.769Z</lastmod>
     
         
         <changefreq>weekly</changefreq>
@@ -156,10 +114,52 @@
     </url>
     <url>
         
-        <loc>https://exeterobserver.org/contributors/claire-wright/</loc>
+        <loc>https://exeterobserver.org/support/</loc>
     
         
-        <lastmod>2021-04-15T14:56:20.780Z</lastmod>
+        <lastmod>2021-04-15T15:02:28.769Z</lastmod>
+    
+        
+        <changefreq>weekly</changefreq>
+    
+        
+        <priority>0.6</priority>
+    
+    </url>
+    <url>
+        
+        <loc>https://exeterobserver.org/topics/</loc>
+    
+        
+        <lastmod>2021-04-15T15:02:28.769Z</lastmod>
+    
+        
+        <changefreq>weekly</changefreq>
+    
+        
+        <priority>0.6</priority>
+    
+    </url>
+    <url>
+        
+        <loc>https://exeterobserver.org/subscribe/</loc>
+    
+        
+        <lastmod>2021-04-15T15:02:28.769Z</lastmod>
+    
+        
+        <changefreq>weekly</changefreq>
+    
+        
+        <priority>0.6</priority>
+    
+    </url>
+    <url>
+        
+        <loc>https://exeterobserver.org/contributors/chris-musgrave/</loc>
+    
+        
+        <lastmod>2021-04-15T15:02:28.769Z</lastmod>
     
         
         <changefreq>weekly</changefreq>
@@ -170,10 +170,10 @@
     </url>
     <url>
         
-        <loc>https://exeterobserver.org/contributors/chris-musgrave/</loc>
+        <loc>https://exeterobserver.org/contributors/claire-wright/</loc>
     
         
-        <lastmod>2021-04-15T14:56:20.780Z</lastmod>
+        <lastmod>2021-04-15T15:02:28.769Z</lastmod>
     
         
         <changefreq>weekly</changefreq>
@@ -187,7 +187,7 @@
         <loc>https://exeterobserver.org/contributors/eleanor-andrade-may/</loc>
     
         
-        <lastmod>2021-04-15T14:56:20.780Z</lastmod>
+        <lastmod>2021-04-15T15:02:28.769Z</lastmod>
     
         
         <changefreq>weekly</changefreq>
@@ -201,7 +201,7 @@
         <loc>https://exeterobserver.org/contributors/daniel-clark/</loc>
     
         
-        <lastmod>2021-04-15T14:56:20.780Z</lastmod>
+        <lastmod>2021-04-15T15:02:28.769Z</lastmod>
     
         
         <changefreq>weekly</changefreq>
@@ -215,7 +215,7 @@
         <loc>https://exeterobserver.org/contributors/freya-garry/</loc>
     
         
-        <lastmod>2021-04-15T14:56:20.780Z</lastmod>
+        <lastmod>2021-04-15T15:02:28.769Z</lastmod>
     
         
         <changefreq>weekly</changefreq>
@@ -229,7 +229,7 @@
         <loc>https://exeterobserver.org/contributors/laura-davies/</loc>
     
         
-        <lastmod>2021-04-15T14:56:20.780Z</lastmod>
+        <lastmod>2021-04-15T15:02:28.769Z</lastmod>
     
         
         <changefreq>weekly</changefreq>
@@ -243,7 +243,7 @@
         <loc>https://exeterobserver.org/contributors/leigh-curtis/</loc>
     
         
-        <lastmod>2021-04-15T14:56:20.780Z</lastmod>
+        <lastmod>2021-04-15T15:02:28.769Z</lastmod>
     
         
         <changefreq>weekly</changefreq>
@@ -257,7 +257,7 @@
         <loc>https://exeterobserver.org/contributors/martin-redfern/</loc>
     
         
-        <lastmod>2021-04-15T14:56:20.780Z</lastmod>
+        <lastmod>2021-04-15T15:02:28.769Z</lastmod>
     
         
         <changefreq>weekly</changefreq>
@@ -271,7 +271,7 @@
         <loc>https://exeterobserver.org/contributors/mike-myshko/</loc>
     
         
-        <lastmod>2021-04-15T14:56:20.780Z</lastmod>
+        <lastmod>2021-04-15T15:02:28.769Z</lastmod>
     
         
         <changefreq>weekly</changefreq>
@@ -285,7 +285,7 @@
         <loc>https://exeterobserver.org/contributors/moragh-mason/</loc>
     
         
-        <lastmod>2021-04-15T14:56:20.780Z</lastmod>
+        <lastmod>2021-04-15T15:02:28.769Z</lastmod>
     
         
         <changefreq>weekly</changefreq>
@@ -299,7 +299,7 @@
         <loc>https://exeterobserver.org/contributors/naomi-parkinson/</loc>
     
         
-        <lastmod>2021-04-15T14:56:20.780Z</lastmod>
+        <lastmod>2021-04-15T15:02:28.769Z</lastmod>
     
         
         <changefreq>weekly</changefreq>
@@ -313,7 +313,7 @@
         <loc>https://exeterobserver.org/contributors/peter-cleasby/</loc>
     
         
-        <lastmod>2021-04-15T14:56:20.780Z</lastmod>
+        <lastmod>2021-04-15T15:02:28.769Z</lastmod>
     
         
         <changefreq>weekly</changefreq>
@@ -327,7 +327,7 @@
         <loc>https://exeterobserver.org/contributors/piers-forster/</loc>
     
         
-        <lastmod>2021-04-15T14:56:20.780Z</lastmod>
+        <lastmod>2021-04-15T15:02:28.769Z</lastmod>
     
         
         <changefreq>weekly</changefreq>
@@ -341,7 +341,7 @@
         <loc>https://exeterobserver.org/contributors/roz-harding/</loc>
     
         
-        <lastmod>2021-04-15T14:56:20.780Z</lastmod>
+        <lastmod>2021-04-15T15:02:28.769Z</lastmod>
     
         
         <changefreq>weekly</changefreq>
@@ -355,7 +355,7 @@
         <loc>https://exeterobserver.org/contributors/sophie-sleeman/</loc>
     
         
-        <lastmod>2021-04-15T14:56:20.780Z</lastmod>
+        <lastmod>2021-04-15T15:02:28.769Z</lastmod>
     
         
         <changefreq>weekly</changefreq>
@@ -369,7 +369,7 @@
         <loc>https://exeterobserver.org/contributors/vanessa-miles/</loc>
     
         
-        <lastmod>2021-04-15T14:56:20.780Z</lastmod>
+        <lastmod>2021-04-15T15:02:28.769Z</lastmod>
     
         
         <changefreq>weekly</changefreq>
@@ -383,7 +383,7 @@
         <loc>https://exeterobserver.org/guides/contribute-to-exeter-observer/</loc>
     
         
-        <lastmod>2021-04-15T14:56:20.780Z</lastmod>
+        <lastmod>2021-04-15T15:02:28.769Z</lastmod>
     
         
         <changefreq>weekly</changefreq>
@@ -397,21 +397,7 @@
         <loc>https://exeterobserver.org/guides/data-protection-and-media-law/</loc>
     
         
-        <lastmod>2021-04-15T14:56:20.780Z</lastmod>
-    
-        
-        <changefreq>weekly</changefreq>
-    
-        
-        <priority>0.4</priority>
-    
-    </url>
-    <url>
-        
-        <loc>https://exeterobserver.org/guides/digital-information-communications-security/</loc>
-    
-        
-        <lastmod>2021-04-15T14:56:20.780Z</lastmod>
+        <lastmod>2021-04-15T15:02:28.769Z</lastmod>
     
         
         <changefreq>weekly</changefreq>
@@ -425,7 +411,21 @@
         <loc>https://exeterobserver.org/guides/feature-writing/</loc>
     
         
-        <lastmod>2021-04-15T14:56:20.780Z</lastmod>
+        <lastmod>2021-04-15T15:02:28.769Z</lastmod>
+    
+        
+        <changefreq>weekly</changefreq>
+    
+        
+        <priority>0.4</priority>
+    
+    </url>
+    <url>
+        
+        <loc>https://exeterobserver.org/guides/digital-information-communications-security/</loc>
+    
+        
+        <lastmod>2021-04-15T15:02:28.769Z</lastmod>
     
         
         <changefreq>weekly</changefreq>
@@ -439,7 +439,7 @@
         <loc>https://exeterobserver.org/guides/multimedia-collateral-and-copyright/</loc>
     
         
-        <lastmod>2021-04-15T14:56:20.780Z</lastmod>
+        <lastmod>2021-04-15T15:02:28.769Z</lastmod>
     
         
         <changefreq>weekly</changefreq>
@@ -453,7 +453,7 @@
         <loc>https://exeterobserver.org/guides/local-government-transparency-and-information-access-rights/</loc>
     
         
-        <lastmod>2021-04-15T14:56:20.780Z</lastmod>
+        <lastmod>2021-04-15T15:02:28.769Z</lastmod>
     
         
         <changefreq>weekly</changefreq>
@@ -467,7 +467,7 @@
         <loc>https://exeterobserver.org/guides/news-values/</loc>
     
         
-        <lastmod>2021-04-15T14:56:20.780Z</lastmod>
+        <lastmod>2021-04-15T15:02:28.769Z</lastmod>
     
         
         <changefreq>weekly</changefreq>
@@ -481,7 +481,7 @@
         <loc>https://exeterobserver.org/guides/news-writing/</loc>
     
         
-        <lastmod>2021-04-15T14:56:20.780Z</lastmod>
+        <lastmod>2021-04-15T15:02:28.769Z</lastmod>
     
         
         <changefreq>weekly</changefreq>
@@ -495,7 +495,7 @@
         <loc>https://exeterobserver.org/guides/objectivity-neutrality-impartiality-balance/</loc>
     
         
-        <lastmod>2021-04-15T14:56:20.780Z</lastmod>
+        <lastmod>2021-04-15T15:02:28.769Z</lastmod>
     
         
         <changefreq>weekly</changefreq>
@@ -509,7 +509,7 @@
         <loc>https://exeterobserver.org/guides/research-resources/</loc>
     
         
-        <lastmod>2021-04-15T14:56:20.780Z</lastmod>
+        <lastmod>2021-04-15T15:02:28.769Z</lastmod>
     
         
         <changefreq>weekly</changefreq>
@@ -523,7 +523,7 @@
         <loc>https://exeterobserver.org/guides/sources-and-interviews/</loc>
     
         
-        <lastmod>2021-04-15T14:56:20.780Z</lastmod>
+        <lastmod>2021-04-15T15:02:28.769Z</lastmod>
     
         
         <changefreq>weekly</changefreq>
@@ -537,7 +537,7 @@
         <loc>https://exeterobserver.org/guides/style/</loc>
     
         
-        <lastmod>2021-04-15T14:56:20.780Z</lastmod>
+        <lastmod>2021-04-15T15:02:28.769Z</lastmod>
     
         
         <changefreq>weekly</changefreq>
@@ -551,7 +551,7 @@
         <loc>https://exeterobserver.org/guides/subediting/</loc>
     
         
-        <lastmod>2021-04-15T14:56:20.780Z</lastmod>
+        <lastmod>2021-04-15T15:02:28.769Z</lastmod>
     
         
         <changefreq>weekly</changefreq>
@@ -565,7 +565,7 @@
         <loc>https://exeterobserver.org/guides/submission-guide/</loc>
     
         
-        <lastmod>2021-04-15T14:56:20.780Z</lastmod>
+        <lastmod>2021-04-15T15:02:28.769Z</lastmod>
     
         
         <changefreq>weekly</changefreq>
@@ -579,7 +579,7 @@
         <loc>https://exeterobserver.org/legal/corrections-and-complaints/</loc>
     
         
-        <lastmod>2021-04-15T14:56:20.780Z</lastmod>
+        <lastmod>2021-04-15T15:02:28.769Z</lastmod>
     
         
         <changefreq>weekly</changefreq>
@@ -593,7 +593,7 @@
         <loc>https://exeterobserver.org/legal/privacy-policy/</loc>
     
         
-        <lastmod>2021-04-15T14:56:20.780Z</lastmod>
+        <lastmod>2021-04-15T15:02:28.769Z</lastmod>
     
         
         <changefreq>weekly</changefreq>
@@ -607,7 +607,7 @@
         <loc>https://exeterobserver.org/legal/terms-and-conditions/</loc>
     
         
-        <lastmod>2021-04-15T14:56:20.780Z</lastmod>
+        <lastmod>2021-04-15T15:02:28.769Z</lastmod>
     
         
         <changefreq>weekly</changefreq>
@@ -621,7 +621,7 @@
         <loc>https://exeterobserver.org/notes/exeter-devon-south-west-regional-democracy-and-governance-policy-and-practice/</loc>
     
         
-        <lastmod>2021-04-15T14:56:20.780Z</lastmod>
+        <lastmod>2021-04-15T15:02:28.769Z</lastmod>
     
         
         <changefreq>weekly</changefreq>
@@ -635,7 +635,7 @@
         <loc>https://exeterobserver.org/notes/exeter-devon-south-west-regional-planning-and-place-policy-and-practice/</loc>
     
         
-        <lastmod>2021-04-15T14:56:20.780Z</lastmod>
+        <lastmod>2021-04-15T15:02:28.769Z</lastmod>
     
         
         <changefreq>weekly</changefreq>
@@ -649,119 +649,7 @@
         <loc>https://exeterobserver.org/notes/exeter-devon-south-west-regional-transport-and-mobility-policy-and-practice/</loc>
     
         
-        <lastmod>2021-04-15T14:56:20.780Z</lastmod>
-    
-        
-        <changefreq>weekly</changefreq>
-    
-        
-        <priority>0.4</priority>
-    
-    </url>
-    <url>
-        
-        <loc>https://exeterobserver.org/topics/climate-and-environment/</loc>
-    
-        
-        <lastmod>2021-04-15T14:56:20.780Z</lastmod>
-    
-        
-        <changefreq>weekly</changefreq>
-    
-        
-        <priority>0.4</priority>
-    
-    </url>
-    <url>
-        
-        <loc>https://exeterobserver.org/topics/community-and-society/</loc>
-    
-        
-        <lastmod>2021-04-15T14:56:20.780Z</lastmod>
-    
-        
-        <changefreq>weekly</changefreq>
-    
-        
-        <priority>0.4</priority>
-    
-    </url>
-    <url>
-        
-        <loc>https://exeterobserver.org/topics/arts-and-culture/</loc>
-    
-        
-        <lastmod>2021-04-15T14:56:20.780Z</lastmod>
-    
-        
-        <changefreq>weekly</changefreq>
-    
-        
-        <priority>0.4</priority>
-    
-    </url>
-    <url>
-        
-        <loc>https://exeterobserver.org/topics/economy-and-enterprise/</loc>
-    
-        
-        <lastmod>2021-04-15T14:56:20.780Z</lastmod>
-    
-        
-        <changefreq>weekly</changefreq>
-    
-        
-        <priority>0.4</priority>
-    
-    </url>
-    <url>
-        
-        <loc>https://exeterobserver.org/topics/education-and-skills/</loc>
-    
-        
-        <lastmod>2021-04-15T14:56:20.780Z</lastmod>
-    
-        
-        <changefreq>weekly</changefreq>
-    
-        
-        <priority>0.4</priority>
-    
-    </url>
-    <url>
-        
-        <loc>https://exeterobserver.org/topics/democracy-and-governance/</loc>
-    
-        
-        <lastmod>2021-04-15T14:56:20.780Z</lastmod>
-    
-        
-        <changefreq>weekly</changefreq>
-    
-        
-        <priority>0.4</priority>
-    
-    </url>
-    <url>
-        
-        <loc>https://exeterobserver.org/topics/planning-and-place/</loc>
-    
-        
-        <lastmod>2021-04-15T14:56:20.780Z</lastmod>
-    
-        
-        <changefreq>weekly</changefreq>
-    
-        
-        <priority>0.4</priority>
-    
-    </url>
-    <url>
-        
-        <loc>https://exeterobserver.org/topics/transport-and-mobility/</loc>
-    
-        
-        <lastmod>2021-04-15T14:56:20.780Z</lastmod>
+        <lastmod>2021-04-15T15:02:28.769Z</lastmod>
     
         
         <changefreq>weekly</changefreq>
@@ -775,7 +663,7 @@
         <loc>https://exeterobserver.org/stories/analysis/</loc>
     
         
-        <lastmod>2021-04-15T14:56:20.780Z</lastmod>
+        <lastmod>2021-04-15T15:02:28.769Z</lastmod>
     
         
         <changefreq>weekly</changefreq>
@@ -789,7 +677,7 @@
         <loc>https://exeterobserver.org/stories/comment/</loc>
     
         
-        <lastmod>2021-04-15T14:56:20.780Z</lastmod>
+        <lastmod>2021-04-15T15:02:28.769Z</lastmod>
     
         
         <changefreq>weekly</changefreq>
@@ -803,7 +691,7 @@
         <loc>https://exeterobserver.org/stories/exeter-observer-blog/</loc>
     
         
-        <lastmod>2021-04-15T14:56:20.780Z</lastmod>
+        <lastmod>2021-04-15T15:02:28.769Z</lastmod>
     
         
         <changefreq>weekly</changefreq>
@@ -817,7 +705,7 @@
         <loc>https://exeterobserver.org/stories/galleries/</loc>
     
         
-        <lastmod>2021-04-15T14:56:20.780Z</lastmod>
+        <lastmod>2021-04-15T15:02:28.769Z</lastmod>
     
         
         <changefreq>weekly</changefreq>
@@ -831,7 +719,7 @@
         <loc>https://exeterobserver.org/stories/news/</loc>
     
         
-        <lastmod>2021-04-15T14:56:20.780Z</lastmod>
+        <lastmod>2021-04-15T15:02:28.769Z</lastmod>
     
         
         <changefreq>weekly</changefreq>
@@ -845,21 +733,7 @@
         <loc>https://exeterobserver.org/stories/previews/</loc>
     
         
-        <lastmod>2021-04-15T14:56:20.780Z</lastmod>
-    
-        
-        <changefreq>weekly</changefreq>
-    
-        
-        <priority>0.4</priority>
-    
-    </url>
-    <url>
-        
-        <loc>https://exeterobserver.org/stories/reviews/</loc>
-    
-        
-        <lastmod>2021-04-15T14:56:20.780Z</lastmod>
+        <lastmod>2021-04-15T15:02:28.769Z</lastmod>
     
         
         <changefreq>weekly</changefreq>
@@ -873,7 +747,21 @@
         <loc>https://exeterobserver.org/stories/profiles/</loc>
     
         
-        <lastmod>2021-04-15T14:56:20.780Z</lastmod>
+        <lastmod>2021-04-15T15:02:28.769Z</lastmod>
+    
+        
+        <changefreq>weekly</changefreq>
+    
+        
+        <priority>0.4</priority>
+    
+    </url>
+    <url>
+        
+        <loc>https://exeterobserver.org/stories/reviews/</loc>
+    
+        
+        <lastmod>2021-04-15T15:02:28.769Z</lastmod>
     
         
         <changefreq>weekly</changefreq>
@@ -887,7 +775,7 @@
         <loc>https://exeterobserver.org/stories/the-exeter-digest/</loc>
     
         
-        <lastmod>2021-04-15T14:56:20.780Z</lastmod>
+        <lastmod>2021-04-15T15:02:28.769Z</lastmod>
     
         
         <changefreq>weekly</changefreq>
@@ -898,1136 +786,114 @@
     </url>
     <url>
         
-        <loc>https://exeterobserver.org/2019/04/19/exeter-city-council-information-transparency-democracy/</loc>
+        <loc>https://exeterobserver.org/topics/arts-and-culture/</loc>
     
         
-        <lastmod>2021-04-22T14:56:20.780Z</lastmod>
+        <lastmod>2021-04-15T15:02:28.769Z</lastmod>
     
         
-        <changefreq>daily</changefreq>
+        <changefreq>weekly</changefreq>
     
         
-        <priority>0.8</priority>
+        <priority>0.4</priority>
     
     </url>
     <url>
         
-        <loc>https://exeterobserver.org/2019/04/26/exeter-clifton-hill-sports-centre-background/</loc>
+        <loc>https://exeterobserver.org/topics/climate-and-environment/</loc>
     
         
-        <lastmod>2021-04-22T14:56:20.780Z</lastmod>
+        <lastmod>2021-04-15T15:02:28.769Z</lastmod>
     
         
-        <changefreq>daily</changefreq>
+        <changefreq>weekly</changefreq>
     
         
-        <priority>0.8</priority>
+        <priority>0.4</priority>
     
     </url>
     <url>
         
-        <loc>https://exeterobserver.org/2019/05/11/exeter-ramm-rainbow-trail-lgbtqia-exhibition-pride/</loc>
+        <loc>https://exeterobserver.org/topics/community-and-society/</loc>
     
         
-        <lastmod>2021-04-22T14:56:20.780Z</lastmod>
+        <lastmod>2021-04-15T15:02:28.769Z</lastmod>
     
         
-        <changefreq>daily</changefreq>
+        <changefreq>weekly</changefreq>
     
         
-        <priority>0.8</priority>
+        <priority>0.4</priority>
     
     </url>
     <url>
         
-        <loc>https://exeterobserver.org/2019/04/26/exeter-local-resident-stands-independent-candidate-exeter-elections/</loc>
+        <loc>https://exeterobserver.org/topics/democracy-and-governance/</loc>
     
         
-        <lastmod>2021-04-22T14:56:20.780Z</lastmod>
+        <lastmod>2021-04-15T15:02:28.769Z</lastmod>
     
         
-        <changefreq>daily</changefreq>
+        <changefreq>weekly</changefreq>
     
         
-        <priority>0.8</priority>
+        <priority>0.4</priority>
     
     </url>
     <url>
         
-        <loc>https://exeterobserver.org/2019/05/03/exeter-labour-loses-city-centre-wards-local-elections/</loc>
+        <loc>https://exeterobserver.org/topics/economy-and-enterprise/</loc>
     
         
-        <lastmod>2021-04-22T14:56:20.780Z</lastmod>
+        <lastmod>2021-04-15T15:02:28.769Z</lastmod>
     
         
-        <changefreq>daily</changefreq>
+        <changefreq>weekly</changefreq>
     
         
-        <priority>0.8</priority>
+        <priority>0.4</priority>
     
     </url>
     <url>
         
-        <loc>https://exeterobserver.org/2019/05/17/exeter-college-midsummer-nights-dream-barnfield-theatre/</loc>
+        <loc>https://exeterobserver.org/topics/education-and-skills/</loc>
     
         
-        <lastmod>2021-04-22T14:56:20.780Z</lastmod>
+        <lastmod>2021-04-15T15:02:28.769Z</lastmod>
     
         
-        <changefreq>daily</changefreq>
+        <changefreq>weekly</changefreq>
     
         
-        <priority>0.8</priority>
+        <priority>0.4</priority>
     
     </url>
     <url>
         
-        <loc>https://exeterobserver.org/2019/05/21/molly-scott-cato-eu-elections-climate-change-brexit-european-parliament/</loc>
+        <loc>https://exeterobserver.org/topics/planning-and-place/</loc>
     
         
-        <lastmod>2021-04-22T14:56:20.780Z</lastmod>
+        <lastmod>2021-04-15T15:02:28.769Z</lastmod>
     
         
-        <changefreq>daily</changefreq>
+        <changefreq>weekly</changefreq>
     
         
-        <priority>0.8</priority>
+        <priority>0.4</priority>
     
     </url>
     <url>
         
-        <loc>https://exeterobserver.org/2019/05/17/mount-radford-lawn-development-proposals-conflict-with-community-vision/</loc>
+        <loc>https://exeterobserver.org/topics/transport-and-mobility/</loc>
     
         
-        <lastmod>2021-04-22T14:56:20.780Z</lastmod>
+        <lastmod>2021-04-15T15:02:28.769Z</lastmod>
     
         
-        <changefreq>daily</changefreq>
+        <changefreq>weekly</changefreq>
     
         
-        <priority>0.8</priority>
-    
-    </url>
-    <url>
-        
-        <loc>https://exeterobserver.org/2019/05/30/exeter-college-music-academy-jambassadors-jazz-toast-barnfield-theatre/</loc>
-    
-        
-        <lastmod>2021-04-22T14:56:20.780Z</lastmod>
-    
-        
-        <changefreq>daily</changefreq>
-    
-        
-        <priority>0.8</priority>
-    
-    </url>
-    <url>
-        
-        <loc>https://exeterobserver.org/2019/06/07/preston-street-union-serge-surge-exeter-city-walls-woollen-trade-ramm-commission/</loc>
-    
-        
-        <lastmod>2021-04-22T14:56:20.780Z</lastmod>
-    
-        
-        <changefreq>daily</changefreq>
-    
-        
-        <priority>0.8</priority>
-    
-    </url>
-    <url>
-        
-        <loc>https://exeterobserver.org/2019/06/11/exeter-budget-cuts-public-toilet-closures/</loc>
-    
-        
-        <lastmod>2021-04-22T14:56:20.780Z</lastmod>
-    
-        
-        <changefreq>daily</changefreq>
-    
-        
-        <priority>0.8</priority>
-    
-    </url>
-    <url>
-        
-        <loc>https://exeterobserver.org/2019/06/18/exeter-observer-agrees-regulatory-framework-with-impress/</loc>
-    
-        
-        <lastmod>2021-04-22T14:56:20.780Z</lastmod>
-    
-        
-        <changefreq>daily</changefreq>
-    
-        
-        <priority>0.8</priority>
-    
-    </url>
-    <url>
-        
-        <loc>https://exeterobserver.org/2019/05/24/extreme-imagination-inside-the-minds-eye-aphantasia-exeter-ramm/</loc>
-    
-        
-        <lastmod>2021-04-22T14:56:20.780Z</lastmod>
-    
-        
-        <changefreq>daily</changefreq>
-    
-        
-        <priority>0.8</priority>
-    
-    </url>
-    <url>
-        
-        <loc>https://exeterobserver.org/2019/06/23/climate-crisis-exeter-devon-carbon-reduction-ultra-low-emission-clean-air-zones-parking-levy-living-streets/</loc>
-    
-        
-        <lastmod>2021-04-22T14:56:20.780Z</lastmod>
-    
-        
-        <changefreq>daily</changefreq>
-    
-        
-        <priority>0.8</priority>
-    
-    </url>
-    <url>
-        
-        <loc>https://exeterobserver.org/2019/07/08/exeter-could-do-better-council-budget-cuts-public-toilet-closures/</loc>
-    
-        
-        <lastmod>2021-04-22T14:56:20.780Z</lastmod>
-    
-        
-        <changefreq>daily</changefreq>
-    
-        
-        <priority>0.8</priority>
-    
-    </url>
-    <url>
-        
-        <loc>https://exeterobserver.org/2019/07/30/exeter-extinction-rebellion-funeral-march-climate-crisis-wildlife-loss/</loc>
-    
-        
-        <lastmod>2021-04-22T14:56:20.780Z</lastmod>
-    
-        
-        <changefreq>daily</changefreq>
-    
-        
-        <priority>0.8</priority>
-    
-    </url>
-    <url>
-        
-        <loc>https://exeterobserver.org/2019/07/27/exeter-extinction-rebellion-funeral-march-photo-gallery/</loc>
-    
-        
-        <lastmod>2021-04-22T14:56:20.780Z</lastmod>
-    
-        
-        <changefreq>daily</changefreq>
-    
-        
-        <priority>0.8</priority>
-    
-    </url>
-    <url>
-        
-        <loc>https://exeterobserver.org/2019/09/03/exeter-anti-government-protest-prorogation-parliament-brexit-no-deal/</loc>
-    
-        
-        <lastmod>2021-04-22T14:56:20.780Z</lastmod>
-    
-        
-        <changefreq>daily</changefreq>
-    
-        
-        <priority>0.8</priority>
-    
-    </url>
-    <url>
-        
-        <loc>https://exeterobserver.org/2019/09/14/exeter-extinction-rebellion-wave-of-water-fashion-industry-march-photo-gallery/</loc>
-    
-        
-        <lastmod>2021-04-22T14:56:20.780Z</lastmod>
-    
-        
-        <changefreq>daily</changefreq>
-    
-        
-        <priority>0.8</priority>
-    
-    </url>
-    <url>
-        
-        <loc>https://exeterobserver.org/2019/09/17/exeter-university-college-union-launches-anti-casualisation-campaign/</loc>
-    
-        
-        <lastmod>2021-04-22T14:56:20.780Z</lastmod>
-    
-        
-        <changefreq>daily</changefreq>
-    
-        
-        <priority>0.8</priority>
-    
-    </url>
-    <url>
-        
-        <loc>https://exeterobserver.org/2019/09/20/exeter-global-climate-strike-climate-crisis-green-new-deal/</loc>
-    
-        
-        <lastmod>2021-04-22T14:56:20.780Z</lastmod>
-    
-        
-        <changefreq>daily</changefreq>
-    
-        
-        <priority>0.8</priority>
-    
-    </url>
-    <url>
-        
-        <loc>https://exeterobserver.org/2019/09/20/exeter-youth-climate-strikers-launch-green-new-deal-devon/</loc>
-    
-        
-        <lastmod>2021-04-22T14:56:20.780Z</lastmod>
-    
-        
-        <changefreq>daily</changefreq>
-    
-        
-        <priority>0.8</priority>
-    
-    </url>
-    <url>
-        
-        <loc>https://exeterobserver.org/2019/10/09/exeter-city-council-reduces-scrutiny-decision-making/</loc>
-    
-        
-        <lastmod>2021-04-22T14:56:20.780Z</lastmod>
-    
-        
-        <changefreq>daily</changefreq>
-    
-        
-        <priority>0.8</priority>
-    
-    </url>
-    <url>
-        
-        <loc>https://exeterobserver.org/2019/09/21/exeter-global-climate-strike-march-photo-gallery/</loc>
-    
-        
-        <lastmod>2021-04-22T14:56:20.780Z</lastmod>
-    
-        
-        <changefreq>daily</changefreq>
-    
-        
-        <priority>0.8</priority>
-    
-    </url>
-    <url>
-        
-        <loc>https://exeterobserver.org/2019/10/25/exeter-heavitree-whipton-barton-byelection-devon-county-council-labour-vote-share-collapse/</loc>
-    
-        
-        <lastmod>2021-04-22T14:56:20.780Z</lastmod>
-    
-        
-        <changefreq>daily</changefreq>
-    
-        
-        <priority>0.8</priority>
-    
-    </url>
-    <url>
-        
-        <loc>https://exeterobserver.org/2019/11/12/heart-of-the-south-west-local-enterprise-partnership-local-industrial-strategy/</loc>
-    
-        
-        <lastmod>2021-04-22T14:56:20.780Z</lastmod>
-    
-        
-        <changefreq>daily</changefreq>
-    
-        
-        <priority>0.8</priority>
-    
-    </url>
-    <url>
-        
-        <loc>https://exeterobserver.org/2019/11/25/integrated-public-transport-devon-county-council-country-bus-stagecoach-exeter-g-service/</loc>
-    
-        
-        <lastmod>2021-04-22T14:56:20.780Z</lastmod>
-    
-        
-        <changefreq>daily</changefreq>
-    
-        
-        <priority>0.8</priority>
-    
-    </url>
-    <url>
-        
-        <loc>https://exeterobserver.org/2019/11/27/exeter-university-college-union-strike/</loc>
-    
-        
-        <lastmod>2021-04-22T14:56:20.780Z</lastmod>
-    
-        
-        <changefreq>daily</changefreq>
-    
-        
-        <priority>0.8</priority>
-    
-    </url>
-    <url>
-        
-        <loc>https://exeterobserver.org/2019/12/05/2019-east-devon-independent-claire-wright-unite-remain-voters-general-election-green-party-lib-dems/</loc>
-    
-        
-        <lastmod>2021-04-22T14:56:20.780Z</lastmod>
-    
-        
-        <changefreq>daily</changefreq>
-    
-        
-        <priority>0.8</priority>
-    
-    </url>
-    <url>
-        
-        <loc>https://exeterobserver.org/2019/11/30/exeter-climate-strikers-create-human-chain-around-county-hall/</loc>
-    
-        
-        <lastmod>2021-04-22T14:56:20.780Z</lastmod>
-    
-        
-        <changefreq>daily</changefreq>
-    
-        
-        <priority>0.8</priority>
-    
-    </url>
-    <url>
-        
-        <loc>https://exeterobserver.org/2019/12/14/conservative-wins-exeter-topsham-byelection-reduced-vote-share/</loc>
-    
-        
-        <lastmod>2021-04-22T14:56:20.780Z</lastmod>
-    
-        
-        <changefreq>daily</changefreq>
-    
-        
-        <priority>0.8</priority>
-    
-    </url>
-    <url>
-        
-        <loc>https://exeterobserver.org/2019/12/12/exeter-observer-joins-bbc-local-news-partnerships/</loc>
-    
-        
-        <lastmod>2021-04-22T14:56:20.780Z</lastmod>
-    
-        
-        <changefreq>daily</changefreq>
-    
-        
-        <priority>0.8</priority>
-    
-    </url>
-    <url>
-        
-        <loc>https://exeterobserver.org/2019/12/17/exeter-observer-community-journalism-training-course/</loc>
-    
-        
-        <lastmod>2021-04-22T14:56:20.780Z</lastmod>
-    
-        
-        <changefreq>daily</changefreq>
-    
-        
-        <priority>0.8</priority>
-    
-    </url>
-    <url>
-        
-        <loc>https://exeterobserver.org/2019/12/15/2019-parliamentary-elections-devon-results-analysis-varying-conservative-performance-labour-losses/</loc>
-    
-        
-        <lastmod>2021-04-22T14:56:20.780Z</lastmod>
-    
-        
-        <changefreq>daily</changefreq>
-    
-        
-        <priority>0.8</priority>
-    
-    </url>
-    <url>
-        
-        <loc>https://exeterobserver.org/2019/12/17/exeter-observer-joins-independent-community-news-network/</loc>
-    
-        
-        <lastmod>2021-04-22T14:56:20.780Z</lastmod>
-    
-        
-        <changefreq>daily</changefreq>
-    
-        
-        <priority>0.8</priority>
-    
-    </url>
-    <url>
-        
-        <loc>https://exeterobserver.org/2021/01/21/longbrook-street-student-accommodation-development-reapplication-king-billy-demolition/</loc>
-    
-        
-        <lastmod>2021-04-22T14:56:20.780Z</lastmod>
-    
-        
-        <changefreq>daily</changefreq>
-    
-        
-        <priority>0.8</priority>
-    
-    </url>
-    <url>
-        
-        <loc>https://exeterobserver.org/2019/03/01/streets-are-for-people-not-cars/</loc>
-    
-        
-        <lastmod>2021-04-22T14:56:20.780Z</lastmod>
-    
-        
-        <changefreq>daily</changefreq>
-    
-        
-        <priority>0.8</priority>
-    
-    </url>
-    <url>
-        
-        <loc>https://exeterobserver.org/2019/03/08/exeter-st-james-regeneration/</loc>
-    
-        
-        <lastmod>2021-04-22T14:56:20.780Z</lastmod>
-    
-        
-        <changefreq>daily</changefreq>
-    
-        
-        <priority>0.8</priority>
-    
-    </url>
-    <url>
-        
-        <loc>https://exeterobserver.org/2019/03/16/kaleider-mikrofest-our-dancing-shadows-exeter-princesshay/</loc>
-    
-        
-        <lastmod>2021-04-22T14:56:20.780Z</lastmod>
-    
-        
-        <changefreq>daily</changefreq>
-    
-        
-        <priority>0.8</priority>
-    
-    </url>
-    <url>
-        
-        <loc>https://exeterobserver.org/2019/03/30/extinction-rebellion-climate-emergency-protest-exeter-guildhall-shopping-centre/</loc>
-    
-        
-        <lastmod>2021-04-22T14:56:20.780Z</lastmod>
-    
-        
-        <changefreq>daily</changefreq>
-    
-        
-        <priority>0.8</priority>
-    
-    </url>
-    <url>
-        
-        <loc>https://exeterobserver.org/2019/04/05/greater-exeter-strategic-plan-update-delivery/</loc>
-    
-        
-        <lastmod>2021-04-22T14:56:20.780Z</lastmod>
-    
-        
-        <changefreq>daily</changefreq>
-    
-        
-        <priority>0.8</priority>
-    
-    </url>
-    <url>
-        
-        <loc>https://exeterobserver.org/2021/03/04/exeter-princesshay-debenhams-cinema-bar-restaurant-use-change-application/</loc>
-    
-        
-        <lastmod>2021-04-22T14:56:20.780Z</lastmod>
-    
-        
-        <changefreq>daily</changefreq>
-    
-        
-        <priority>0.8</priority>
-    
-    </url>
-    <url>
-        
-        <loc>https://exeterobserver.org/2021/03/09/37.5-million-council-maintenance-backlog-underinvestment-asset-sales-44-million-st-sidwells-point-leisure-centre/</loc>
-    
-        
-        <lastmod>2021-04-22T14:56:20.780Z</lastmod>
-    
-        
-        <changefreq>daily</changefreq>
-    
-        
-        <priority>0.8</priority>
-    
-    </url>
-    <url>
-        
-        <loc>https://exeterobserver.org/2021/03/10/three-key-climate-crisis-insights-learned-during-the-covid-pandemic/</loc>
-    
-        
-        <lastmod>2021-04-22T14:56:20.780Z</lastmod>
-    
-        
-        <changefreq>daily</changefreq>
-    
-        
-        <priority>0.8</priority>
-    
-    </url>
-    <url>
-        
-        <loc>https://exeterobserver.org/2021/03/17/maclaines-warehouses-development-tests-exeter-heritage-harbour-status-ship-canal-basin-quay-topsham-brewery/</loc>
-    
-        
-        <lastmod>2021-04-22T14:56:20.780Z</lastmod>
-    
-        
-        <changefreq>daily</changefreq>
-    
-        
-        <priority>0.8</priority>
-    
-    </url>
-    <url>
-        
-        <loc>https://exeterobserver.org/2021/03/18/atmospheric-carbon-dioxide-now-50-per-cent-higher-than-pre-industrial-levels-met-office/</loc>
-    
-        
-        <lastmod>2021-04-22T14:56:20.780Z</lastmod>
-    
-        
-        <changefreq>daily</changefreq>
-    
-        
-        <priority>0.8</priority>
-    
-    </url>
-    <url>
-        
-        <loc>https://exeterobserver.org/2021/03/26/developer-plans-to-convert-retail-units-in-exeter-city-centre-block-to-additional-student-bedrooms/</loc>
-    
-        
-        <lastmod>2021-04-22T14:56:20.780Z</lastmod>
-    
-        
-        <changefreq>daily</changefreq>
-    
-        
-        <priority>0.8</priority>
-    
-    </url>
-    <url>
-        
-        <loc>https://exeterobserver.org/2021/03/19/okehamption-to-exeter-dartmoor-line-passenger-rail-service-reinstatement-confirmed-40-million-department-for-transport-restoring-your-railway-fund/</loc>
-    
-        
-        <lastmod>2021-04-22T14:56:20.780Z</lastmod>
-    
-        
-        <changefreq>daily</changefreq>
-    
-        
-        <priority>0.8</priority>
-    
-    </url>
-    <url>
-        
-        <loc>https://exeterobserver.org/2021/03/26/selective-use-of-statistics-presents-unbalanced-account-of-exeter-economic-and-environmental-status-city-council-chief-executive-centre-for-cities/</loc>
-    
-        
-        <lastmod>2021-04-22T14:56:20.780Z</lastmod>
-    
-        
-        <changefreq>daily</changefreq>
-    
-        
-        <priority>0.8</priority>
-    
-    </url>
-    <url>
-        
-        <loc>https://exeterobserver.org/2021/04/01/exeter-the-musical/</loc>
-    
-        
-        <lastmod>2021-04-22T14:56:20.780Z</lastmod>
-    
-        
-        <changefreq>daily</changefreq>
-    
-        
-        <priority>0.8</priority>
-    
-    </url>
-    <url>
-        
-        <loc>https://exeterobserver.org/2021/04/16/the-exeter-digest-1-statistics-in-the-balance-dartmoor-line-to-reopen-local-elections-are-coming/</loc>
-    
-        
-        <lastmod>2021-04-22T14:56:20.780Z</lastmod>
-    
-        
-        <changefreq>daily</changefreq>
-    
-        
-        <priority>0.8</priority>
-    
-    </url>
-    <url>
-        
-        <loc>https://exeterobserver.org/2021/04/19/exeter-observer-publishes-first-edition-of-the-exeter-digest-newsletter/</loc>
-    
-        
-        <lastmod>2021-04-22T14:56:20.780Z</lastmod>
-    
-        
-        <changefreq>daily</changefreq>
-    
-        
-        <priority>0.8</priority>
-    
-    </url>
-    <url>
-        
-        <loc>https://exeterobserver.org/2021/04/22/world-meteorological-organization-report-confirms-relentless-intensification-of-climate-crisis-despite-pandemic-lockdowns/</loc>
-    
-        
-        <lastmod>2021-04-22T14:56:20.780Z</lastmod>
-    
-        
-        <changefreq>daily</changefreq>
-    
-        
-        <priority>0.8</priority>
-    
-    </url>
-    <url>
-        
-        <loc>https://exeterobserver.org/2021/02/08/university-of-exeter-streatham-campus-clydesdale-birks-student-accommodation-development-outline-application/</loc>
-    
-        
-        <lastmod>2021-04-22T14:56:20.780Z</lastmod>
-    
-        
-        <changefreq>daily</changefreq>
-    
-        
-        <priority>0.8</priority>
-    
-    </url>
-    <url>
-        
-        <loc>https://exeterobserver.org/2021/02/12/south-west-exeter-district-heating-network-housing-infrastructure-fund/</loc>
-    
-        
-        <lastmod>2021-04-22T14:56:20.780Z</lastmod>
-    
-        
-        <changefreq>daily</changefreq>
-    
-        
-        <priority>0.8</priority>
-    
-    </url>
-    <url>
-        
-        <loc>https://exeterobserver.org/2021/02/11/gw4-university-research-consortium-launches-accelearate-to-net-zero-climate-change-mitigation-project/</loc>
-    
-        
-        <lastmod>2021-04-22T14:56:20.780Z</lastmod>
-    
-        
-        <changefreq>daily</changefreq>
-    
-        
-        <priority>0.8</priority>
-    
-    </url>
-    <url>
-        
-        <loc>https://exeterobserver.org/2021/02/17/exeter-science-park-stemm-grow-out-building-construction-begins/</loc>
-    
-        
-        <lastmod>2021-04-22T14:56:20.780Z</lastmod>
-    
-        
-        <changefreq>daily</changefreq>
-    
-        
-        <priority>0.8</priority>
-    
-    </url>
-    <url>
-        
-        <loc>https://exeterobserver.org/2021/02/20/may-local-elections-go-ahead-despite-covid-19-challenges-doorstep-canvassing-leaflet-distribution-ban/</loc>
-    
-        
-        <lastmod>2021-04-22T14:56:20.780Z</lastmod>
-    
-        
-        <changefreq>daily</changefreq>
-    
-        
-        <priority>0.8</priority>
-    
-    </url>
-    <url>
-        
-        <loc>https://exeterobserver.org/2021/02/23/exeter-city-council-pushes-back-on-liveable-exeter-place-board-scrutiny-following-membership-change/</loc>
-    
-        
-        <lastmod>2021-04-22T14:56:20.780Z</lastmod>
-    
-        
-        <changefreq>daily</changefreq>
-    
-        
-        <priority>0.8</priority>
-    
-    </url>
-    <url>
-        
-        <loc>https://exeterobserver.org/2021/02/23/devon-county-council-pension-fund-fossil-fuel-investment/</loc>
-    
-        
-        <lastmod>2021-04-22T14:56:20.780Z</lastmod>
-    
-        
-        <changefreq>daily</changefreq>
-    
-        
-        <priority>0.8</priority>
-    
-    </url>
-    <url>
-        
-        <loc>https://exeterobserver.org/2020/03/06/exeter-university-college-union-strike-third-week-rally-concert/</loc>
-    
-        
-        <lastmod>2021-04-22T14:56:20.780Z</lastmod>
-    
-        
-        <changefreq>daily</changefreq>
-    
-        
-        <priority>0.8</priority>
-    
-    </url>
-    <url>
-        
-        <loc>https://exeterobserver.org/2020/03/05/exeter-city-futures-blueprint-carbon-neutral-2030-net-zero-mobilisation-summit-green-new-deal-devon-climate-emergency/</loc>
-    
-        
-        <lastmod>2021-04-22T14:56:20.780Z</lastmod>
-    
-        
-        <changefreq>daily</changefreq>
-    
-        
-        <priority>0.8</priority>
-    
-    </url>
-    <url>
-        
-        <loc>https://exeterobserver.org/2020/03/16/exeter-observer-coronavirus-team-update/</loc>
-    
-        
-        <lastmod>2021-04-22T14:56:20.780Z</lastmod>
-    
-        
-        <changefreq>daily</changefreq>
-    
-        
-        <priority>0.8</priority>
-    
-    </url>
-    <url>
-        
-        <loc>https://exeterobserver.org/2020/02/06/exeter-central-library-childrens-rocking-horse-crowdfunding-appeal-jubilee-beauty/</loc>
-    
-        
-        <lastmod>2021-04-22T14:56:20.780Z</lastmod>
-    
-        
-        <changefreq>daily</changefreq>
-    
-        
-        <priority>0.8</priority>
-    
-    </url>
-    <url>
-        
-        <loc>https://exeterobserver.org/2020/02/20/exeter-roman-remains-discovery-bus-station-leisure-centre-redevelopment-site-risk/</loc>
-    
-        
-        <lastmod>2021-04-22T14:56:20.780Z</lastmod>
-    
-        
-        <changefreq>daily</changefreq>
-    
-        
-        <priority>0.8</priority>
-    
-    </url>
-    <url>
-        
-        <loc>https://exeterobserver.org/2020/02/21/exeter-observer-news-writing-seminar/</loc>
-    
-        
-        <lastmod>2021-04-22T14:56:20.780Z</lastmod>
-    
-        
-        <changefreq>daily</changefreq>
-    
-        
-        <priority>0.8</priority>
-    
-    </url>
-    <url>
-        
-        <loc>https://exeterobserver.org/2019/06/06/exeter-youth-strike-for-climate-floodgates-open/</loc>
-    
-        
-        <lastmod>2021-04-22T14:56:20.780Z</lastmod>
-    
-        
-        <changefreq>daily</changefreq>
-    
-        
-        <priority>0.8</priority>
-    
-    </url>
-    <url>
-        
-        <loc>https://exeterobserver.org/2020/02/28/exeter-climate-strike-anniversary-march-blocks-city-centre-road-junction/</loc>
-    
-        
-        <lastmod>2021-04-22T14:56:20.780Z</lastmod>
-    
-        
-        <changefreq>daily</changefreq>
-    
-        
-        <priority>0.8</priority>
-    
-    </url>
-    <url>
-        
-        <loc>https://exeterobserver.org/2020/04/22/half-of-exeter-city-council-covid-19-coronavirus-pandemic-business-grant-payments-unclaimed/</loc>
-    
-        
-        <lastmod>2021-04-22T14:56:20.780Z</lastmod>
-    
-        
-        <changefreq>daily</changefreq>
-    
-        
-        <priority>0.8</priority>
-    
-    </url>
-    <url>
-        
-        <loc>https://exeterobserver.org/2020/04/24/exeter-city-council-announces-1.584-million-april-budget-shortfall-caused-by-covid-19-restrictions/</loc>
-    
-        
-        <lastmod>2021-04-22T14:56:20.780Z</lastmod>
-    
-        
-        <changefreq>daily</changefreq>
-    
-        
-        <priority>0.8</priority>
-    
-    </url>
-    <url>
-        
-        <loc>https://exeterobserver.org/2020/05/07/night-shelter-homeless-rough-sleepers-magdalen-street-exeter-bcha/</loc>
-    
-        
-        <lastmod>2021-04-22T14:56:20.780Z</lastmod>
-    
-        
-        <changefreq>daily</changefreq>
-    
-        
-        <priority>0.8</priority>
-    
-    </url>
-    <url>
-        
-        <loc>https://exeterobserver.org/2020/05/07/cranbrook-community-building-plans/</loc>
-    
-        
-        <lastmod>2021-04-22T14:56:20.780Z</lastmod>
-    
-        
-        <changefreq>daily</changefreq>
-    
-        
-        <priority>0.8</priority>
-    
-    </url>
-    <url>
-        
-        <loc>https://exeterobserver.org/2020/05/14/exeter-cathedral-and-quay-car-park-3.9m-refurbishment-capital-spending-decision/</loc>
-    
-        
-        <lastmod>2021-04-22T14:56:20.780Z</lastmod>
-    
-        
-        <changefreq>daily</changefreq>
-    
-        
-        <priority>0.8</priority>
-    
-    </url>
-    <url>
-        
-        <loc>https://exeterobserver.org/2020/05/08/pulling-road-pinhoe-exeter-net-zero-carbon-affordable-housing-car-parking-congestion/</loc>
-    
-        
-        <lastmod>2021-04-22T14:56:20.780Z</lastmod>
-    
-        
-        <changefreq>daily</changefreq>
-    
-        
-        <priority>0.8</priority>
-    
-    </url>
-    <url>
-        
-        <loc>https://exeterobserver.org/2020/06/01/devon-county-council-cycling-walking-infrastructure-delivery-failure-department-for-transport-new-road-layouts-funding/</loc>
-    
-        
-        <lastmod>2021-04-22T14:56:20.780Z</lastmod>
-    
-        
-        <changefreq>daily</changefreq>
-    
-        
-        <priority>0.8</priority>
-    
-    </url>
-    <url>
-        
-        <loc>https://exeterobserver.org/2020/05/22/devon-county-council-local-cycling-walking-infrastructure-plans-exeter-transport-strategy-department-for-transport-new-road-layout-for-coronavirus-social-distancing/</loc>
-    
-        
-        <lastmod>2021-04-22T14:56:20.780Z</lastmod>
-    
-        
-        <changefreq>daily</changefreq>
-    
-        
-        <priority>0.8</priority>
-    
-    </url>
-    <url>
-        
-        <loc>https://exeterobserver.org/2020/06/05/exeter-city-futures-net-zero-exeter-2030-plan-exeter-city-council-executive-decision/</loc>
-    
-        
-        <lastmod>2021-04-22T14:56:20.780Z</lastmod>
-    
-        
-        <changefreq>daily</changefreq>
-    
-        
-        <priority>0.8</priority>
-    
-    </url>
-    <url>
-        
-        <loc>https://exeterobserver.org/2020/06/10/exeter-rough-sleepers-covid19-emergency-accommodation-rough-sleeping-initiative-homelessness/</loc>
-    
-        
-        <lastmod>2021-04-22T14:56:20.780Z</lastmod>
-    
-        
-        <changefreq>daily</changefreq>
-    
-        
-        <priority>0.8</priority>
-    
-    </url>
-    <url>
-        
-        <loc>https://exeterobserver.org/2020/07/14/unelected-liveable-exeter-place-board-created-by-city-council-to-take-responsibility-for-major-policies-determining-Exeter-future-development/</loc>
-    
-        
-        <lastmod>2021-04-22T14:56:20.780Z</lastmod>
-    
-        
-        <changefreq>daily</changefreq>
-    
-        
-        <priority>0.8</priority>
-    
-    </url>
-    <url>
-        
-        <loc>https://exeterobserver.org/2020/07/21/net-zero-exeter-2030-plan-part-one-exeters-carbon-footprint-exeter-city-futures-exeter-city-council-fridays-for-future-climate-activists/</loc>
-    
-        
-        <lastmod>2021-04-22T14:56:20.780Z</lastmod>
-    
-        
-        <changefreq>daily</changefreq>
-    
-        
-        <priority>0.8</priority>
-    
-    </url>
-    <url>
-        
-        <loc>https://exeterobserver.org/2020/08/04/devon-county-council-covid-19-temporary-cycling-and-walking-infrastructure-safety-plans-exeter-city-centre/</loc>
-    
-        
-        <lastmod>2021-04-22T14:56:20.780Z</lastmod>
-    
-        
-        <changefreq>daily</changefreq>
-    
-        
-        <priority>0.8</priority>
+        <priority>0.4</priority>
     
     </url>
     <url>
@@ -2035,7 +901,7 @@
         <loc>https://exeterobserver.org/2020/01/03/exeter-city-council-accounts-delayed-grant-thornton-auditors-local-government-finance-conservative-private-sector-outsourcing/</loc>
     
         
-        <lastmod>2021-04-22T14:56:20.780Z</lastmod>
+        <lastmod>2021-04-22T15:02:28.769Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -2049,7 +915,7 @@
         <loc>https://exeterobserver.org/2020/01/22/exeter-net-zero-carbon-housing-pilot-project-wonford-chestnut-avenue/</loc>
     
         
-        <lastmod>2021-04-22T14:56:20.780Z</lastmod>
+        <lastmod>2021-04-22T15:02:28.769Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -2063,7 +929,7 @@
         <loc>https://exeterobserver.org/2020/01/30/next-exeter-observer-community-journalism-training-course/</loc>
     
         
-        <lastmod>2021-04-22T14:56:20.780Z</lastmod>
+        <lastmod>2021-04-22T15:02:28.769Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -2074,10 +940,38 @@
     </url>
     <url>
         
-        <loc>https://exeterobserver.org/2020/10/28/royal-devon-and-exeter-hospital-wonford-nhs-trust-creates-200-car-parking-spaces-despite-city-climate-crisis-goals-local-plan-policy-exeter-net-zero-air-quality/</loc>
+        <loc>https://exeterobserver.org/2020/02/06/exeter-central-library-childrens-rocking-horse-crowdfunding-appeal-jubilee-beauty/</loc>
     
         
-        <lastmod>2021-04-22T14:56:20.780Z</lastmod>
+        <lastmod>2021-04-22T15:02:28.769Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+        
+        <priority>0.8</priority>
+    
+    </url>
+    <url>
+        
+        <loc>https://exeterobserver.org/2020/02/20/exeter-roman-remains-discovery-bus-station-leisure-centre-redevelopment-site-risk/</loc>
+    
+        
+        <lastmod>2021-04-22T15:02:28.769Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+        
+        <priority>0.8</priority>
+    
+    </url>
+    <url>
+        
+        <loc>https://exeterobserver.org/2020/02/21/exeter-observer-news-writing-seminar/</loc>
+    
+        
+        <lastmod>2021-04-22T15:02:28.769Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -2091,7 +985,245 @@
         <loc>https://exeterobserver.org/2020/02/27/university-of-exeter-prism-queer-stemm-champions-competition-winners/</loc>
     
         
-        <lastmod>2021-04-22T14:56:20.780Z</lastmod>
+        <lastmod>2021-04-22T15:02:28.769Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+        
+        <priority>0.8</priority>
+    
+    </url>
+    <url>
+        
+        <loc>https://exeterobserver.org/2020/02/28/exeter-climate-strike-anniversary-march-blocks-city-centre-road-junction/</loc>
+    
+        
+        <lastmod>2021-04-22T15:02:28.769Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+        
+        <priority>0.8</priority>
+    
+    </url>
+    <url>
+        
+        <loc>https://exeterobserver.org/2020/03/05/exeter-city-futures-blueprint-carbon-neutral-2030-net-zero-mobilisation-summit-green-new-deal-devon-climate-emergency/</loc>
+    
+        
+        <lastmod>2021-04-22T15:02:28.769Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+        
+        <priority>0.8</priority>
+    
+    </url>
+    <url>
+        
+        <loc>https://exeterobserver.org/2020/03/06/exeter-university-college-union-strike-third-week-rally-concert/</loc>
+    
+        
+        <lastmod>2021-04-22T15:02:28.769Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+        
+        <priority>0.8</priority>
+    
+    </url>
+    <url>
+        
+        <loc>https://exeterobserver.org/2020/03/16/exeter-observer-coronavirus-team-update/</loc>
+    
+        
+        <lastmod>2021-04-22T15:02:28.769Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+        
+        <priority>0.8</priority>
+    
+    </url>
+    <url>
+        
+        <loc>https://exeterobserver.org/2020/04/22/half-of-exeter-city-council-covid-19-coronavirus-pandemic-business-grant-payments-unclaimed/</loc>
+    
+        
+        <lastmod>2021-04-22T15:02:28.769Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+        
+        <priority>0.8</priority>
+    
+    </url>
+    <url>
+        
+        <loc>https://exeterobserver.org/2020/04/24/exeter-city-council-announces-1.584-million-april-budget-shortfall-caused-by-covid-19-restrictions/</loc>
+    
+        
+        <lastmod>2021-04-22T15:02:28.769Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+        
+        <priority>0.8</priority>
+    
+    </url>
+    <url>
+        
+        <loc>https://exeterobserver.org/2020/05/07/cranbrook-community-building-plans/</loc>
+    
+        
+        <lastmod>2021-04-22T15:02:28.769Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+        
+        <priority>0.8</priority>
+    
+    </url>
+    <url>
+        
+        <loc>https://exeterobserver.org/2020/05/07/night-shelter-homeless-rough-sleepers-magdalen-street-exeter-bcha/</loc>
+    
+        
+        <lastmod>2021-04-22T15:02:28.769Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+        
+        <priority>0.8</priority>
+    
+    </url>
+    <url>
+        
+        <loc>https://exeterobserver.org/2020/05/08/pulling-road-pinhoe-exeter-net-zero-carbon-affordable-housing-car-parking-congestion/</loc>
+    
+        
+        <lastmod>2021-04-22T15:02:28.769Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+        
+        <priority>0.8</priority>
+    
+    </url>
+    <url>
+        
+        <loc>https://exeterobserver.org/2020/05/14/exeter-cathedral-and-quay-car-park-3.9m-refurbishment-capital-spending-decision/</loc>
+    
+        
+        <lastmod>2021-04-22T15:02:28.769Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+        
+        <priority>0.8</priority>
+    
+    </url>
+    <url>
+        
+        <loc>https://exeterobserver.org/2020/05/22/devon-county-council-local-cycling-walking-infrastructure-plans-exeter-transport-strategy-department-for-transport-new-road-layout-for-coronavirus-social-distancing/</loc>
+    
+        
+        <lastmod>2021-04-22T15:02:28.769Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+        
+        <priority>0.8</priority>
+    
+    </url>
+    <url>
+        
+        <loc>https://exeterobserver.org/2020/06/01/devon-county-council-cycling-walking-infrastructure-delivery-failure-department-for-transport-new-road-layouts-funding/</loc>
+    
+        
+        <lastmod>2021-04-22T15:02:28.769Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+        
+        <priority>0.8</priority>
+    
+    </url>
+    <url>
+        
+        <loc>https://exeterobserver.org/2020/06/05/exeter-city-futures-net-zero-exeter-2030-plan-exeter-city-council-executive-decision/</loc>
+    
+        
+        <lastmod>2021-04-22T15:02:28.769Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+        
+        <priority>0.8</priority>
+    
+    </url>
+    <url>
+        
+        <loc>https://exeterobserver.org/2020/06/10/exeter-rough-sleepers-covid19-emergency-accommodation-rough-sleeping-initiative-homelessness/</loc>
+    
+        
+        <lastmod>2021-04-22T15:02:28.769Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+        
+        <priority>0.8</priority>
+    
+    </url>
+    <url>
+        
+        <loc>https://exeterobserver.org/2020/07/14/unelected-liveable-exeter-place-board-created-by-city-council-to-take-responsibility-for-major-policies-determining-Exeter-future-development/</loc>
+    
+        
+        <lastmod>2021-04-22T15:02:28.769Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+        
+        <priority>0.8</priority>
+    
+    </url>
+    <url>
+        
+        <loc>https://exeterobserver.org/2020/07/21/net-zero-exeter-2030-plan-part-one-exeters-carbon-footprint-exeter-city-futures-exeter-city-council-fridays-for-future-climate-activists/</loc>
+    
+        
+        <lastmod>2021-04-22T15:02:28.769Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+        
+        <priority>0.8</priority>
+    
+    </url>
+    <url>
+        
+        <loc>https://exeterobserver.org/2020/08/04/devon-county-council-covid-19-temporary-cycling-and-walking-infrastructure-safety-plans-exeter-city-centre/</loc>
+    
+        
+        <lastmod>2021-04-22T15:02:28.769Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -2105,7 +1237,21 @@
         <loc>https://exeterobserver.org/2020/09/07/exeter-city-council-executive-planning-committee-membership-majority-despite-local-government-association-guidance/</loc>
     
         
-        <lastmod>2021-04-22T14:56:20.780Z</lastmod>
+        <lastmod>2021-04-22T15:02:28.769Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+        
+        <priority>0.8</priority>
+    
+    </url>
+    <url>
+        
+        <loc>https://exeterobserver.org/2020/10/28/royal-devon-and-exeter-hospital-wonford-nhs-trust-creates-200-car-parking-spaces-despite-city-climate-crisis-goals-local-plan-policy-exeter-net-zero-air-quality/</loc>
+    
+        
+        <lastmod>2021-04-22T15:02:28.769Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -2119,7 +1265,119 @@
         <loc>https://exeterobserver.org/2020/12/03/harlequins-shopping-centre-redevelopment-substandard-coliving-hotel-student-accommodation-liveable-exeter-city-council-conservation-charities-community-campaign-harm-historic-heritage-assets/</loc>
     
         
-        <lastmod>2021-04-22T14:56:20.780Z</lastmod>
+        <lastmod>2021-04-22T15:02:28.769Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+        
+        <priority>0.8</priority>
+    
+    </url>
+    <url>
+        
+        <loc>https://exeterobserver.org/2021/01/21/longbrook-street-student-accommodation-development-reapplication-king-billy-demolition/</loc>
+    
+        
+        <lastmod>2021-04-22T15:02:28.769Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+        
+        <priority>0.8</priority>
+    
+    </url>
+    <url>
+        
+        <loc>https://exeterobserver.org/2021/02/08/university-of-exeter-streatham-campus-clydesdale-birks-student-accommodation-development-outline-application/</loc>
+    
+        
+        <lastmod>2021-04-22T15:02:28.769Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+        
+        <priority>0.8</priority>
+    
+    </url>
+    <url>
+        
+        <loc>https://exeterobserver.org/2021/02/11/gw4-university-research-consortium-launches-accelearate-to-net-zero-climate-change-mitigation-project/</loc>
+    
+        
+        <lastmod>2021-04-22T15:02:28.769Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+        
+        <priority>0.8</priority>
+    
+    </url>
+    <url>
+        
+        <loc>https://exeterobserver.org/2021/02/12/south-west-exeter-district-heating-network-housing-infrastructure-fund/</loc>
+    
+        
+        <lastmod>2021-04-22T15:02:28.769Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+        
+        <priority>0.8</priority>
+    
+    </url>
+    <url>
+        
+        <loc>https://exeterobserver.org/2021/02/17/exeter-science-park-stemm-grow-out-building-construction-begins/</loc>
+    
+        
+        <lastmod>2021-04-22T15:02:28.769Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+        
+        <priority>0.8</priority>
+    
+    </url>
+    <url>
+        
+        <loc>https://exeterobserver.org/2021/02/20/may-local-elections-go-ahead-despite-covid-19-challenges-doorstep-canvassing-leaflet-distribution-ban/</loc>
+    
+        
+        <lastmod>2021-04-22T15:02:28.769Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+        
+        <priority>0.8</priority>
+    
+    </url>
+    <url>
+        
+        <loc>https://exeterobserver.org/2021/02/23/devon-county-council-pension-fund-fossil-fuel-investment/</loc>
+    
+        
+        <lastmod>2021-04-22T15:02:28.769Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+        
+        <priority>0.8</priority>
+    
+    </url>
+    <url>
+        
+        <loc>https://exeterobserver.org/2021/02/23/exeter-city-council-pushes-back-on-liveable-exeter-place-board-scrutiny-following-membership-change/</loc>
+    
+        
+        <lastmod>2021-04-22T15:02:28.769Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -2133,7 +1391,749 @@
         <loc>https://exeterobserver.org/2021/03/02/door-to-door-campaigning-for-may-local-elections-to-go-ahead-from-8-march/</loc>
     
         
-        <lastmod>2021-04-22T14:56:20.780Z</lastmod>
+        <lastmod>2021-04-22T15:02:28.769Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+        
+        <priority>0.8</priority>
+    
+    </url>
+    <url>
+        
+        <loc>https://exeterobserver.org/2021/03/04/exeter-princesshay-debenhams-cinema-bar-restaurant-use-change-application/</loc>
+    
+        
+        <lastmod>2021-04-22T15:02:28.769Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+        
+        <priority>0.8</priority>
+    
+    </url>
+    <url>
+        
+        <loc>https://exeterobserver.org/2021/03/09/37.5-million-council-maintenance-backlog-underinvestment-asset-sales-44-million-st-sidwells-point-leisure-centre/</loc>
+    
+        
+        <lastmod>2021-04-22T15:02:28.769Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+        
+        <priority>0.8</priority>
+    
+    </url>
+    <url>
+        
+        <loc>https://exeterobserver.org/2021/03/10/three-key-climate-crisis-insights-learned-during-the-covid-pandemic/</loc>
+    
+        
+        <lastmod>2021-04-22T15:02:28.769Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+        
+        <priority>0.8</priority>
+    
+    </url>
+    <url>
+        
+        <loc>https://exeterobserver.org/2021/03/17/maclaines-warehouses-development-tests-exeter-heritage-harbour-status-ship-canal-basin-quay-topsham-brewery/</loc>
+    
+        
+        <lastmod>2021-04-22T15:02:28.769Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+        
+        <priority>0.8</priority>
+    
+    </url>
+    <url>
+        
+        <loc>https://exeterobserver.org/2021/03/18/atmospheric-carbon-dioxide-now-50-per-cent-higher-than-pre-industrial-levels-met-office/</loc>
+    
+        
+        <lastmod>2021-04-22T15:02:28.769Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+        
+        <priority>0.8</priority>
+    
+    </url>
+    <url>
+        
+        <loc>https://exeterobserver.org/2021/03/19/okehamption-to-exeter-dartmoor-line-passenger-rail-service-reinstatement-confirmed-40-million-department-for-transport-restoring-your-railway-fund/</loc>
+    
+        
+        <lastmod>2021-04-22T15:02:28.769Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+        
+        <priority>0.8</priority>
+    
+    </url>
+    <url>
+        
+        <loc>https://exeterobserver.org/2021/03/26/developer-plans-to-convert-retail-units-in-exeter-city-centre-block-to-additional-student-bedrooms/</loc>
+    
+        
+        <lastmod>2021-04-22T15:02:28.769Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+        
+        <priority>0.8</priority>
+    
+    </url>
+    <url>
+        
+        <loc>https://exeterobserver.org/2021/03/26/selective-use-of-statistics-presents-unbalanced-account-of-exeter-economic-and-environmental-status-city-council-chief-executive-centre-for-cities/</loc>
+    
+        
+        <lastmod>2021-04-22T15:02:28.769Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+        
+        <priority>0.8</priority>
+    
+    </url>
+    <url>
+        
+        <loc>https://exeterobserver.org/2021/04/01/exeter-the-musical/</loc>
+    
+        
+        <lastmod>2021-04-22T15:02:28.769Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+        
+        <priority>0.8</priority>
+    
+    </url>
+    <url>
+        
+        <loc>https://exeterobserver.org/2021/04/16/the-exeter-digest-1-statistics-in-the-balance-dartmoor-line-to-reopen-local-elections-are-coming/</loc>
+    
+        
+        <lastmod>2021-04-22T15:02:28.769Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+        
+        <priority>0.8</priority>
+    
+    </url>
+    <url>
+        
+        <loc>https://exeterobserver.org/2021/04/19/exeter-observer-publishes-first-edition-of-the-exeter-digest-newsletter/</loc>
+    
+        
+        <lastmod>2021-04-22T15:02:28.769Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+        
+        <priority>0.8</priority>
+    
+    </url>
+    <url>
+        
+        <loc>https://exeterobserver.org/2021/04/22/world-meteorological-organization-report-confirms-relentless-intensification-of-climate-crisis-despite-pandemic-lockdowns/</loc>
+    
+        
+        <lastmod>2021-04-22T15:02:28.769Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+        
+        <priority>0.8</priority>
+    
+    </url>
+    <url>
+        
+        <loc>https://exeterobserver.org/2019/03/08/exeter-st-james-regeneration/</loc>
+    
+        
+        <lastmod>2021-04-22T15:02:28.769Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+        
+        <priority>0.8</priority>
+    
+    </url>
+    <url>
+        
+        <loc>https://exeterobserver.org/2019/03/30/extinction-rebellion-climate-emergency-protest-exeter-guildhall-shopping-centre/</loc>
+    
+        
+        <lastmod>2021-04-22T15:02:28.769Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+        
+        <priority>0.8</priority>
+    
+    </url>
+    <url>
+        
+        <loc>https://exeterobserver.org/2019/03/01/streets-are-for-people-not-cars/</loc>
+    
+        
+        <lastmod>2021-04-22T15:02:28.769Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+        
+        <priority>0.8</priority>
+    
+    </url>
+    <url>
+        
+        <loc>https://exeterobserver.org/2019/03/16/kaleider-mikrofest-our-dancing-shadows-exeter-princesshay/</loc>
+    
+        
+        <lastmod>2021-04-22T15:02:28.769Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+        
+        <priority>0.8</priority>
+    
+    </url>
+    <url>
+        
+        <loc>https://exeterobserver.org/2019/04/05/greater-exeter-strategic-plan-update-delivery/</loc>
+    
+        
+        <lastmod>2021-04-22T15:02:28.769Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+        
+        <priority>0.8</priority>
+    
+    </url>
+    <url>
+        
+        <loc>https://exeterobserver.org/2019/04/19/exeter-city-council-information-transparency-democracy/</loc>
+    
+        
+        <lastmod>2021-04-22T15:02:28.769Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+        
+        <priority>0.8</priority>
+    
+    </url>
+    <url>
+        
+        <loc>https://exeterobserver.org/2019/04/26/exeter-clifton-hill-sports-centre-background/</loc>
+    
+        
+        <lastmod>2021-04-22T15:02:28.769Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+        
+        <priority>0.8</priority>
+    
+    </url>
+    <url>
+        
+        <loc>https://exeterobserver.org/2019/04/26/exeter-local-resident-stands-independent-candidate-exeter-elections/</loc>
+    
+        
+        <lastmod>2021-04-22T15:02:28.769Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+        
+        <priority>0.8</priority>
+    
+    </url>
+    <url>
+        
+        <loc>https://exeterobserver.org/2019/05/03/exeter-labour-loses-city-centre-wards-local-elections/</loc>
+    
+        
+        <lastmod>2021-04-22T15:02:28.769Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+        
+        <priority>0.8</priority>
+    
+    </url>
+    <url>
+        
+        <loc>https://exeterobserver.org/2019/05/11/exeter-ramm-rainbow-trail-lgbtqia-exhibition-pride/</loc>
+    
+        
+        <lastmod>2021-04-22T15:02:28.769Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+        
+        <priority>0.8</priority>
+    
+    </url>
+    <url>
+        
+        <loc>https://exeterobserver.org/2019/05/17/exeter-college-midsummer-nights-dream-barnfield-theatre/</loc>
+    
+        
+        <lastmod>2021-04-22T15:02:28.769Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+        
+        <priority>0.8</priority>
+    
+    </url>
+    <url>
+        
+        <loc>https://exeterobserver.org/2019/05/17/mount-radford-lawn-development-proposals-conflict-with-community-vision/</loc>
+    
+        
+        <lastmod>2021-04-22T15:02:28.769Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+        
+        <priority>0.8</priority>
+    
+    </url>
+    <url>
+        
+        <loc>https://exeterobserver.org/2019/05/21/molly-scott-cato-eu-elections-climate-change-brexit-european-parliament/</loc>
+    
+        
+        <lastmod>2021-04-22T15:02:28.769Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+        
+        <priority>0.8</priority>
+    
+    </url>
+    <url>
+        
+        <loc>https://exeterobserver.org/2019/05/24/extreme-imagination-inside-the-minds-eye-aphantasia-exeter-ramm/</loc>
+    
+        
+        <lastmod>2021-04-22T15:02:28.769Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+        
+        <priority>0.8</priority>
+    
+    </url>
+    <url>
+        
+        <loc>https://exeterobserver.org/2019/05/30/exeter-college-music-academy-jambassadors-jazz-toast-barnfield-theatre/</loc>
+    
+        
+        <lastmod>2021-04-22T15:02:28.769Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+        
+        <priority>0.8</priority>
+    
+    </url>
+    <url>
+        
+        <loc>https://exeterobserver.org/2019/06/06/exeter-youth-strike-for-climate-floodgates-open/</loc>
+    
+        
+        <lastmod>2021-04-22T15:02:28.769Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+        
+        <priority>0.8</priority>
+    
+    </url>
+    <url>
+        
+        <loc>https://exeterobserver.org/2019/06/07/preston-street-union-serge-surge-exeter-city-walls-woollen-trade-ramm-commission/</loc>
+    
+        
+        <lastmod>2021-04-22T15:02:28.769Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+        
+        <priority>0.8</priority>
+    
+    </url>
+    <url>
+        
+        <loc>https://exeterobserver.org/2019/06/11/exeter-budget-cuts-public-toilet-closures/</loc>
+    
+        
+        <lastmod>2021-04-22T15:02:28.769Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+        
+        <priority>0.8</priority>
+    
+    </url>
+    <url>
+        
+        <loc>https://exeterobserver.org/2019/06/18/exeter-observer-agrees-regulatory-framework-with-impress/</loc>
+    
+        
+        <lastmod>2021-04-22T15:02:28.769Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+        
+        <priority>0.8</priority>
+    
+    </url>
+    <url>
+        
+        <loc>https://exeterobserver.org/2019/06/23/climate-crisis-exeter-devon-carbon-reduction-ultra-low-emission-clean-air-zones-parking-levy-living-streets/</loc>
+    
+        
+        <lastmod>2021-04-22T15:02:28.769Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+        
+        <priority>0.8</priority>
+    
+    </url>
+    <url>
+        
+        <loc>https://exeterobserver.org/2019/07/08/exeter-could-do-better-council-budget-cuts-public-toilet-closures/</loc>
+    
+        
+        <lastmod>2021-04-22T15:02:28.769Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+        
+        <priority>0.8</priority>
+    
+    </url>
+    <url>
+        
+        <loc>https://exeterobserver.org/2019/07/27/exeter-extinction-rebellion-funeral-march-photo-gallery/</loc>
+    
+        
+        <lastmod>2021-04-22T15:02:28.769Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+        
+        <priority>0.8</priority>
+    
+    </url>
+    <url>
+        
+        <loc>https://exeterobserver.org/2019/07/30/exeter-extinction-rebellion-funeral-march-climate-crisis-wildlife-loss/</loc>
+    
+        
+        <lastmod>2021-04-22T15:02:28.769Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+        
+        <priority>0.8</priority>
+    
+    </url>
+    <url>
+        
+        <loc>https://exeterobserver.org/2019/09/03/exeter-anti-government-protest-prorogation-parliament-brexit-no-deal/</loc>
+    
+        
+        <lastmod>2021-04-22T15:02:28.769Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+        
+        <priority>0.8</priority>
+    
+    </url>
+    <url>
+        
+        <loc>https://exeterobserver.org/2019/09/14/exeter-extinction-rebellion-wave-of-water-fashion-industry-march-photo-gallery/</loc>
+    
+        
+        <lastmod>2021-04-22T15:02:28.769Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+        
+        <priority>0.8</priority>
+    
+    </url>
+    <url>
+        
+        <loc>https://exeterobserver.org/2019/09/17/exeter-university-college-union-launches-anti-casualisation-campaign/</loc>
+    
+        
+        <lastmod>2021-04-22T15:02:28.769Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+        
+        <priority>0.8</priority>
+    
+    </url>
+    <url>
+        
+        <loc>https://exeterobserver.org/2019/09/20/exeter-global-climate-strike-climate-crisis-green-new-deal/</loc>
+    
+        
+        <lastmod>2021-04-22T15:02:28.769Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+        
+        <priority>0.8</priority>
+    
+    </url>
+    <url>
+        
+        <loc>https://exeterobserver.org/2019/09/20/exeter-youth-climate-strikers-launch-green-new-deal-devon/</loc>
+    
+        
+        <lastmod>2021-04-22T15:02:28.769Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+        
+        <priority>0.8</priority>
+    
+    </url>
+    <url>
+        
+        <loc>https://exeterobserver.org/2019/09/21/exeter-global-climate-strike-march-photo-gallery/</loc>
+    
+        
+        <lastmod>2021-04-22T15:02:28.769Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+        
+        <priority>0.8</priority>
+    
+    </url>
+    <url>
+        
+        <loc>https://exeterobserver.org/2019/10/09/exeter-city-council-reduces-scrutiny-decision-making/</loc>
+    
+        
+        <lastmod>2021-04-22T15:02:28.769Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+        
+        <priority>0.8</priority>
+    
+    </url>
+    <url>
+        
+        <loc>https://exeterobserver.org/2019/10/25/exeter-heavitree-whipton-barton-byelection-devon-county-council-labour-vote-share-collapse/</loc>
+    
+        
+        <lastmod>2021-04-22T15:02:28.769Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+        
+        <priority>0.8</priority>
+    
+    </url>
+    <url>
+        
+        <loc>https://exeterobserver.org/2019/11/12/heart-of-the-south-west-local-enterprise-partnership-local-industrial-strategy/</loc>
+    
+        
+        <lastmod>2021-04-22T15:02:28.769Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+        
+        <priority>0.8</priority>
+    
+    </url>
+    <url>
+        
+        <loc>https://exeterobserver.org/2019/11/25/integrated-public-transport-devon-county-council-country-bus-stagecoach-exeter-g-service/</loc>
+    
+        
+        <lastmod>2021-04-22T15:02:28.769Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+        
+        <priority>0.8</priority>
+    
+    </url>
+    <url>
+        
+        <loc>https://exeterobserver.org/2019/11/27/exeter-university-college-union-strike/</loc>
+    
+        
+        <lastmod>2021-04-22T15:02:28.769Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+        
+        <priority>0.8</priority>
+    
+    </url>
+    <url>
+        
+        <loc>https://exeterobserver.org/2019/11/30/exeter-climate-strikers-create-human-chain-around-county-hall/</loc>
+    
+        
+        <lastmod>2021-04-22T15:02:28.769Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+        
+        <priority>0.8</priority>
+    
+    </url>
+    <url>
+        
+        <loc>https://exeterobserver.org/2019/12/05/2019-east-devon-independent-claire-wright-unite-remain-voters-general-election-green-party-lib-dems/</loc>
+    
+        
+        <lastmod>2021-04-22T15:02:28.769Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+        
+        <priority>0.8</priority>
+    
+    </url>
+    <url>
+        
+        <loc>https://exeterobserver.org/2019/12/12/exeter-observer-joins-bbc-local-news-partnerships/</loc>
+    
+        
+        <lastmod>2021-04-22T15:02:28.769Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+        
+        <priority>0.8</priority>
+    
+    </url>
+    <url>
+        
+        <loc>https://exeterobserver.org/2019/12/14/conservative-wins-exeter-topsham-byelection-reduced-vote-share/</loc>
+    
+        
+        <lastmod>2021-04-22T15:02:28.769Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+        
+        <priority>0.8</priority>
+    
+    </url>
+    <url>
+        
+        <loc>https://exeterobserver.org/2019/12/15/2019-parliamentary-elections-devon-results-analysis-varying-conservative-performance-labour-losses/</loc>
+    
+        
+        <lastmod>2021-04-22T15:02:28.769Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+        
+        <priority>0.8</priority>
+    
+    </url>
+    <url>
+        
+        <loc>https://exeterobserver.org/2019/12/17/exeter-observer-community-journalism-training-course/</loc>
+    
+        
+        <lastmod>2021-04-22T15:02:28.769Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+        
+        <priority>0.8</priority>
+    
+    </url>
+    <url>
+        
+        <loc>https://exeterobserver.org/2019/12/17/exeter-observer-joins-independent-community-news-network/</loc>
+    
+        
+        <lastmod>2021-04-22T15:02:28.769Z</lastmod>
     
         
         <changefreq>daily</changefreq>
