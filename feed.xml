@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Exeter Observer - Independent public interest community journalism</title>
+        <title>Exeter Observer - Independent public interest journalism for Exeter and beyond</title>
 
         <description>Exeter Observer publishes news, analysis and in-depth features which inform and empower while holding wealth, power and the influence of individuals and institutions to account by investigating their actions and challenging them in the public sphere.</description>
 
@@ -9,9 +9,9 @@
 
         <atom:link href="https://exeterobserver.org/feed.xml" rel="self" type="application/rss+xml"/>
 
-        <pubDate>Thu, 16 Dec 2021 15:19:11 +0000</pubDate>
+        <pubDate>Fri, 17 Dec 2021 18:07:10 +0000</pubDate>
 
-        <lastBuildDate>Thu, 16 Dec 2021 15:19:11 +0000</lastBuildDate>
+        <lastBuildDate>Fri, 17 Dec 2021 18:07:10 +0000</lastBuildDate>
 
         
 
@@ -73,11 +73,11 @@
                         
                             <category>Houses in multiple occupation</category>
                         
-                            <category>Article 4 area</category>
-                        
                             <category>Purpose built student accommodation</category>
                         
-                            <category>Council tax exemptions</category>
+                            <category>Council tax</category>
+                        
+                            <category>Freedom of information</category>
                         
                     
 
@@ -157,8 +157,6 @@
                         
                             <category>University of exeter</category>
                         
-                            <category>Social mobility</category>
-                        
                     
 
                     
@@ -229,10 +227,6 @@
                         
                             <category>Exe estuary</category>
                         
-                            <category>Dawlish warren</category>
-                        
-                            <category>Exmouth</category>
-                        
                     
 
                     
@@ -269,8 +263,6 @@
                     
                         
                             <category>St thomas</category>
-                        
-                            <category>Exeter markets</category>
                         
                     
 
