@@ -9,9 +9,9 @@
 
         <atom:link href="https://exeterobserver.org/feed.xml" rel="self" type="application/rss+xml"/>
 
-        <pubDate>Fri, 13 Jan 2023 16:14:25 +0000</pubDate>
+        <pubDate>Sat, 14 Jan 2023 12:14:57 +0000</pubDate>
 
-        <lastBuildDate>Fri, 13 Jan 2023 16:14:25 +0000</lastBuildDate>
+        <lastBuildDate>Sat, 14 Jan 2023 12:14:57 +0000</lastBuildDate>
 
         
 
@@ -180,7 +180,9 @@
 
                     
                         
-                            <category>Climate Crisis</category>
+                            <category>Climate crisis</category>
+                        
+                            <category>Exeter Extinction Rebellion</category>
                         
                     
 
@@ -213,6 +215,28 @@
 
                     
 
+                    
+                        
+                            <category>Devon County Council</category>
+                        
+                            <category>Cycling and walking</category>
+                        
+                            <category>South West Exeter extension</category>
+                        
+                            <category>Met Office</category>
+                        
+                            <category>Housing crisis</category>
+                        
+                            <category>Exeter City Council</category>
+                        
+                            <category>Property development</category>
+                        
+                            <category>Exeter City Living</category>
+                        
+                            <category>Student accommodation</category>
+                        
+                            <category>Co-living</category>
+                        
                     
 
                     
