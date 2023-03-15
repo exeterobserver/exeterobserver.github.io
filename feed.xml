@@ -9,9 +9,9 @@
 
         <atom:link href="https://exeterobserver.org/feed.xml" rel="self" type="application/rss+xml"/>
 
-        <pubDate>Wed, 15 Mar 2023 09:21:03 +0000</pubDate>
+        <pubDate>Wed, 15 Mar 2023 09:41:10 +0000</pubDate>
 
-        <lastBuildDate>Wed, 15 Mar 2023 09:21:03 +0000</lastBuildDate>
+        <lastBuildDate>Wed, 15 Mar 2023 09:41:10 +0000</lastBuildDate>
 
         
 
@@ -80,6 +80,10 @@
                             <category>East Devon District Council</category>
                         
                             <category>Exeter Airport</category>
+                        
+                            <category>Student accommodation</category>
+                        
+                            <category>Exeter City Futures</category>
                         
                     
 
