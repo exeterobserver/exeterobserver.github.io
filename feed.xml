@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Exeter Observer - Independent, investigative, in the public interest</title>
+        <title>Exeter Observer - Local news that matters</title>
 
-        <description>Exeter Observer is a new kind of independent news organisation that holds wealth, power and influence to account while helping people participate more effectively in local democracy.</description>
+        <description>Exeter Observer is a new kind of community news organisation that holds wealth, power and influence to account while helping people participate more effectively in local democracy.</description>
 
         <link>https://exeterobserver.org</link>
 
         <atom:link href="https://exeterobserver.org/feed.xml" rel="self" type="application/rss+xml"/>
 
-        <pubDate>Fri, 04 Aug 2023 13:24:44 +0100</pubDate>
+        <pubDate>Fri, 04 Aug 2023 19:57:05 +0100</pubDate>
 
-        <lastBuildDate>Fri, 04 Aug 2023 13:24:44 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 04 Aug 2023 19:57:05 +0100</lastBuildDate>
 
         
 
