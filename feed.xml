@@ -9,9 +9,9 @@
 
         <atom:link href="https://exeterobserver.org/feed.xml" rel="self" type="application/rss+xml"/>
 
-        <pubDate>Tue, 15 Aug 2023 14:59:03 +0100</pubDate>
+        <pubDate>Mon, 21 Aug 2023 10:52:18 +0100</pubDate>
 
-        <lastBuildDate>Tue, 15 Aug 2023 14:59:03 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 21 Aug 2023 10:52:18 +0100</lastBuildDate>
 
         
 
@@ -272,6 +272,8 @@
                             <category>Royal Devon NHS Trust</category>
                         
                             <category>Exeter St David's</category>
+                        
+                            <category>Mid Devon District Council</category>
                         
                     
 
