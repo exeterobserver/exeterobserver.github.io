@@ -9,9 +9,9 @@
 
         <atom:link href="https://exeterobserver.org/feed.xml" rel="self" type="application/rss+xml"/>
 
-        <pubDate>Wed, 30 Aug 2023 15:04:09 +0100</pubDate>
+        <pubDate>Wed, 30 Aug 2023 15:23:28 +0100</pubDate>
 
-        <lastBuildDate>Wed, 30 Aug 2023 15:04:09 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 30 Aug 2023 15:23:28 +0100</lastBuildDate>
 
         
 
@@ -21,8 +21,13 @@
 
                 <item>
 
-                    <title>NEWSWIRE // Two day strike by consultants at Royal Devon NHS Trust</title>
+                    
 
+                    <title> // Two day strike by consultants at Royal Devon NHS Trust</title>
+
+                    
+                        <description>A two day strike by consultants at the Royal Devon NHS Trust is being held from 7am on Thursday 24 August, with more strikes planned for 19 and 20 September and 2-4 October if progress is not made in discussions with the government over pay.
+..</description>
                     
 
                     
@@ -57,7 +62,9 @@
 
                 <item>
 
-                    <title>EVENT // Exeter Street Arts Festival 2023</title>
+                    
+
+                    <title> // Exeter Street Arts Festival 2023</title>
 
                     
                         <description>The annual festival returns with street theatre and performance, interactive workshops, walkabouts and live music.</description>
@@ -91,7 +98,9 @@
 
                 <item>
 
-                    <title>EVENT // Ukrainian Yarmarok</title>
+                    
+
+                    <title> // Ukrainian Yarmarok</title>
 
                     
                         <description>A celebration of Ukrainian independence with a traditional fair featuring food, music, dance and crafts.</description>
@@ -129,8 +138,13 @@
 
                 <item>
 
-                    <title>NEWSWIRE // Council-owned property development company to be dissolved</title>
+                    
 
+                    <title> // Council-owned property development company to be dissolved</title>
+
+                    
+                        <description>Mid Devon District Council is expected to wind up 3 Rivers Developments Ltd, a failing property development company it set up in 2017 and has since loaned more than £21 million.
+..</description>
                     
 
                     
@@ -165,7 +179,9 @@
 
                 <item>
 
-                    <title>NEWS // Just Stop Oil protests arrive in Exeter</title>
+                    
+
+                    <title> // Just Stop Oil protests arrive in Exeter</title>
 
                     
                         <description>Slow march from Sidwell Street to Northernhay Gardens first action in city by group calling for end to UK fossil fuel exploration, development and production.</description>
@@ -203,8 +219,13 @@
 
                 <item>
 
-                    <title>NOTICEBOARD // Public consultation on county council moving traffic offence enforcement powers</title>
+                    
 
+                    <title> // Public consultation on county council moving traffic offence enforcement powers</title>
+
+                    
+                        <description>Devon County Council is holding a public consultation until 18 September on its plans to adopt moving traffic offence enforcement powers and introduce Automatic Number Place Recognition (ANPR) cameras in five Exeter and three Barnstaple locations following an application made last year to the Department for Transport.
+..</description>
                     
 
                     
@@ -243,8 +264,13 @@
 
                 <item>
 
-                    <title>NOTICEBOARD // Exeter St David&apos;s station manager&apos;s office to be demolished</title>
+                    
 
+                    <title> // Exeter St David&apos;s station manager&apos;s office to be demolished</title>
+
+                    
+                        <description>Network Rail has notified the city council that it plans to demolish the former superintendent’s office building at Exeter St David’s station in October under its permitted development powers as part of a platform lengthening scheme.
+..</description>
                     
 
                     
@@ -279,7 +305,9 @@
 
                 <item>
 
-                    <title>EVENT // The Real Onedin Line Redux</title>
+                    
+
+                    <title> // The Real Onedin Line Redux</title>
 
                     
                         <description>Art Work Exeter presents an exploration of Exeter&apos;s quayside including the restaging of scenes from a 1970s BBC drama filmed on location at the quay.</description>
@@ -313,8 +341,13 @@
 
                 <item>
 
-                    <title>NEWSWIRE // Four day strike by junior doctors at Royal Devon NHS Trust</title>
+                    
 
+                    <title> // Four day strike by junior doctors at Royal Devon NHS Trust</title>
+
+                    
+                        <description>A four day strike by junior doctors at the Royal Devon NHS Trust is being held from 7am on Friday 11 August, with another strike by consultants planned for 19 and 20 September.
+..</description>
                     
 
                     
@@ -349,7 +382,9 @@
 
                 <item>
 
-                    <title>EVENT // Climate exhibition 2023</title>
+                    
+
+                    <title> // Climate exhibition 2023</title>
 
                     
                         <description>Exeter Science Centre presents talks, activities and virtual reality experiences focussed on climate modelling.</description>
