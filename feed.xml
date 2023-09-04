@@ -5,13 +5,13 @@
 
         <description>Exeter Observer is a new kind of community news organisation that holds wealth, power and influence to account while helping people participate more effectively in local democracy.</description>
 
-        <link>https://exeterobserver.org</link>
+        <link>http://localhost:3000</link>
 
-        <atom:link href="https://exeterobserver.org/feed.xml" rel="self" type="application/rss+xml"/>
+        <atom:link href="http://localhost:3000/feed.xml" rel="self" type="application/rss+xml"/>
 
-        <pubDate>Mon, 04 Sep 2023 10:34:41 +0100</pubDate>
+        <pubDate>Mon, 04 Sep 2023 17:10:02 +0100</pubDate>
 
-        <lastBuildDate>Mon, 04 Sep 2023 10:34:41 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 04 Sep 2023 17:10:02 +0100</lastBuildDate>
 
         
 
@@ -31,7 +31,7 @@
                     
 
                     
-                        <link>https://exeterobserver.org/2023/09/04/belluno-italian-restaurant-newton-st-cyres-home-office-immigration-enforcement-mid-devon-district-council-premises-licensing/</link>
+                        <link>http://localhost:3000/2023/09/04/belluno-italian-restaurant-newton-st-cyres-home-office-immigration-enforcement-mid-devon-district-council-premises-licensing/</link>
                     
 
                     
@@ -51,7 +51,7 @@
                     
 
                     
-                        <guid isPermaLink="true">https://exeterobserver.org/2023/09/04/belluno-italian-restaurant-newton-st-cyres-home-office-immigration-enforcement-mid-devon-district-council-premises-licensing/</guid>
+                        <guid isPermaLink="true">http://localhost:3000/2023/09/04/belluno-italian-restaurant-newton-st-cyres-home-office-immigration-enforcement-mid-devon-district-council-premises-licensing/</guid>
                     
 
                 </item>
@@ -73,7 +73,7 @@
                     
 
                     
-                        <link>https://exeterobserver.org/2023/09/02/101-bed-victoria-street-co-living-development-exeter-city-council-vision-collision-course-st-james-neighbourhood-plan-policies-yet-more-student-housing-by-stealth/</link>
+                        <link>http://localhost:3000/2023/09/02/101-bed-victoria-street-co-living-development-exeter-city-council-vision-collision-course-st-james-neighbourhood-plan-policies-yet-more-student-housing-by-stealth/</link>
                     
 
                     
@@ -99,7 +99,7 @@
                     
 
                     
-                        <guid isPermaLink="true">https://exeterobserver.org/2023/09/02/101-bed-victoria-street-co-living-development-exeter-city-council-vision-collision-course-st-james-neighbourhood-plan-policies-yet-more-student-housing-by-stealth/</guid>
+                        <guid isPermaLink="true">http://localhost:3000/2023/09/02/101-bed-victoria-street-co-living-development-exeter-city-council-vision-collision-course-st-james-neighbourhood-plan-policies-yet-more-student-housing-by-stealth/</guid>
                     
 
                 </item>
@@ -117,12 +117,12 @@
                     <title>EXETER IN BRIEF // Two day strike by consultants at Royal Devon NHS Trust</title>
 
                     
-                        <description>A two day strike by consultants at the Royal Devon NHS Trust is being held from 7am on Thursday 24 August, with more strikes planned for 19 and 20 September and 2-4 October if progress is not made in discussions with the government over pay.
+                        <description>A two day strike by consultants at the Royal Devon NHS Trust is being held from 7am on Thursday 24 August.
 </description>
                     
 
                     
-                        <link>https://exeterobserver.org/2023/08/24/two-day-strike-consultants-royal-devon-nhs-trust/</link>
+                        <link>http://localhost:3000/2023/08/24/two-day-strike-consultants-royal-devon-nhs-trust/</link>
                     
 
                     
@@ -140,7 +140,7 @@
                     
 
                     
-                        <guid isPermaLink="true">https://exeterobserver.org/2023/08/24/two-day-strike-consultants-royal-devon-nhs-trust/</guid>
+                        <guid isPermaLink="true">http://localhost:3000/2023/08/24/two-day-strike-consultants-royal-devon-nhs-trust/</guid>
                     
 
                 </item>
@@ -162,7 +162,7 @@
                     
 
                     
-                        <link>https://exeterobserver.org/2023/08/21/exeter-street-arts-festival-saturday-26-august-2023-exeter-city-centre/</link>
+                        <link>http://localhost:3000/2023/08/21/exeter-street-arts-festival-saturday-26-august-2023-exeter-city-centre/</link>
                     
 
                     
@@ -176,7 +176,7 @@
                     
 
                     
-                        <guid isPermaLink="true">https://exeterobserver.org/2023/08/21/exeter-street-arts-festival-saturday-26-august-2023-exeter-city-centre/</guid>
+                        <guid isPermaLink="true">http://localhost:3000/2023/08/21/exeter-street-arts-festival-saturday-26-august-2023-exeter-city-centre/</guid>
                     
 
                 </item>
@@ -198,7 +198,7 @@
                     
 
                     
-                        <link>https://exeterobserver.org/2023/08/21/ukrainian-yarmarok-fair-saturday-26-august-2023-maketank/</link>
+                        <link>http://localhost:3000/2023/08/21/ukrainian-yarmarok-fair-saturday-26-august-2023-maketank/</link>
                     
 
                     
@@ -216,7 +216,7 @@
                     
 
                     
-                        <guid isPermaLink="true">https://exeterobserver.org/2023/08/21/ukrainian-yarmarok-fair-saturday-26-august-2023-maketank/</guid>
+                        <guid isPermaLink="true">http://localhost:3000/2023/08/21/ukrainian-yarmarok-fair-saturday-26-august-2023-maketank/</guid>
                     
 
                 </item>
@@ -239,7 +239,7 @@
                     
 
                     
-                        <link>https://exeterobserver.org/2023/08/21/mid-devon-district-council-3-rivers-developments-ltd-to-be-dissolved/</link>
+                        <link>http://localhost:3000/2023/08/21/mid-devon-district-council-3-rivers-developments-ltd-to-be-dissolved/</link>
                     
 
                     
@@ -257,7 +257,7 @@
                     
 
                     
-                        <guid isPermaLink="true">https://exeterobserver.org/2023/08/21/mid-devon-district-council-3-rivers-developments-ltd-to-be-dissolved/</guid>
+                        <guid isPermaLink="true">http://localhost:3000/2023/08/21/mid-devon-district-council-3-rivers-developments-ltd-to-be-dissolved/</guid>
                     
 
                 </item>
@@ -279,7 +279,7 @@
                     
 
                     
-                        <link>https://exeterobserver.org/2023/08/21/just-stop-oil-exeter-protest-slow-march-sidwell-street-princesshay-northernhay-gardens/</link>
+                        <link>http://localhost:3000/2023/08/21/just-stop-oil-exeter-protest-slow-march-sidwell-street-princesshay-northernhay-gardens/</link>
                     
 
                     
@@ -297,7 +297,7 @@
                     
 
                     
-                        <guid isPermaLink="true">https://exeterobserver.org/2023/08/21/just-stop-oil-exeter-protest-slow-march-sidwell-street-princesshay-northernhay-gardens/</guid>
+                        <guid isPermaLink="true">http://localhost:3000/2023/08/21/just-stop-oil-exeter-protest-slow-march-sidwell-street-princesshay-northernhay-gardens/</guid>
                     
 
                 </item>
@@ -315,12 +315,12 @@
                     <title>ON THE AGENDA // Public consultation on county council moving traffic offence enforcement powers</title>
 
                     
-                        <description>Devon County Council is holding a public consultation until 18 September on its plans to adopt moving traffic offence enforcement powers and introduce Automatic Number Place Recognition (ANPR) cameras in five Exeter and three Barnstaple locations following an application made last year to the Department for Transport.
+                        <description>Devon County Council is holding a public consultation until 18 September on its plans to adopt moving traffic offence enforcement powers and introduce Automatic Number Place Recognition (ANPR) cameras.
 </description>
                     
 
                     
-                        <link>https://exeterobserver.org/2023/08/15/devon-county-council-moving-traffic-offence-enforcement-powers-consultation/</link>
+                        <link>http://localhost:3000/2023/08/15/devon-county-council-moving-traffic-offence-enforcement-powers-consultation/</link>
                     
 
                     
@@ -342,7 +342,7 @@
                     
 
                     
-                        <guid isPermaLink="true">https://exeterobserver.org/2023/08/15/devon-county-council-moving-traffic-offence-enforcement-powers-consultation/</guid>
+                        <guid isPermaLink="true">http://localhost:3000/2023/08/15/devon-county-council-moving-traffic-offence-enforcement-powers-consultation/</guid>
                     
 
                 </item>
@@ -360,12 +360,12 @@
                     <title>ON THE AGENDA // Exeter St David&apos;s station manager&apos;s office to be demolished</title>
 
                     
-                        <description>Network Rail has notified the city council that it plans to demolish the former superintendent’s office building at Exeter St David’s station in October under its permitted development powers as part of a platform lengthening scheme.
+                        <description>Network Rail has notified the city council that it plans to demolish the former superintendent’s office building at Exeter St David’s station in October.
 </description>
                     
 
                     
-                        <link>https://exeterobserver.org/2023/08/15/exeter-st-davids-station-managers-office-demolition/</link>
+                        <link>http://localhost:3000/2023/08/15/exeter-st-davids-station-managers-office-demolition/</link>
                     
 
                     
@@ -383,7 +383,7 @@
                     
 
                     
-                        <guid isPermaLink="true">https://exeterobserver.org/2023/08/15/exeter-st-davids-station-managers-office-demolition/</guid>
+                        <guid isPermaLink="true">http://localhost:3000/2023/08/15/exeter-st-davids-station-managers-office-demolition/</guid>
                     
 
                 </item>
@@ -405,7 +405,7 @@
                     
 
                     
-                        <link>https://exeterobserver.org/2023/08/11/art-work-exeter-real-onedin-line-friday-8-to-monday-11-september-exeter-quay/</link>
+                        <link>http://localhost:3000/2023/08/11/art-work-exeter-real-onedin-line-friday-8-to-monday-11-september-exeter-quay/</link>
                     
 
                     
@@ -419,7 +419,7 @@
                     
 
                     
-                        <guid isPermaLink="true">https://exeterobserver.org/2023/08/11/art-work-exeter-real-onedin-line-friday-8-to-monday-11-september-exeter-quay/</guid>
+                        <guid isPermaLink="true">http://localhost:3000/2023/08/11/art-work-exeter-real-onedin-line-friday-8-to-monday-11-september-exeter-quay/</guid>
                     
 
                 </item>
@@ -437,12 +437,12 @@
                     <title>EXETER IN BRIEF // Four day strike by junior doctors at Royal Devon NHS Trust</title>
 
                     
-                        <description>A four day strike by junior doctors at the Royal Devon NHS Trust is being held from 7am on Friday 11 August, with another strike by consultants planned for 19 and 20 September.
+                        <description>A four day strike by junior doctors at the Royal Devon NHS Trust is being held from 7am on Friday 11 August.
 </description>
                     
 
                     
-                        <link>https://exeterobserver.org/2023/08/11/four-day-strike-junior-doctors-royal-devon-nhs-trust/</link>
+                        <link>http://localhost:3000/2023/08/11/four-day-strike-junior-doctors-royal-devon-nhs-trust/</link>
                     
 
                     
@@ -460,7 +460,7 @@
                     
 
                     
-                        <guid isPermaLink="true">https://exeterobserver.org/2023/08/11/four-day-strike-junior-doctors-royal-devon-nhs-trust/</guid>
+                        <guid isPermaLink="true">http://localhost:3000/2023/08/11/four-day-strike-junior-doctors-royal-devon-nhs-trust/</guid>
                     
 
                 </item>
@@ -482,7 +482,7 @@
                     
 
                     
-                        <link>https://exeterobserver.org/2023/08/11/exeter-science-centre-climate-exhibition-wednesday-6-to-sunday-10-september-maketank/</link>
+                        <link>http://localhost:3000/2023/08/11/exeter-science-centre-climate-exhibition-wednesday-6-to-sunday-10-september-maketank/</link>
                     
 
                     
@@ -500,7 +500,7 @@
                     
 
                     
-                        <guid isPermaLink="true">https://exeterobserver.org/2023/08/11/exeter-science-centre-climate-exhibition-wednesday-6-to-sunday-10-september-maketank/</guid>
+                        <guid isPermaLink="true">http://localhost:3000/2023/08/11/exeter-science-centre-climate-exhibition-wednesday-6-to-sunday-10-september-maketank/</guid>
                     
 
                 </item>
@@ -522,7 +522,7 @@
                     
 
                     
-                        <link>https://exeterobserver.org/2023/08/10/exeter-seed-bank-tomato-festival-sunday-10-september-2023-daily-bowl/</link>
+                        <link>http://localhost:3000/2023/08/10/exeter-seed-bank-tomato-festival-sunday-10-september-2023-daily-bowl/</link>
                     
 
                     
@@ -536,7 +536,7 @@
                     
 
                     
-                        <guid isPermaLink="true">https://exeterobserver.org/2023/08/10/exeter-seed-bank-tomato-festival-sunday-10-september-2023-daily-bowl/</guid>
+                        <guid isPermaLink="true">http://localhost:3000/2023/08/10/exeter-seed-bank-tomato-festival-sunday-10-september-2023-daily-bowl/</guid>
                     
 
                 </item>
@@ -558,7 +558,7 @@
                     
 
                     
-                        <link>https://exeterobserver.org/2023/08/09/the-exeter-digest-33-duryard-valley-solar-farm-climate-action-hub-under-threat/</link>
+                        <link>http://localhost:3000/2023/08/09/the-exeter-digest-33-duryard-valley-solar-farm-climate-action-hub-under-threat/</link>
                     
 
                     
@@ -570,7 +570,7 @@
                     
 
                     
-                        <guid isPermaLink="true">https://exeterobserver.org/2023/08/09/the-exeter-digest-33-duryard-valley-solar-farm-climate-action-hub-under-threat/</guid>
+                        <guid isPermaLink="true">http://localhost:3000/2023/08/09/the-exeter-digest-33-duryard-valley-solar-farm-climate-action-hub-under-threat/</guid>
                     
 
                 </item>
@@ -593,7 +593,7 @@
                     
 
                     
-                        <link>https://exeterobserver.org/2023/08/08/devon-county-council-pauses-homelessness-prevention-cuts/</link>
+                        <link>http://localhost:3000/2023/08/08/devon-county-council-pauses-homelessness-prevention-cuts/</link>
                     
 
                     
@@ -611,7 +611,7 @@
                     
 
                     
-                        <guid isPermaLink="true">https://exeterobserver.org/2023/08/08/devon-county-council-pauses-homelessness-prevention-cuts/</guid>
+                        <guid isPermaLink="true">http://localhost:3000/2023/08/08/devon-county-council-pauses-homelessness-prevention-cuts/</guid>
                     
 
                 </item>
@@ -634,7 +634,7 @@
                     
 
                     
-                        <link>https://exeterobserver.org/2023/08/07/tyre-extinguishers-drill-holes-in-matford-jaguar-dealership-suv-tyres/</link>
+                        <link>http://localhost:3000/2023/08/07/tyre-extinguishers-drill-holes-in-matford-jaguar-dealership-suv-tyres/</link>
                     
 
                     
@@ -652,7 +652,7 @@
                     
 
                     
-                        <guid isPermaLink="true">https://exeterobserver.org/2023/08/07/tyre-extinguishers-drill-holes-in-matford-jaguar-dealership-suv-tyres/</guid>
+                        <guid isPermaLink="true">http://localhost:3000/2023/08/07/tyre-extinguishers-drill-holes-in-matford-jaguar-dealership-suv-tyres/</guid>
                     
 
                 </item>
@@ -670,12 +670,12 @@
                     <title>EXETER IN BRIEF // Heart of the South West Local Enterprise Partnership to be wound up</title>
 
                     
-                        <description>The government has confirmed that the Heart of the South West Local Enterprise Partnership will be wound up alongside the other 35 LEPs that were created in 2011, following the abolition of regional development agencies, to drive regional economic development via infrastructure development and skills training.
+                        <description>The government has confirmed that the Heart of the South West Local Enterprise Partnership will be wound up in April next year.
 </description>
                     
 
                     
-                        <link>https://exeterobserver.org/2023/08/05/heart-of-the-south-west-local-enterprise-partnership-to-be-wound-up/</link>
+                        <link>http://localhost:3000/2023/08/05/heart-of-the-south-west-local-enterprise-partnership-to-be-wound-up/</link>
                     
 
                     
@@ -693,7 +693,7 @@
                     
 
                     
-                        <guid isPermaLink="true">https://exeterobserver.org/2023/08/05/heart-of-the-south-west-local-enterprise-partnership-to-be-wound-up/</guid>
+                        <guid isPermaLink="true">http://localhost:3000/2023/08/05/heart-of-the-south-west-local-enterprise-partnership-to-be-wound-up/</guid>
                     
 
                 </item>
@@ -715,7 +715,7 @@
                     
 
                     
-                        <link>https://exeterobserver.org/2023/08/04/hero-and-leander-thursday-10-august-2023-exeter-phoenix-northernhay-gardens/</link>
+                        <link>http://localhost:3000/2023/08/04/hero-and-leander-thursday-10-august-2023-exeter-phoenix-northernhay-gardens/</link>
                     
 
                     
@@ -735,7 +735,7 @@
                     
 
                     
-                        <guid isPermaLink="true">https://exeterobserver.org/2023/08/04/hero-and-leander-thursday-10-august-2023-exeter-phoenix-northernhay-gardens/</guid>
+                        <guid isPermaLink="true">http://localhost:3000/2023/08/04/hero-and-leander-thursday-10-august-2023-exeter-phoenix-northernhay-gardens/</guid>
                     
 
                 </item>
@@ -758,7 +758,7 @@
                     
 
                     
-                        <link>https://exeterobserver.org/2023/08/04/heavitree-and-whipton-low-traffic-neighbourhood-active-streets-scheme-trial/</link>
+                        <link>http://localhost:3000/2023/08/04/heavitree-and-whipton-low-traffic-neighbourhood-active-streets-scheme-trial/</link>
                     
 
                     
@@ -788,7 +788,7 @@
                     
 
                     
-                        <guid isPermaLink="true">https://exeterobserver.org/2023/08/04/heavitree-and-whipton-low-traffic-neighbourhood-active-streets-scheme-trial/</guid>
+                        <guid isPermaLink="true">http://localhost:3000/2023/08/04/heavitree-and-whipton-low-traffic-neighbourhood-active-streets-scheme-trial/</guid>
                     
 
                 </item>
@@ -806,12 +806,12 @@
                     <title>ON THE AGENDA // City council invites comments on digital customer service transformation</title>
 
                     
-                        <description>Exeter City Council is inviting comments on its draft digital customer service strategy, which aims to make more efficient use of council resources by increasing its reliance on digital technology for service delivery while continuing to provide personal access for those unable to use it.
+                        <description>Exeter City Council is inviting comments until 15 September on a draft digital customer service strategy that aims to make more efficient use of council resources by increasing its reliance on digital technology for service delivery.
 </description>
                     
 
                     
-                        <link>https://exeterobserver.org/2023/08/03/exeter-city-council-draft-digital-customer-service-strategy-consultation/</link>
+                        <link>http://localhost:3000/2023/08/03/exeter-city-council-draft-digital-customer-service-strategy-consultation/</link>
                     
 
                     
@@ -831,7 +831,7 @@
                     
 
                     
-                        <guid isPermaLink="true">https://exeterobserver.org/2023/08/03/exeter-city-council-draft-digital-customer-service-strategy-consultation/</guid>
+                        <guid isPermaLink="true">http://localhost:3000/2023/08/03/exeter-city-council-draft-digital-customer-service-strategy-consultation/</guid>
                     
 
                 </item>
