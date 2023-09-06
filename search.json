@@ -1,7 +1,7 @@
 [
 
 {
-"headline" : "Pendragon Road greenfield development of 100 homes overlooking city allowed at appeal",
+"headline" : "Pendragon Road development of 100 greenfield homes in Exeter&#39;s northern hills allowed at appeal",
 "standfirst" : "City council decision to refuse outline permission overturned by planning inspector citing 50% affordable housing provision and housing supply shortfall.",
 "authors" : "",
 "coauthors" : "",
@@ -28,7 +28,7 @@
 
 {
 "headline" : "Home Office demands closure of local restaurant",
-"standfirst" : "",
+"standfirst" : "The Home Office has asked Mid Devon District Council to revoke the premises licence at Belluno, an Italian restaurant in Newton St Cyres, effectively shutting down the business.",
 "authors" : "",
 "coauthors" : "",
 "type" : "Newswire",
@@ -53,8 +53,21 @@
 } ,
 
 {
+"headline" : "New Community Infrastructure Levy charges to enable co-living development to be introduced",
+"standfirst" : "Charges levied by the city council on most new development towards the cost of infrastructure that is needed to mitigate its impact are to change in line with council proposals.",
+"authors" : "Martin Redfern",
+"coauthors" : "",
+"type" : "News",
+"category" : "Planning & Place",
+"tags" : "Exeter City Council, Community Infrastructure Levy, Co-living, Planning policy",
+"date" : "1st September 2023",
+"url" : "https://exeterobserver.org/2023/09/01/new-exeter-community-infrastructure-levy-charges-to-enable-co-living-development-to-be-introduced/",
+"content" : "Charges levied by the city council on most new development towards the cost of infrastructure that is needed to mitigate its impact are to change in line with council proposals.Community Infrastructure Levy charges are used to pay for community grants, habitat impact mitigation and larger projects like Marsh Barton railway station.Of the £10.84 million levy charges committed to significant infrastructure in the nine years to January this year the council spent nearly three-quarters on St Sidwell’s Point leisure centre while another £840,000 was used to reconfigure a road junction at Sandy Park.An independent examination of the new charges proposed by the council, which remained unchanged following a public consultation opened as last year’s Christmas holiday period began, found that they would not threaten local plan delivery and so would provide “an appropriate basis for the collection of the levy in the area”.The council-commissioned assessment that provided the evidence base for the new charges did not consider residential, retail or any forms of development other than purpose built student accommodation, co-living and flats built for rent and sale.The new charges provide discounted rates to enable co-living development in Exeter at one third of the purpose built student accommodation rate despite the two forms being essentially indistinguishable and there being no local viability evidence for the latter.Only one of the two co-living developments that have so far been given planning permission in Exeter is being constructed and is still not complete.            The Exeter Digest - Essential insight in your inbox                                                                                    Subscribe free                            Your personal information will be processed and stored in accordance with our GDPR-compliant Privacy Policy.            The scope of the charges examination could not be widened to include other forms of development because of parameters set by the council in advance.These were the outcome of private consultation with just eight organisations including Exeter City Council, Exeter City Living and Exeter City Futures.Council leader Phil Bialyk refused to say, when questioned, who decided not to implement the council’s 2019 decision to commission a complete review of the current charging schedule.He claimed that a partial levy review had been approved, but this is not what council records say.The new Community Infrastructure Levy charges are expected to come into force in January next year."
+} ,
+
+{
 "headline" : "New Heavitree &amp; Whipton Active Streets scheme public exhibitions",
-"standfirst" : "",
+"standfirst" : "Devon County Council is holding two further public exhibitions of the Heavitree and Whipton Active Streets scheme from 4.30-6.30pm on 12 September at Whipton Community Hall and at the same time on 14 September at St Mark’s Church Hall.",
 "authors" : "",
 "coauthors" : "",
 "type" : "Noticeboard",
@@ -67,7 +80,7 @@
 
 {
 "headline" : "Two day strike by consultants at Royal Devon NHS Trust",
-"standfirst" : "",
+"standfirst" : "A two day strike by consultants at the Royal Devon NHS Trust is being held from 7am on Thursday 24 August.",
 "authors" : "",
 "coauthors" : "",
 "type" : "Newswire",
@@ -106,7 +119,7 @@
 
 {
 "headline" : "Council-owned property development company to be dissolved",
-"standfirst" : "",
+"standfirst" : "Mid Devon District Council is expected to wind up 3 Rivers Developments Ltd, a failing property development company it set up in 2017 and has since loaned more than £21 million.",
 "authors" : "",
 "coauthors" : "",
 "type" : "Newswire",
@@ -132,7 +145,7 @@
 
 {
 "headline" : "Exeter St David&#39;s station manager&#39;s office to be demolished",
-"standfirst" : "",
+"standfirst" : "Network Rail has notified the city council that it plans to demolish the former superintendent’s office building at Exeter St David’s station in October.",
 "authors" : "",
 "coauthors" : "",
 "type" : "Noticeboard",
@@ -145,7 +158,7 @@
 
 {
 "headline" : "Public consultation on county council moving traffic offence enforcement powers",
-"standfirst" : "",
+"standfirst" : "Devon County Council is holding a public consultation until 18 September on its plans to adopt moving traffic offence enforcement powers and introduce Automatic Number Place Recognition (ANPR) cameras.",
 "authors" : "",
 "coauthors" : "",
 "type" : "Noticeboard",
@@ -158,7 +171,7 @@
 
 {
 "headline" : "Four day strike by junior doctors at Royal Devon NHS Trust",
-"standfirst" : "",
+"standfirst" : "A four day strike by junior doctors at the Royal Devon NHS Trust is being held from 7am on Friday 11 August.",
 "authors" : "",
 "coauthors" : "",
 "type" : "Newswire",
@@ -223,7 +236,7 @@
 
 {
 "headline" : "Devon County Council pauses homelessness prevention cuts",
-"standfirst" : "",
+"standfirst" : "Devon County Council has paused its plans to cut a £1.5 million homelessness prevention budget following a campaign led by YMCA Exeter.",
 "authors" : "",
 "coauthors" : "",
 "type" : "Newswire",
@@ -236,7 +249,7 @@
 
 {
 "headline" : "Tyre Extinguishers destroy Matford Jaguar dealership SUV tyres",
-"standfirst" : "",
+"standfirst" : "Climate activists drilled holes in all four of the tyres of more than 60 SUVs parked at a Jaguar dealership in Matford during the early hours of Monday 7 August.",
 "authors" : "",
 "coauthors" : "",
 "type" : "Newswire",
@@ -249,7 +262,7 @@
 
 {
 "headline" : "Heart of the South West Local Enterprise Partnership to be wound up",
-"standfirst" : "",
+"standfirst" : "The government has confirmed that the Heart of the South West Local Enterprise Partnership will be wound up in April next year.",
 "authors" : "",
 "coauthors" : "",
 "type" : "Newswire",
@@ -275,7 +288,7 @@
 
 {
 "headline" : "Heavitree and Whipton Active Streets scheme trial begins",
-"standfirst" : "",
+"standfirst" : "The Heavitree and Whipton Active Streets scheme trial has begun. The first six months, to 2 February 2024, are a statutory consultation period during which residents and organisations are invited to comment on the scheme.",
 "authors" : "",
 "coauthors" : "",
 "type" : "Noticeboard",
@@ -288,7 +301,7 @@
 
 {
 "headline" : "City council invites comments on digital customer service transformation",
-"standfirst" : "",
+"standfirst" : "Exeter City Council is inviting comments until 15 September on a draft digital customer service strategy that aims to make more efficient use of council resources by increasing its reliance on digital technology for service delivery.",
 "authors" : "",
 "coauthors" : "",
 "type" : "Noticeboard",
@@ -692,7 +705,7 @@
 {
 "headline" : "Exeter City Council 2023 local elections results",
 "standfirst" : "The votes cast, ballot share and change by party plus turnout and postal votes in each ward with the overall distribution of seats.",
-"authors" : "",
+"authors" : "Martin Redfern",
 "coauthors" : "",
 "type" : "Briefing",
 "category" : "Democracy & Governance",
@@ -774,7 +787,7 @@
 "coauthors" : "",
 "type" : "Comment",
 "category" : "Democracy & Governance",
-"tags" : "Exeter City Council, Local elections",
+"tags" : "Exeter City Council, Local elections, Community Infrastructure Levy",
 "date" : "3rd May 2023",
 "url" : "https://exeterobserver.org/2023/05/03/exeter-city-councillor-martin-pearce-falsely-labels-community-grants-cuts-story-misinformation-brands-exeter-observer-opposition-propaganda-lord-mayor-rebuke-council-risk-publicity-code-of-preactice-breach-during-pre-election-period/",
 "content" : "On 1 March we reported that the city council, at its annual budget-setting meeting on 21 February, had cut the budget for its 2023-24 Exeter grants programme to just £15,000 from the £425,000 it had allocated to the scheme when it was first introduced in 2019.The programme, comprising ward grants of up to £500 for one-off hyperlocal projects, small grants of up to £3,000 for city-wide projects or events and large grants of up to £30,000 for community building, refurbishment or equipment costs, was intended to have a long-term impact on inequality, health and individual and community resilience across the city.We said that the council’s 2023-24 budget provided nothing for ward grants, small grants or community centre running costs and published a table listing hundreds of grassroots groups and community organisations that have previously depended on these grants to cover essential costs.We included a bar chart to make clear how precipitous the 96.5% fall in Exeter grants programme budgets had been over the previous four years.Fast forward seven weeks to the April meeting of the city council. Labour councillor Martin Pearce, who is responsible for the Exeter grants programme, was asked to clarify the council’s position on ward grants this year.He said: “I just want to reiterate here and now that there is £39,000 allocated to the ward grants for next year contrary to some of the misinformation that is being published all over the city by various other organisations.”He added, turning to face the Exeter Observer reporter sitting at the press table: “Hopefully that will be reported by the opposition propaganda, sorry, the Exeter Observer in a full statement, rather than just taking two words from the middle of a sentence and changing the meaning of a fairly lengthy contribution for probably the seventeenth time.”Readers who would like to ensure we are not misquoting him can view his contribution to the meeting in full below.Martin Pearce speaking at Exeter City Council’s 18 April meetingWhat could have prompted Martin Pearce to traduce Exeter Observer during a public meeting of the city council in this way?Our story reported that the council “cut the community grants budget by nearly a quarter in its second full year of operation, then lopped off another £118,000 last year before reducing it to a rump of just £15,000 in the 2023-24 budget that the council agreed last week”.This was true when the story was published, was derived from the primary sources linked to in the statement and other council financial records, and remains true now. It unambiguously cites the 2023-24 budget passed by the council on 21 February, which was subsequently published on its website and remains unchanged.Exeter City Council 2023-24 budget bookShortly after Martin Pearce made his remarks, the city council meeting addressed the minutes of the April Executive committee meeting at which the council’s finance director presented his quarterly review of its general revenue budget.This reported an underspend on the 2023-23 Exeter grants programme and said, referring to the neighbourhood portion of Community Infrastructure Levy receipts that have been the programme’s source of funding since the end of its first year: “The grants budget for 2023-24 is currently paused and will be confirmed following the accrual of further neighbourhood CIL receipts to be received based on the planning forecasts.”At the meeting, Green Party councillor Diana Moore asked why the community grants programme had been paused and was now deferred, but instead of answering her question at the meeting council leader Phil Bialyk said she would subsequently receive a written response from the council’s finance director.When the response appeared, thirteen days later, it said: “As members are aware there is a shortfall in neighbourhood CIL funding. As a result, grants approvals were paused to ensure the council’s obligations in 2023-24 could be met. Ward grants programme will commence in the municipal year.”Written responses to questions raised at Exeter City Council’s 4 April Executive committee meetingAs neither report nor written answer specified any change to the 2023-24 community grants budget, we looked to a scrutiny meeting held the previous week at which Martin Pearce was asked to clarify the position on ward and any other grants.He said ward grants would “continue as they are, currently, for the next financial year, so there’s £39,000 allocated” and that the council had “some certainty on the funding position for building grants” although he did not say whether any money had been allocated to this budget or, if so, how much.He also said the position on the “the small, large and strategic grants that we’ve been fortunate to be able to pay out to a countless number of organisations to the tune of several million pounds over the last few years” was “unknown at this point”, adding “what we are almost, you know, entirely certain of is that there will be other grant funding coming forward through the course of the year, but what we can’t say is how much that will be and when it will be”.He also mentioned what he described as a “great voluntary community sector conference” at which those present “were all put at ease that there is a guarantee that the ward grants will continue”, adding that they “were encouraged that if they ever hear other members making statements they’re concerned about or unsure about to get in direct contact with portfolio holders or senior management board members as they’re the people who can speak for the council on all matters”.Readers who would like to ensure we are not misquoting him are can view a verbatim transcription of his lengthy response to the question here.Working Together VCSE and ECC presentation led by Martin Pearce on 15 MarchAs Martin Pearce’s account did not explain when, how, by whom or from what source the £39,000 budget allocation had been made, or provide any substantive information about any other aspect of the 2023-24 Exeter grant programme budget, we wrote to the council’s finance director to seek clarification.He confirmed that two unpublished decisions had been taken in private under rules which allow virements – in-year transfers of funds from one part of a budget to another – to take place up to a maximum value of £40,000 without council approval. (All other amendments to the council’s budget must be made at public meetings of the full city council).One such decision, to allocate £27,000 of unbudgeted income to the 2023-24 community buildings budget, had been taken on 21 March. Another, to allocate £39,000 of unbudgeted income to the 2023-24 ward grants budget, had been taken on 24 March.He also confirmed that the source of unbudgeted income that had been used was not neighbourhood CIL but a refund of VAT charged against income from the council’s leisure services, in a departure from the council’s existing policy, and that neither decision would be reported to the council until 18 July.We published our story about the council’s 2023-24 budget decisions on 1 March. The revised bar chart shows the impact of these virements on the 2023-24 community grants budgets.We’re happy to report the finance director’s clarification in full. And we’re delighted if our reporting of the decision to decimate the community grants budget put the council under pressure to find some money down the back of the sofa to reverse some of its cuts. Although we’re no less surprised that the money is to be taken from the council’s leisure services, which are losing £2 million a year.But the community grants budget is still £344,000 lower than it was when it was introduced by the council leader as “an exciting and bold step forward for the council in our endeavours to support community groups and organisations as they continue to work together on local projects that help make Exeter such a great place to live”.And a fortnight has now passed since Martin Pearce’s attempt to smear Exeter Observer during a public meeting of the city council but we have yet to receive an apology.We make no apology, in any case, for drawing attention to these budget cuts: it is independent journalism’s job to hold power to account in the public sphere. And we’re confident that doing so will reinforce our reputation, not put it at risk.Nor do we think Exeter’s Labour politicians should be surprised that Exeter Observer calls out their actions: they have dominated the city council for eleven years, making numerous decisions that urgently require greater public scrutiny.    Essential insight in your inbox    The Exeter Digest is Exeter Observer&#39;s essential free email newsletter.Subscribe for insight about what&#39;s going on in Exeter that you won&#39;t find anywhere else.    Subscribe freeMartin Pearce may instead have put the council at risk, speaking as he has during the pre-election period, which this year began on 27 March.During this period the council should “not publish any material which, in whole or in part, appears to be designed to affect public support for a political party” according to the Local Government Act 1986 as amended by the Local Government Act 1988 and developed in the government’s local authority publicity code of practice.The code’s scope includes “any communication, in whatever form, addressed to the public at large or to a section of the public”. The city council’s meetings, broadcast live then subsequently made available for streaming and download, as they should be to make its decision-making processes more transparent, fall within it.Lord Mayor Yolonda Henson, chairing the April council meeting, certainly thought he was pushing it, as she made clear when she rebuked him and other Labour councillors for using the meeting to make political points when he had finished speaking.As an Executive portfolio holder Martin Pearce speaks on behalf of the council, a point he stressed in his remarks. The council should be able to rely on him, as it should all other councillors, not to put its reputation at risk or undermine public trust in its actions by behaving this way during its public meetings.The council meeting then moved on to the next item of business: the minutes of an audit and governance committee meeting and the approval of a Member’s Code of Conduct, updated to include new principles about treating others with respect. It passed unanimously.            Martin Pearce said: &quot;Yeah, sure, thanks Tony, er, Councillor Wardle, sorry, erm, the situation with the ward grants is that they will continue as they are, erm, currently, for the next financial year, so there&#39;s £39,000 allocated, £3,000 per ward and it&#39;ll be, er, as I say, as it is currently, erm, the other grants, we, we, we&#39;ve got some certainty on the funding position for, erm, erm, building grants, so community centres that, that get some support from the city council, that&#39;s in place.        The small, large and strategic grants that, that we&#39;ve been fortunate to be able to pay out to a countless number of organisations to the tune of several million pounds over the last few years is, is an unknown at this point, erm, in 2019 the city council took a really innovative and bold, erm, step to sort of fund some of these grant funding, erm, streams through the community infrastructure levy, erm, and the nature of that legislation means that you cannot spend it until you&#39;ve got it, erm.        You know, we&#39;ve got, erm, a sizeable pot currently but most of it, almost all of it, has been, erm, allocated and ringfenced for other purposes, erm, so there aren&#39;t, erm, additional receipts at the moment, as we sit here now, that we can say there&#39;s going to be X amount guaranteed for, erm, small grants, large grants or [inaudible] strategic grants during the coming financial year, erm, somebody might have paid an invoice in the last hour so that, that might have changed, erm, you know, since I, I last got an update, erm.        But what we are almost, you know, entirely certain of is that there will be other grant funding coming forward through the course of the year, but what we can&#39;t say is how much that will be and when it will be. We certainly hope that, erm, as, as, you know, construction takes place, erm, and CIL becomes, er, liable to be levied from developers in the city, erm, that we&#39;ll, we&#39;ll get the receipts in.        There is building going on, yeah, it&#39;s not like there&#39;s no action, and there&#39;s no potential, erm, receipts to come forward, you know, we all see developments going on, erm, some of you sit on the planning committee, you know, we all see that, erm, developments on occasion get given approval, erm, and that they will start, erm, construction and then there&#39;ll be certain elements of the infrastructure levy will become due at different stages of that, erm, construction process, erm, but as we sit here right now I, I can&#39;t say what they&#39;ll be beyond the ward grants which we&#39;ve managed to guarantee, erm, there, there is that funding in the pot, erm.        So you know, I, I understand why you&#39;ve asked the question because I too have heard some of the rumours that are going around that they would be stopped, erm, but we had a, a great, erm, voluntary community sector, er, conference a couple of weeks ago where, er, forty plus partners in the room, it just so happened to be on the day that there was a school strike so we, we got a flurry of late apologies because people had issues in trying to, er, get themselves there on the day.        Erm, but they were all put at ease, erm, that there is a guarantee that the ward grants will continue, erm, and when we reminded them, that members present there that day, that portfolio holders and council officers are the only people that can speak to council policy, erm, directly, other people can talk about their views on council policy but they are not stating council policy so, they, they were encouraged that if they ever hear other, erm, members making, erm, statements they they&#39;re concerned about or unsure about to get in direct contact with portfolio holders or senior management board members as they&#39;re the people who can speak for the council on all matters, erm.&quot;                    Close            "
@@ -1164,7 +1177,7 @@
 "coauthors" : "",
 "type" : "Analysis",
 "category" : "Community & Society",
-"tags" : "Exeter City Council, Local elections, Public consultation",
+"tags" : "Exeter City Council, Local elections, Public consultation, Community Infrastructure Levy",
 "date" : "1st March 2023",
 "url" : "https://exeterobserver.org/2023/03/01/exeter-city-council-slashes-community-grants-budget-splashes-cash-paddling-pools-contested-wards/",
 "content" : "When council leader Phil Bialyk introduced his new Exeter grants programme in June 2019, a month after taking office, he said it would be “an exciting and bold step forward for the council in our endeavours to support community groups and organisations as they continue to work together on local projects that help make Exeter such a great place to live”.The programme was intended to have a long-term impact on inequality, health and individual and community resilience across the city. Ward grants of up to £500 would be available for one-off hyperlocal projects, small grants of up to £3,000 for city-wide projects or events and large grants of up to £30,000 for community building, refurbishment or equipment costs.Community centres could also apply for up to £5,000 each year towards their running costs, and a “strategic fund”, to be financed using any unspent grant money, could be used for one-off capital costs for “bespoke or larger projects” providing community facilities.The council said the scheme supported more than 200 projects during its first eighteen months. It emphasised its “on-going commitment to working with its communities” and “maintaining a robust grant giving programme for Exeter”.However it cut the community grants budget by nearly a quarter in its second full year of operation, then lopped off another £118,000 last year before reducing it to a rump of just £15,000 in the 2023-24 budget that the council agreed last week. There is nothing in next year’s budget for ward grants, small grants or community centre running costs at all.At the council’s budget meeting council leader Phil Bialyk said: “I am proud of the fact that we have been able to maintain support to our communities in Exeter.” He also said that community groups and organisations would be “further boosted with the launch of the Exeter community lottery later this year” despite the prospect of this raising very little money and requiring council resources to set up and run.He says the cost of living is to blame for council budget cuts of more than £3 million, which would have been more than £5.5 million if the council hadn’t used nearly £2.5 million of its reserves – which will now have to be replenished – to cushion the blow.He did not mention the impact on council finances of £80 million it borrowed to build St Sidwell’s Point and buy back the Guildhall shopping centre leasehold, or that it still intends to loan Exeter City Living £11 million this year for its stalled Clifton Hill redevelopment and now has to find an additional £18 million to enable the company to deliver at Vaughan Road.Nor did he mention that council leisure services are now expected to be loss-making despite previous insistence that they would be cost-neutral, requiring a £2 million annual subsidy, that Guildhall shopping centre income will now be spent on debt interest instead of regeneration, or that Exeter City Living had lost more money by this time last year than all the council 2023-24 budget cuts put together.When opposition leader Diana Moore asked why the council hadn’t carried out an auditor’s recommendation to hold a public consultation on the budget, as it agreed last November, the council leader’s response was to insist that “this council is the voice of Exeter”.This was also apparently the basis of its last-minute decision to spend £100,000 on paddling pool refurbishment next year. He said the council “needed to act to secure the future of the hugely popular splash park in St Thomas and paddling pools in Heavitree because we know how important these free facilities are to residents”.He didn’t mention that the council announced its plans to overhaul both in 2021 after partially refurbishing them earlier that year, or that new pumps have already been installed at Heavitree, or that St Thomas was suddenly closed during last summer’s heatwave because children were slipping on the new surface, falling and injuring themselves, then reopened with warning signs and new rules requiring parents to provide them with water shoes to use the pool.He also didn’t mention that St Thomas is a marginal ward in which the council’s deputy leader nearly lost her seat at last year’s local elections to Liberal Democrat Adrian Fullam, or that his party would like to win back one of the two Heavitree seats it lost to the Green Party last year after Carol Bennett won a single year term in a by-election.The council was so keen to promote its splash pool spending that it published a story describing it as a “major investment” a fortnight before the expenditure was actually approved. And it broke its own spending rules by doing so immediately after the council leader made clear that there was no scope for extracurricular spending either this year or for the next three, during which another £3.15 million of council budget cuts must be made.He said: “To maintain financial discipline and prepare for the reductions required, council can no longer merely approve additional expenditure without identifying what will be cut to fund it. This is essential as officers and members prepare to identify ways to address the further gaps in funding over the life of the medium term financial plan.”The paddling pool proposals did not specify from where the money they will cost would be cut, presumably leaving council officers to come up with back of the sofa suggestions.His communities portfolio holder, Martin Pearce, evidently didn’t get the austerity message. After admitting that the community grants scheme was “massively diminished”, he sought to defend its decimation on the grounds that it is funded by Community Infrastructure Levy (CIL) receipts which he said cannot be allocated until they are received, claiming that the grants budget “will be adjusted and money will go into it as the year progresses”.Apart from the fact that the community grants scheme is not financed this way because CIL charges – that the council imposes on most new development – are not usually all collected in the same year they are issued, the council instead using a rolling fund to enable prospective budget-setting, the portfolio holder then went on to admit that he was, in any case, referring to 2024-25.He also said he was “really excited” about the £15,000 that had been allocated to the remains of the scheme. It seems unlikely that the hundreds of grassroots groups and community organisations that previously depended on it to cover essential costs will feel the same way.Rather than money going into community grants budgets as CIL charges are collected, the opposite has happened in every full year of the scheme so far. The council has first reallocated community grants budgets to other priorities then cut the following year’s budgets while repeatedly claiming that the funding “will be available to re-allocate in future years”.Meanwhile CIL charges have been increasing since the community grants scheme was introduced, rising from just under £3.5 million in 2019-20 to just under £4 million in 2021-22. The amount of available CIL receipts retained at the end of each year has also risen: a council report published at the end of last year put the total at nearly £6.5 million.When the community grants scheme was launched it was specifically intended to “provide a sustainable funding pipeline for grants” via the “neighbourhood” share of CIL receipts, which is at least 15% of total CIL charges (25% in areas where there is a neighbourhood plan such as St James).New Homes Bonus, a central government grant paid to local councils to incentivise house-building, was also used to help finance a small portion of the scheme at first, but this was phased out by the end of the scheme’s first year. By March 2021 there was a balance in the neighbourhood CIL fund in excess of £1 million and the expectation was that “further funds will materialise”.It’s not clear why the council expects 2023-24 to buck this trend given the city’s continuing housing delivery rates, but even if CIL charges fall by as much as it says it expects, they are still likely to exceed £2.5 million. In which case the minimum 15% allocation to neighbourhood spending would still yield at least £375,000 for community grants, more if development takes place in St James.    Essential insight in your inbox    The Exeter Digest is Exeter Observer&#39;s essential free email newsletter.Subscribe for insight about what&#39;s going on in Exeter that you won&#39;t find anywhere else.    Subscribe freeIt may be that instead of using neighbourhood CIL receipts to finance hundreds of projects across the city, the council would rather choose a handful of what might be called “preferred” recipients for larger grants instead.Total expenditure via the community grants strategic fund was originally intended to be £80,000. But the council ended up sharing £410,000 between eight projects via this route after reallocating other community grant budgets in their favour over several years.Recipients included Exwick Community Centre, in the council leader’s ward, and Positive Light Projects, where his party recently presented its parliamentary candidate to the city.The council leader says it is “spending our money wisely”, citing the £100,000 St Thomas and Heavitree splash parks decision as an example “at a time of crisis”. But it is cutting the Citizens Advice Exeter budget by the same amount, and the Exeter Connect voluntary and community sector support service provided by Exeter Community Initiatives will lose all its council funding at the end of this month.The 2023-24 budget comes into force on 1 April, yet there is no sign of the impending changes on the Exeter grants programme webpages. Instead the council says: “We will published [sic] next financial year’s grants programme by May 2023”. Presumably just as soon as the polls have closed."
@@ -1385,7 +1398,7 @@
 "coauthors" : "",
 "type" : "Comment",
 "category" : "Planning & Place",
-"tags" : "Exeter City Council, Liveable Exeter, Exeter City Living, Exeter City Futures, Exeter Development Fund, Exeter Local Plan, Planning policy, Co-living, Student accommodation, Property development, Public consultation",
+"tags" : "Exeter City Council, Community Infrastructure Levy, Liveable Exeter, Exeter City Living, Exeter City Futures, Exeter Development Fund, Exeter Local Plan, Planning policy, Co-living, Student accommodation, Public consultation",
 "date" : "26th January 2023",
 "url" : "https://exeterobserver.org/2023/01/26/exeter-city-council-community-infrastructure-levy-development-charges-review-insufficient-evidence-funding-shortfall-liveable-exeter-policy-objectives-faulty-differential-rates-typology-local-plan/",
 "content" : "Exeter City Council intends to change the charges it levies on most new development towards the cost of infrastructure that is needed to mitigate its impact.Community infrastructure levy charges are used to pay for community grants, habitat impact mitigation and larger projects like Marsh Barton railway station. Of the £10.84 million committed to significant infrastructure since the council introduced its levy in 2013 nearly three-quarters has been spent on St Sidwell’s Point leisure centre while another £840,000 was used to reconfigure a road junction at Sandy Park.The council intends to introduce differential charging rates for Purpose Built Student Accommodation (PBSA) and co-living, and for flats that are built for rent and sale, despite each pair having essentially identical development forms and there being nothing to prevent students renting co-living rooms, or flats that are built for sale being rented out.It employed external consultants to produce viability evidence and a background report to support its new charging proposals, imposing a differential rates typology in line with council development policy objectives and excluding assessment of other residential or retail levy charges despite these development forms contributing a significant proportion of levy revenue.It also ignored its own statutory infrastructure funding statement and the new local plan’s evidence base and emerging policies, relied on a private consultation with vested interests for its viability assumptions and ignored government guidance on setting levy rates.Its new levy charges will not bring in any more money than the current charges. They will contribute only 27% of an infrastructure funding gap of at least £93 million, leaving Exeter far short of the new infrastructure it needs.The council opened a consultation on its proposals as the Christmas holiday period began immediately after an attempt by opposition councillors to prevent them going ahead in their current form. It is a model of obfuscation and has only been publicised once.The new levy charging schedule, with any revisions that may be made following the consultation, will be submitted for public examination later this year then come into force if approved.This is the first time Exeter City Council has reviewed its community infrastructure levy charges since they were introduced after the adoption of its 2012 Core Strategy.This document finalised the current local plan, which also incorporates policies saved from the 1995-2011 Exeter Local Plan First Review, county mineral and waste plans, supplementary planning documents and a neighbourhood plan.Many of these policies, like the evidence base that underpins them, some of which is nearly twenty years old, are out of date.The new Exeter Local Plan which, according to the council’s development scheme, is expected to reach publication stage next month before being submitted for examination in June, has already passed through two consultation stages after being launched two years ago.An extensive review of the local plan evidence base has taken place, with new up-to-date evidence published last year.Exeter Observer new Exeter Local Plan outline draft consultation briefingDespite this, the council’s new levy charging proposals do not take into account any of the new local plan’s evidence base or emerging policies, and depend instead on the current, largely outdated Exeter planning policy framework.Council officers insist that this is an appropriate way to proceed, while the council’s consultants have limited their assessment to policies contained in the 2012 Core Strategy alone on the basis it is the “most up to date”.However government guidance on Community Infrastructure Levy charging, which explains its legislative context, says that “the relevant plan” in relation to the levy can be “any strategic policy”.It says: “In addition to taking account of market conditions and infrastructure needs, charging authorities should also consider linking a review of their charging schedule to any substantive review of the evidence base for the relevant plan.”Exeter City Council 2021-22 Annual Infrastructure Funding Statement November 2022The council also ignored government guidance by not including its statutory annual infrastructure funding statement in the levy review.The government says: “Local authorities must publish an infrastructure funding statement, and information should be drawn from this […] to identify the infrastructure funding gap and a levy funding target”.It also says: “At examination, the charging authority should set out the projects or types of infrastructure that are to be funded in whole or in part by the levy. From December 2020, this should be set out in an infrastructure funding statement.”Despite its 2021-22 statement being published in November, and appearing on the agenda of the same council meeting that discussed the levy review, it was not mentioned during discussion of the levy at the meeting and has neither been used as evidence in the review nor published alongside it as required.The council’s current infrastructure funding statement sets out the projects to which it expects community infrastructure levy to contribute in the form of a draft infrastructure list.These are the Liveable Exeter developments at Water Lane, the quay and canal basin, Marsh Barton, Red Cow Village, East, West, South and North Gate, Wonford and Exeter Arena.None of these, except Alphington Road vehicle capacity and schools provision related to Water Lane, are included in the infrastructure delivery plan that the council used for its levy review.The council says it intends to update this delivery plan to include the Liveable Exeter development sites on which the new local plan is centred, but not until after its levy charging proposals have been submitted for examination.Exeter City Council Revised Infrastructure Delivery Plan November 2022While community infrastructure levy charges must be implemented in the context of local development policies, the government is nevertheless clear that “differential rates should not be used as a means to deliver policy objectives”.Yet while the council ignored Liveable Exeter development infrastructure funding requirements in its levy review, the policy objectives it is pursuing via these developments drive its differential levy charging rate proposals.It wants high density development, primarily on brownfield land, primarily for rent, to be delivered primarily by its wholly-owned property development company, Exeter City Living, and a new development corporation being planned by Exeter City Futures on the council’s behalf as part of the controversial Exeter Development Fund.Its proposed new levy charges not only incentivise delivery of its development policy objectives, they would confer financial benefits on its development company partners too.The government also provides clear guidance on how local authorities should set community infrastructure levy rates. It says they should use “an area-based approach, involving a broad test of viability across their area, as the evidence base to underpin their charge”.It also says they “must use ‘appropriate available evidence’ (as defined in the section 211(7A) of the Planning Act 2008) to inform the preparation of their draft charging schedule” and that they “need to demonstrate that their proposed levy rate or rates are informed by ‘appropriate available evidence’ and [are] consistent with that evidence across their area as a whole”.However the viability assessment the council commissioned does not supply area-based evidence to support most of its conclusions. The council’s determination to structure its levy charges around its development policy objectives means that “tested forms of development in Exeter” which supply evidence for the three new charge types it wants to introduce are very thin on the ground.Exeter City Council community infrastructure levy charging area with city centre zoneA private consultation organised by the council in February last year confirmed its cart before horse approach at the outset.Council development director Ian Collinson described this as “engagement with the local development industry and the wider planning team to inform assumptions for a viability assessment”. However only eight of “around 50 organisations” who were contacted responded.These included three large firms with interests in thousands of UK properties but without any apparent connection to Exeter or the region despite having footprints in “nearly all major cities” between them, and two local planning consultants, one a micro-entity and another based at a residential address.There were three others: Exeter City Council, Exeter City Living and Exeter City Futures. Despite government guidance that local authorities “must consult and should collaborate with [county councils] in setting the levy” it appears that Devon County Council did not take part.Inconveniently for the council, its respondents confirmed the lack of evidence for its proposed new charge types. One said there is a “lack of applications” to provide evidence for a flats for sale charge, another that flats for rent and co-living are both untested and a third that it is difficult to assess co-living “as there are currently no operable schemes in Exeter”.The council’s consultants agreed with all three comments, and acknowledged their reliance on data from outside Exeter to assess build to rent schemes, confirming that “neither build to rent nor co-living is currently available in Exeter”.A council officer even admitted during a meeting that there is no local viability evidence to determine a differential rate for co-living.The Gorge: permission was granted for co-living in November 2020 but the project was delayed then stalled a month ago when contractors pulled out.None of this deterred the council from pursuing its policy-driven levy charge proposals, even though government guidance makes clear that setting differential levy rates raises the evidence bar even higher.It says local authorities “will need to ensure that the differential rates are supported by robust evidence on viability” and that “fine-grained sampling is also likely to be necessary where they wish to differentiate between categories or scales of intended use” to “provide a robust evidence base about the potential effects of the rates proposed”.Instead of assessing whether sufficiently robust viability evidence from existing local development exists to back up the council’s policy-driven development typology, its consultants relied on a strikingly circular rationale.They cited “changes and new products in the local property market” since 2013, which they also said were only “likely to come forward in the future in Exeter”, following “a review of planning applications and discussion with council officers” around “potential future development”.To justify PBSA’s inclusion in the review (presumably in contrast with residential and retail’s exclusion) they claimed it had changed significantly because more studio flats and communal areas were being provided in student blocks than before, based on a review of eight privately-provided Exeter schemes among the 62 that have been built here.They also asserted that the two co-living schemes which have been granted planning permission in Exeter provided a “basis for the typologies” even though work has not started on Harlequins shopping centre in the two years and two months since it was approved and work stopped at The Gorge a month ago after contractors pulled out.They said co-living has “specific characteristics and acknowledged difference to others types of development” without explaining these characteristics or who “acknowledged” them.Harlequins: permission was granted for co-living in December 2020 but the scheme has not progressed.The consultants appeared to feel on firmer ground with flats for rent, on the basis there is “at least one build to rent example in Exeter and the council understands that there is a growing interest in this type of development use”.They also cited unspecified “commentary” and said this development type is “different to traditional sale and standard private rent” with a “different intended use”, although they used the same floor sizes, site areas and density assumptions they adopted for flats built for sale as they said there are “limited differences” between the two.While they acknowledged the “limited examples” of flats built for sale in Exeter “as it has not been a common form of development in the city in recent years”, they nevertheless said that it had been “suggested anecdotally” that the current levy rates “could be one of the factors effecting delivery”.They added that their viability assessment of such schemes partly “reflected early design work by the council on potential larger brownfield sites that may come forward in the future”.Paternoster House: permission for flats was granted in March 2020 but the scheme has not progressed.So much for the government’s guidance that “in all cases, the charging authority should be able to explain its approach clearly”.Having supposedly identified “areas of change in the local market” to justify the council’s differential levy charge typology, the consultants then lumped together all four types to estimate development costs.They derived a brownfield benchmark land value of £1.2 million per hectare by taking existing use estimates ranging from £330,000 to £18 million per hectare then saying former commercial premises sites “suggested a narrower range” from £750,000 to £2.3 million per hectare.Acknowledging that “there are situations where brownfield land existing use values in Exeter can be significantly lower (or higher) than DLUHC estimates” they picked out a DLUHC estimate value of £990,000 per hectare and added a 20% uplift on the grounds that urban area benchmarks “tend to be in a range of 10% to 30%” above existing use values.No reference was supplied for the source of this claim, which does not appear to be Exeter-related and is from 2010.The consultants then cited some work they had done in Salford to calculate Exeter co-living build costs, and relied on existing residential development costs to provide values for both flats built for sale and rent despite the council’s insistence that these are different development forms.Unsurprisingly, these calculations yielded development costs that are more or less the same for PBSA and co-living and exactly the same for flats built for sale and rent.Royal Clarence Hotel: permission for flats was granted in October last year but the scheme has not progressed.The consultants also struggled to provide local evidence for their assumptions about unit mixes, sizes and values for each of the council’s new levy charge types.They said unit mixes and sizes had been “devised for each typology using Nationally Described Space Standards plus housing delivery including Land Registry/EPC data and planning applications” even though there space standards do not apply to PBSA or co-living and there are hardly any applications or delivery data for Exeter co-living or flats built for rent or sale.They then combined their development cost calculations with their unit mix, size and values assumptions to derive net levy “headroom” per square metre after all costs and developer profits are deducted in several hypothetical examples of each charge type.They derived PBSA unit mixes, sizes and values from their review of local privately-provided blocks to price bedrooms in cluster flats at £8,344 per annum and studios at £10,963.Their figures showed that all three hypothetical schemes were viable with significant headroom to support a community infrastructure levy charge.The consultants “assumed” co-living unit mixes and sizes and derived values by adding a 10% uplift on PBSA rents on the grounds that “co-living values are not yet available within Exeter”.The uplift rate came from unspecified “locations elsewhere” although the consultants also noted that “the uplift can be in the region of 30%”. No evidence was supplied to justify their uplift reduction, which significantly tilted the assessment.Co-living studios were thus priced at £11,883 per annum, which is at the bottom end of the price range advertised at The Gorge last year before the development ran into trouble.Some rooms were priced at £13,272 per annum, which would equate with a 23% uplift using the consultant’s approach.Their figures again showed that all three hypothetical schemes were viable with substantial headroom to support a levy charge.Unit mixes and sizes for flats built for rent were unsurprisingly “considered likely” to be similar to unit mixes and sizes for flats built for sale, while values were based on market rents.The consultants didn’t specify where from, but they cannot be Exeter rental figures.They derived an average rent of £15,000 per annum on this basis, but as this figure includes ostensibly affordable units offered at a 20% discount the market rate flats would cost more.Again, their figures showed that all three hypothetical schemes were viable with substantial headroom to support a levy charge, although the ten storey scheme modelled at PBSA densities appears implausible as it would alone deliver more housing units than were built across the whole city in 2020-21.The consultants based their unit mixes and sizes for flats built for sale on “the average size of delivered flats over the past five years” and derived values from “an analysis of new build Land Registry data” from November 2015 to November 2021.They acknowledged that the Exeter data was very thin. Of the 142 values they found over this six year period, 43 came from a single address in Burnthouse Lane and another 22 from a single address in Southernhay. Another nine addresses supplied more than three values each.They also admitted that at time of their March 2022 assessment only eight new-build flats were being advertised for sale in Exeter in four luxury schemes in highly desirable locations which were all unrepresentative. One agent was trying to sell a flat in Colleton Crescent for £1,250,000.The consultants did not consider whether these schemes reflected an overheating Exeter property market in which values from seven years before could not be relied upon for viability calculations.They instead came up with an average price of £257,333 for a new-build flat and concluded that most of their hypothetical flats for sale schemes were not viable, except that provided only limited headroom which would not be enough to support a levy charge.King Billy: permission was granted for PBSA in April 2018 and renewed in June 2021 but the scheme has not progressed.The consultants derived several conclusions from their calculations. The unsurprising finding that co-living development is more profitable than building flats, given that space standards apply to the latter but not the former, enabling its very high densities, was enough to conclude that co-living constitutes a “different model of housing provision”, justifying the council’s typology.Similarly, the unsurprising finding that building flats for rent is more profitable than selling them provided the consultants with reason to conclude these two forms of development were also “clearly distinct in viability terms”, again justifying the council’s typology.They then said that levy charges for both co-living and flats for rent must be “considered carefully within the context of an immature market in terms of this form of development in Exeter” without acknowledging that the lack of local evidence for either should preclude differential rates for both.Vaughan Road: Exeter City Living was granted permission for flats in February 2020 but after demolition paid for by a government grant contractors pulled out. The project was originally due for completion in November 2020.Nor did the consultants compare FlatRent 1 with FlatSale 4, or FlatRent 2 with FlatSale 5, to examine the wide viability variations their figures yielded between each pair of schemes despite each having the same number of storeys and units and identical densities.Their findings nevertheless strongly suggest that the key difference between them is profit derived from rent extraction, suggesting in turn that other forms of residential development for sale should be included in the levy review to test the assumptions on which it was based.Why? Because the consultants’ conclusion that higher-density PBSA is more profitable than lower density co-living strongly suggests that higher-density residential development for sale would also be more profitable than its typical lower-density equivalent, yet there is plentiful real-world evidence that lower-density residential development remains sufficiently profitable to be viable.Of course in the real world, whichever of the council’s policy-driven types happens to apply, many developers are currently struggling with viability for a wide range of reasons.Major and minor developments of all four council types are currently stalled in Exeter, while others are going through umpteen design iterations, applications are not appearing on schedule and even Exeter City Living, which is in the unique position of being underwritten with public money to develop council-owned land is failing to make progress on a long list of sites.Applications to convert existing buildings are instead appearing as developers seek to mitigate new-build risks while volume builders continue to bring forward low density residential development for sale in Newcourt, Pinhoe, Monkerton and elsewhere as before.Belle Isle depot: the council site sale to Exeter City Living was approved in September 2021 but pre-application consultation did not take place until last November. A planning application may be pending.None of this Exeter figures in the council’s levy review. Nor do the challenges facing the development sector, the changes that have taken place in retail, the wider economic context, the prospect of a drop in University of Exeter student numbers or Exeter’s housing affordability crisis.The consultants, undeterred, proposed differential levy charge rates based on their figures. They said a buffer between the calculated levy headroom and the charge rate should be applied, following government guidance, but offered little insight on how to apply it other than saying: “The buffers used in other CIL studies have varied, but generally fall around 30-50%”.They also said, also without providing any evidence, that “some councils (and examiners) have come to a view that a CIL rate which is set at no more than 5% of GDV [Gross Development Value] is generally acceptable and unlikely to put development at risk whether a site is viable or not”.Taken together these statements imply that a rate of 5% of GDV that does not exceed 70% of the calculated levy headroom would be optimal.However they went on to propose a rate of £150/m2 for PBSA, 26% of the headroom and half the smallest buffer applied according to the “other CIL studies”. Charging 70% of the headroom would mean a rate of £411/m2 instead. This equates to 11.5% of GDV, but the consultants elsewhere admitted that PBSA market values in Exeter are much higher than the figures they used.They proposed a rate of £50/m2 for co-living, just 24% of the headroom and only 1.4% of GDV. Charging 70% of the headroom would mean £169/m2 at 4.6% of GDV. Their justification, despite its essential similarity to PBSA, was that co-living is a “relatively untried form of development in the city”.Exe Water Sports Association: pre-application consultation is taking place nearly three years after government funding to demolish the site for development was granted to Exeter City Living.The consultants proposed the same levy rate for flats built for rent, £50/m2, for the same reasons. This is only 15% of the headroom at 1.8% of GDV if the implausible ten storey scheme is ignored. Charging 41% of the available headroom would mean raising £138/m2 at 5% of GDV.The rate proposed for flats built for sale is nil, supposedly reflecting the “marginal viability for this form of development in Exeter” even though the modelling shows that medium-sized such schemes are not only viable, but very profitable. Flatsale 3 yields £2,243,902 in developer profit. As new developments only have to be two units tall to qualify for this zero rate, we should presumably expect a rash of applications to build maisonettes.All these proposed levy charges gift large buffers in favour of the kinds of development the council wants to see and deliver via Exeter City Living and Exeter City Futures’ new development corporation for its own financial benefit.The consultants’ only justification for the generosity is that the proposed rates “could be higher with a reduced buffer, however they are already generally an increase on what the council is currently collecting”. This, of course, is not the case: flats built for rent and sale will both have significantly lower charges applied under the new levy than now.Mary Arches Street car park: redevelopment has been on Exeter City Living’s delivery programme for nearly three years. A scheme outline may appear this year.The uses to which people put housing are essentially similar irrespective of design, configuration, density, location or their employment status. Most dwellings provide space to eat, rest and sleep with kitchen, bathroom, toilet and storage facilities of one sort or another, whether shared with others or not, whether students live there or not.The council’s levy charge typology nevertheless insists that there are essential differences between PBSA and co-living on the one hand and flats that are built for rent and for sale on the other.It obscures significant similarities between its charge types while ignoring its findings that viability differences largely boil down to development densities (on the brownfield sites on which most of Exeter’s future development will come forward).PBSA and co-living have essentially similar forms, and are treated the same way by national planning policy. The council’s consultants even confirm that PBSA and co-living are becoming increasingly identical as the former moves away from providing cluster flats to studios.Flats built for rent and sale already have identical forms, both falling under the C2 use class. Their interchangeability is exemplified in Exeter City Living’s Vaughan Road development, where flats that were to be built for sale are now intended for rent instead.At the same time flats built for rent, co-living and PBSA are all built for rent, and judged viable by the council’s consultants, while flats built for sale are judged unviable although many will be purchased to be rented out, given Exeter’s very significant affordability problems, at which point they will become just as viable as those that were built to rent in the first place.The council’s levy charge typology is not just insufficiently evidenced, it is unfit for purpose. Differential levy charge rates that reflect development densities and scale, rather than notional occupancy status, would be far more effective at capturing viability headroom to help pay for community infrastructure than the council’s policy-driven approach.They would raise money from developments in proportion with their infrastructure impacts too.A new levy charge structured this way could be accompanied by new planning policy to impose (and enforce) conditions which ensure that housing that is built for residential occupation and ownership in Exeter stays that way, preventing its instant conversion to rental housing on completion at no cost.At the same time, if the council were serious about co-living being occupied by residents instead of students, it could impose (and enforce) planning conditions that prohibit student occupancy, just as it imposes conditions that require student occupancy of PBSA.Then it would actually deliver on its currently ostensible commitment not to build PBSA on its own land when it grants permission for co-living on sites likes Harlequins shopping centre.CityPoint: council redevelopment plans are still on the drawing board more than five years after they were conceived in response to the failure of the previous scheme for the site.When Exeter City Council introduced community infrastructure levy charges in 2013 they were expected to contribute £39 million towards a £92 million funding shortfall over the thirteen years between then and 2026: 42% of the total.It is now proposing revised levy charges in the context of a ballooning infrastructure funding shortfall that is expected to be much larger than the thirteen year total even though it only covers the four years to 2026.And the new levy charges are only expected to raise £25 million towards these costs, just 27% of the shortfall. Without including any of the Liveable Exeter development infrastructure that was ignored in the levy review.If the each of proposed levy charges was increased as outlined above, three times as much money to fund needed infrastructure would be raised. Not enough to close the enormous funding gap completely but certainly enough to make a significant difference. And that is without also increasing or otherwise amending other levy charges that were excluded from the assessment.Council leader Phil Bialyk refused to say, when questioned, who decided not to implement the full council’s 2019 decision to commission a complete review of the current charging schedule. He claimed that a partial levy review had been approved, but this is not what council records say.    Essential insight in your inbox    The Exeter Digest is Exeter Observer&#39;s essential free email newsletter.Subscribe for insight about what&#39;s going on in Exeter that you won&#39;t find anywhere else.    Subscribe freeWhoever is responsible, the council now expects to underspend the £75,000 budget it created for the review: it has only used just over £30,000 so far. The many questions that remain around the partial review make a clear case for a comprehensive review based on substantive evidence of tested Exeter development forms that has not been manipulated to reflect the council’s development policy objectives or benefit companies in which the council has an interest.Unpacking the assumptions imposed on the existing work to properly assess the available local evidence for differential charging rates, and including all forms of development as well as considering strategic site zoning, would also give the council time to align the new levy with the new local plan, a proper draft of which is expected later this year.This will replace the ramshackle first draft that the council rushed out prematurely last year, which council officers knew would need rewriting from scratch when it was published, in another local plan consultation that is to take place this year that could address a new levy at the same time.The new plan’s evidence base is substantial, more or less complete, and will hardly change before the plan reaches examination stage: it would provide a much better basis on which to address Exeter’s future infrastructure needs than a plan that is more than ten years old.As government guidance says: “Where practical, there are benefits to undertaking infrastructure planning for the purpose of plan making and setting the levy at the same time. A charging authority may use a draft plan if they are proposing a joint examination of their relevant plan and their levy charging schedule.”The council could still choose to align its new community infrastructure levy with its new local plan. It’s not too late to do so, and the new levy charges are not expected to bring in any more money than the current charges in any case."
@@ -2433,7 +2446,7 @@
 
 {
 "headline" : "Race in pole position",
-"standfirst" : "",
+"standfirst" : "Exeter Labour looks set to pick Steve Race as the party’s parliamentary candidate at the next general election after retiring incumbent Ben Bradshaw anointed his former assistant as his heir apparent in what has been a fairly safe Labour seat since the 1997 landslide.",
 "authors" : "",
 "coauthors" : "",
 "type" : "Notes & sketches",
@@ -2498,7 +2511,7 @@
 
 {
 "headline" : "Bundling boards",
-"standfirst" : "",
+"standfirst" : "The third in a series of city council scrutiny meetings intended to satisfy councillors that Exeter Development Fund is a way to put Exeter on the map rather than the council’s financial viability at risk took place last week.",
 "authors" : "",
 "coauthors" : "",
 "type" : "Notes & sketches",
@@ -2537,7 +2550,7 @@
 
 {
 "headline" : "Irrationale by design?",
-"standfirst" : "",
+"standfirst" : "The second of two RAMM-hosted Liveable Exeter promotional events, focussed on Exeter’s future as a “garden city”, took place last night with the city council’s Director of City Development, Ian Collinson topping the bill.",
 "authors" : "",
 "coauthors" : "",
 "type" : "Notes & sketches",
@@ -2602,7 +2615,7 @@
 
 {
 "headline" : "RAMM-bunctious",
-"standfirst" : "",
+"standfirst" : "The city museum is the latest Exeter institution to get roped into fronting Liveable Exeter property development scheme promotion.",
 "authors" : "",
 "coauthors" : "",
 "type" : "Notes & sketches",
@@ -2615,7 +2628,7 @@
 
 {
 "headline" : "How to inflate housing costs and influence people",
-"standfirst" : "",
+"standfirst" : "Despite Exeter’s rapidly worsening housing crisis, the council has continued its relentless promotion of the city as a destination to potential incomers by commissioning a coterie of Instagram influencers to flog the place to their followers after spending a May weekend here.",
 "authors" : "",
 "coauthors" : "",
 "type" : "Notes & sketches",
@@ -2628,7 +2641,7 @@
 
 {
 "headline" : "Tik tok",
-"standfirst" : "",
+"standfirst" : "The county council-convened Devon Climate Emergency Response Group (DCERG) has continued its apparent commitment to avoiding public scrutiny of its decision-making by simultaneously publishing the minutes of six of its meetings (which are held in private without published agendas) at the end of May — despite some being held in March.",
 "authors" : "",
 "coauthors" : "",
 "type" : "Notes & sketches",
@@ -2823,7 +2836,7 @@
 
 {
 "headline" : "Brownfield or green?",
-"standfirst" : "",
+"standfirst" : "At yesterday’s second scrutiny meeting in the series being orchestrated by the city council to air Exeter City Futures’ ideas about using Exeter as an urban guinea pig for its development fund project it was Frazer Osment’s turn to play the ringer.",
 "authors" : "",
 "coauthors" : "",
 "type" : "Notes & sketches",
@@ -2888,7 +2901,7 @@
 
 {
 "headline" : "Leaderless by design?",
-"standfirst" : "",
+"standfirst" : "The county council’s plan to delay taking action on decarbonisation, otherwise known as the Devon Carbon Plan, continues to achieve its aim as (bear with us) the county council cabinet responds to its consultation on its response to the Devon Climate Assembly’s responses to the subset of Interim Devon Carbon Plan issues it has successfully avoided confronting.",
 "authors" : "",
 "coauthors" : "",
 "type" : "Notes & sketches",
@@ -2901,7 +2914,7 @@
 
 {
 "headline" : "More talk less action",
-"standfirst" : "",
+"standfirst" : "The county council has derived more surprising new insights from the second phase of a consultation on the impact of traffic in Heavitree and Whipton.",
 "authors" : "",
 "coauthors" : "",
 "type" : "Notes & sketches",
@@ -2914,7 +2927,7 @@
 
 {
 "headline" : "Buses stop",
-"standfirst" : "",
+"standfirst" : "Exeter’s Labour county councillors successfully lobbied County Hall to convene an unscheduled meeting of the Exeter Highways and Traffic Orders Committee (HaTOC) yesterday to discuss the state of bus services in the city.",
 "authors" : "",
 "coauthors" : "",
 "type" : "Notes & sketches",
@@ -3031,7 +3044,7 @@
 
 {
 "headline" : "It&#39;s scrutiny Jim, but not as it should be",
-"standfirst" : "",
+"standfirst" : "The city council kicked off a quartet of scrutiny meetings intended to pave the way for councillors to give Exeter Development Fund a green light with a session last night that resembled a sales pitch.",
 "authors" : "",
 "coauthors" : "",
 "type" : "Notes & sketches",
@@ -3083,7 +3096,7 @@
 
 {
 "headline" : "Nice work if you can get it",
-"standfirst" : "",
+"standfirst" : "Any Exeter-based readers who fancy £144,000 a year to help the government deliver its “Levelling Up” agenda (still only a white paper) in the South West need look no further.",
 "authors" : "",
 "coauthors" : "",
 "type" : "Notes & sketches",
@@ -3135,7 +3148,7 @@
 
 {
 "headline" : "We heart climate crisis",
-"standfirst" : "",
+"standfirst" : "Anyone who might have been tempted to believe that the climate crisis is at the heart of everything Exeter City Council does (as it repeatedly claims) need look no further than its response to the consultation on the Devon climate assembly’s output report for clarification.",
 "authors" : "",
 "coauthors" : "",
 "type" : "Notes & sketches",
@@ -3174,7 +3187,7 @@
 
 {
 "headline" : "In other urban sprawl news",
-"standfirst" : "",
+"standfirst" : "A development of up to 80 residential dwellings on a ten acre greenfield site alongside Exwick Lane has been given the go ahead at appeal.",
 "authors" : "",
 "coauthors" : "",
 "type" : "Notes & sketches",
@@ -3213,7 +3226,7 @@
 
 {
 "headline" : "Not such an honourable mention",
-"standfirst" : "",
+"standfirst" : "Cranbrook’s appearance in a recent Transport for New Homes report examining new housing developments across England to find out whether they are built around sustainable transport or car dependency does not exactly celebrate the satellite town’s mobility provision.",
 "authors" : "",
 "coauthors" : "",
 "type" : "Notes & sketches",
@@ -3226,7 +3239,7 @@
 
 {
 "headline" : "Has the county council learned its lesson?",
-"standfirst" : "",
+"standfirst" : "Judging by the “ample space” for greenfield business park and housing development promoted in the “Clean Growth Vision for the West of East Devon” it commissioned from City Science Corporation (an Exeter City Futures sister company) for submission to the East Devon Local Plan consultation, it seems not.",
 "authors" : "",
 "coauthors" : "",
 "type" : "Notes & sketches",
@@ -3265,7 +3278,7 @@
 
 {
 "headline" : "Devolution doublespeak",
-"standfirst" : "",
+"standfirst" : "Devon is apparently at the front of the pack for a Michael Gove-flavoured “double” devolution deal despite a competing bid led by Plymouth City Council (which wants to combine with the adjacent West Devon and South Hams district councils), next to no guidance on what is on offer from Whitehall, and even less public discussion about the prospect of local government changes across the county.",
 "authors" : "",
 "coauthors" : "",
 "type" : "Notes & sketches",
@@ -3278,7 +3291,7 @@
 
 {
 "headline" : "Democracy inaction",
-"standfirst" : "",
+"standfirst" : "Meanwhile the poor record of the county council-led Devon Climate Emergency Response Group on keeping the public informed about what it is up to reached a new low this month, when it simultaneously published the minutes of ten meetings on the same day, some from as long ago as August.",
 "authors" : "",
 "coauthors" : "",
 "type" : "Notes & sketches",
@@ -3291,7 +3304,7 @@
 
 {
 "headline" : "Must try harder",
-"standfirst" : "",
+"standfirst" : "The university recently let us know that its carbon emissions were down 19% during the 2020-21 academic year, although as the reductions came mostly from travel that didn’t take place because of the COVID-19 pandemic we look forward to seeing how it will frame what will presumably therefore be an emissions increase next year.",
 "authors" : "",
 "coauthors" : "",
 "type" : "Notes & sketches",
@@ -3304,7 +3317,7 @@
 
 {
 "headline" : "Keep it in the family",
-"standfirst" : "",
+"standfirst" : "Earlier this year the University of Exeter drew attention to the South West’s significant social mobility issues, which it described as “blighting young lives”, when it launched a research project hoping to better understand the region’s challenges.",
 "authors" : "",
 "coauthors" : "",
 "type" : "Notes & sketches",
@@ -3382,7 +3395,7 @@
 
 {
 "headline" : "Money for nothing",
-"standfirst" : "",
+"standfirst" : "The Chartered Institute for Public Finance and Accountancy (CIPFA) closed its consultation on draft changes to the Prudential Code last month, following a preliminary consultation earlier this year. The code governs how much councils can borrow to invest and what forms of commercial activity they are permitted to pursue.",
 "authors" : "",
 "coauthors" : "",
 "type" : "Notes & sketches",
@@ -3408,7 +3421,7 @@
 
 {
 "headline" : "Net Zero Exeter 2030?",
-"standfirst" : "",
+"standfirst" : "Research by University of Exeter students has concluded that local councils need to provide clearer and more accessible information on how they are addressing the climate emergency.",
 "authors" : "",
 "coauthors" : "",
 "type" : "Notes & sketches",
@@ -3447,7 +3460,7 @@
 
 {
 "headline" : "Public sector pay pals?",
-"standfirst" : "",
+"standfirst" : "Instead of announcing the biggest council funding rise for over a decade, Exeter City Council’s press team marked budget day by celebrating Exeter’s latest quarterly YouGov popularity rating. The Paris Street PR machine forgot to mention that those surveyed need never have visited the city.",
 "authors" : "",
 "coauthors" : "",
 "type" : "Notes & sketches",
@@ -3551,7 +3564,7 @@
 
 {
 "headline" : "May the force be with UNESCO",
-"standfirst" : "",
+"standfirst" : "Torbay and Exeter’s joint UK city of culture bid, said to be inspired by the “closely connected coastal and city destinations” despite Brixham and Exeter being an hour and a half apart by public transport, didn’t make it onto the longlist of eight places which have caught the eye of culture vulture and escapee celebrity Nadine Dorries.",
 "authors" : "",
 "coauthors" : "",
 "type" : "Notes & sketches",
@@ -3577,7 +3590,7 @@
 
 {
 "headline" : "Less is more",
-"standfirst" : "",
+"standfirst" : "The University of Exeter published its long-awaited “Strategy 2030” on Monday. It’s a remarkable document, not least because of the Nobel-sized aspirations it expresses.",
 "authors" : "",
 "coauthors" : "",
 "type" : "Notes & sketches",
@@ -3590,7 +3603,7 @@
 
 {
 "headline" : "Exeter City Council scraps own &amp;quot;unachievable&amp;quot; carbon emissions target",
-"standfirst" : "",
+"standfirst" : "In an extraordinary reversal, the city council removed the goal of achieving carbon neutral operations by 2022 from its corporate risk register at an Audit &amp;amp; Governance committee meeting last week.",
 "authors" : "",
 "coauthors" : "",
 "type" : "Notes & sketches",
@@ -3603,7 +3616,7 @@
 
 {
 "headline" : "Bonanza on the buses",
-"standfirst" : "",
+"standfirst" : "There was no shortage of hyperbole to accompany last Sunday’s opening of Exeter’s glamorous new bus station.",
 "authors" : "",
 "coauthors" : "",
 "type" : "Notes & sketches",
@@ -3655,7 +3668,7 @@
 
 {
 "headline" : "We&#39;re all in it together",
-"standfirst" : "",
+"standfirst" : "Last Friday the UN released a report assessing the combined climate action plans of all 191 parties to the Paris Agreement which found that they point towards a catastrophic 2.7°C temperature rise by the end of the century.",
 "authors" : "",
 "coauthors" : "",
 "type" : "Notes & sketches",
@@ -3668,7 +3681,7 @@
 
 {
 "headline" : "It&#39;s grim down South West",
-"standfirst" : "",
+"standfirst" : "Recent synthesis of economic data by Devon County Council doesn’t make for very cheerful reading.",
 "authors" : "",
 "coauthors" : "",
 "type" : "Notes & sketches",
@@ -3707,7 +3720,7 @@
 
 {
 "headline" : "Sound familiar?",
-"standfirst" : "",
+"standfirst" : "A Centre for Governance and Scrutiny report into Nottingham City Council’s “superficial and inadequate” scrutiny mechanisms has been published.",
 "authors" : "",
 "coauthors" : "",
 "type" : "Notes & sketches",
@@ -3798,7 +3811,7 @@
 
 {
 "headline" : "Free to those who can afford it",
-"standfirst" : "",
+"standfirst" : "Torbay Council, Torbay Development Agency and Exeter City Council have “joined forces” to bid for 2025 UK City of Culture status, with their eyes on a prize of £300 million in claimed economic benefits.",
 "authors" : "",
 "coauthors" : "",
 "type" : "Notes & sketches",
@@ -3837,7 +3850,7 @@
 
 {
 "headline" : "Partnership agreement of the week",
-"standfirst" : "",
+"standfirst" : "In a hotly-contested field, this week’s winner must surely be the new Exeter Civic University Agreement, which found its way onto last night’s city council Executive agenda.",
 "authors" : "",
 "coauthors" : "",
 "type" : "Notes & sketches",
@@ -3902,7 +3915,7 @@
 
 {
 "headline" : "Longbrook Street PBSA gifted second life",
-"standfirst" : "",
+"standfirst" : "Exeter City Council planning officers have approved the renewal of planning permission for an eight storey 108-bed student accommodation block on the site of the King Billy public house which had previously been granted in April 2018 and since lapsed.",
 "authors" : "",
 "coauthors" : "",
 "type" : "Notes & sketches",
@@ -3915,7 +3928,7 @@
 
 {
 "headline" : "On the beach",
-"standfirst" : "",
+"standfirst" : "The Heart Of The South West Local Enterprise Partnership has confirmed that its bid to house the UK Atomic Energy Authority STEP fusion test reactor in Bridgewater Bay passed the first stage of the competitive site nominations process.",
 "authors" : "",
 "coauthors" : "",
 "type" : "Notes & sketches",
@@ -3980,7 +3993,7 @@
 
 {
 "headline" : "Marking their own homework",
-"standfirst" : "",
+"standfirst" : "Exeter City Council’s ruling Labour group reallocated the city’s committee seats at its annual meeting last week.",
 "authors" : "",
 "coauthors" : "",
 "type" : "Notes & sketches",
@@ -3993,7 +4006,7 @@
 
 {
 "headline" : "Follow the money",
-"standfirst" : "",
+"standfirst" : "Glenn Woodcock and Roli Martin of Global City Futures were invited to join the board which oversees the Devon Carbon Plan at its meeting last month and given the same decision-making powers as the rest of the board, which is almost exclusively composed of public sector organisations.",
 "authors" : "",
 "coauthors" : "",
 "type" : "Notes & sketches",
@@ -4084,7 +4097,7 @@
 
 {
 "headline" : "So many questions",
-"standfirst" : "",
+"standfirst" : "Quote of the week must surely go to Exeter City Council leader Phil Bialyk for: “Sorry, chair, I just need to refer to some of my other notes, if you’ll just bear with me”.",
 "authors" : "",
 "coauthors" : "",
 "type" : "Notes & sketches",
@@ -4162,7 +4175,7 @@
 
 {
 "headline" : "Mount Radford Lawn tribunal decision",
-"standfirst" : "",
+"standfirst" : "The St Leonard’s Neighbourhood Association vision for Mount Radford Lawn has taken an important step towards becoming a reality.",
 "authors" : "",
 "coauthors" : "",
 "type" : "Notes & sketches",
@@ -4201,7 +4214,7 @@
 
 {
 "headline" : "Buzzword bingo!",
-"standfirst" : "",
+"standfirst" : "Heart of the South West Local Enterprise Partnership has published its contribution to the increasingly popular genre of “Build Back Better” plans.",
 "authors" : "",
 "coauthors" : "",
 "type" : "Notes & sketches",
@@ -4214,7 +4227,7 @@
 
 {
 "headline" : "No Exeter Pride parade this year",
-"standfirst" : "",
+"standfirst" : "Exeter Pride has confirmed that there would be no Pride march, festival or marketplace this year.",
 "authors" : "",
 "coauthors" : "",
 "type" : "Notes & sketches",
