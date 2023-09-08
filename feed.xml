@@ -3,17 +3,59 @@
     <channel>
         <title>Exeter Observer - Local news that matters</title>
 
-        <description>Exeter Observer is a new kind of community news organisation that holds wealth, power and influence to account while helping people participate more effectively in local democracy.</description>
+        <description>Exeter Observer is a new kind of independent local news organisation that holds wealth, power and influence to account by publishing news, features and investigative journalism in the public interest and keeping people who live or work in Exeter informed about who is deciding what on whose behalf and what the consequences and costs of those decisions will be.</description>
 
         <link>https://exeterobserver.org</link>
 
         <atom:link href="https://exeterobserver.org/feed.xml" rel="self" type="application/rss+xml"/>
 
-        <pubDate>Thu, 07 Sep 2023 17:17:05 +0100</pubDate>
+        <pubDate>Fri, 08 Sep 2023 13:41:28 +0100</pubDate>
 
-        <lastBuildDate>Thu, 07 Sep 2023 17:17:05 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 08 Sep 2023 13:41:28 +0100</lastBuildDate>
 
         
+
+        
+
+            
+
+                <item>
+
+                    
+
+                    <title>EXETER IN BRIEF // Plans for PBSA in back garden of Pennsylvania Road student HMO submitted for approval</title>
+
+                    
+                        <description>Application for six-bed two-storey block cites neighbouring student block in back garden beside Devonshire Place orchard and play area as precedent.</description>
+                    
+
+                    
+                        <link>https://exeterobserver.org/2023/09/08/purpose-built-student-accommodation-block-pennsylvania-road-house-in-multiple-occupation-back-garden-devonshire-place-public-gardens/</link>
+                    
+
+                    
+                        <category>Planning and Place</category>
+                    
+
+                    
+                        
+                            <category>Student accommodation</category>
+                        
+                            <category>St James Neighbourhood Plan</category>
+                        
+                    
+
+                    
+                        <pubDate>Fri, 08 Sep 2023 12:30:00 +0100</pubDate>
+                    
+
+                    
+                        <guid isPermaLink="true">https://exeterobserver.org/2023/09/08/purpose-built-student-accommodation-block-pennsylvania-road-house-in-multiple-occupation-back-garden-devonshire-place-public-gardens/</guid>
+                    
+
+                </item>
+
+            
 
         
 
@@ -266,6 +308,8 @@
                         
                             <category>Exeter Local Plan</category>
                         
+                            <category>St James Neighbourhood Plan</category>
+                        
                     
 
                     
@@ -330,10 +374,10 @@
 
                     
 
-                    <title>NEWS // New Community Infrastructure Levy charges to enable co-living development to be introduced</title>
+                    <title>NEWS // New Community Infrastructure Levy charges to be introduced by city council</title>
 
                     
-                        <description>Charges levied by the city council on most new development towards the cost of infrastructure that is needed to mitigate its impact are to change in line with council proposals.
+                        <description>Charges levied on most new development towards the cost of infrastructure that is needed to mitigate its impact are to change in line with council proposals that discount co-living development to facilitate its delivery.
 </description>
                     
 
@@ -831,46 +875,6 @@
 
                     
                         <guid isPermaLink="true">https://exeterobserver.org/2023/08/11/four-day-strike-junior-doctors-royal-devon-nhs-trust/</guid>
-                    
-
-                </item>
-
-            
-
-        
-
-            
-
-                <item>
-
-                    
-
-                    <title>ON OUR RADAR // Climate exhibition 2023</title>
-
-                    
-                        <description>Exeter Science Centre presents talks, activities and virtual reality experiences focussed on climate modelling.</description>
-                    
-
-                    
-                        <link>https://exeterobserver.org/2023/08/11/exeter-science-centre-climate-exhibition-wednesday-6-to-sunday-10-september-maketank/</link>
-                    
-
-                    
-                        <category>Community and Society</category>
-                    
-
-                    
-                        
-                            <category>Maketank</category>
-                        
-                    
-
-                    
-                        <pubDate>Fri, 11 Aug 2023 10:45:00 +0100</pubDate>
-                    
-
-                    
-                        <guid isPermaLink="true">https://exeterobserver.org/2023/08/11/exeter-science-centre-climate-exhibition-wednesday-6-to-sunday-10-september-maketank/</guid>
                     
 
                 </item>
