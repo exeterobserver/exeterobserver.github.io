@@ -5,13 +5,13 @@
 
         <description>Exeter news, features, investigations, community and culture - Subscribe free</description>
 
-        <link>https://exeterobserver.org</link>
+        <link>https://localhost:3000</link>
 
-        <atom:link href="https://exeterobserver.org/feed.xml" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://localhost:3000/feed.xml" rel="self" type="application/rss+xml"/>
 
-        <pubDate>Wed, 03 Jul 2024 12:15:31 +0100</pubDate>
+        <pubDate>Wed, 03 Jul 2024 17:50:22 +0100</pubDate>
 
-        <lastBuildDate>Wed, 03 Jul 2024 12:15:31 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 03 Jul 2024 17:50:22 +0100</lastBuildDate>
 
         
 
@@ -28,7 +28,7 @@
                     
 
                     
-                        <link>https://exeterobserver.org/2024/07/03/the-exeter-digest-55-general-elections-special/</link>
+                        <link>https://localhost:3000/2024/07/03/the-exeter-digest-55-general-elections-special/</link>
                     
 
                     
@@ -40,7 +40,7 @@
                     
 
                     
-                        <guid isPermaLink="true">https://exeterobserver.org/2024/07/03/the-exeter-digest-55-general-elections-special/</guid>
+                        <guid isPermaLink="true">https://localhost:3000/2024/07/03/the-exeter-digest-55-general-elections-special/</guid>
                     
 
                 </item>
@@ -60,7 +60,7 @@
                     
 
                     
-                        <link>https://exeterobserver.org/2024/07/03/exeter-and-exmouth-and-exeter-east-2024-general-elections-guide/</link>
+                        <link>https://localhost:3000/2024/07/03/exeter-and-exmouth-and-exeter-east-2024-general-elections-guide/</link>
                     
 
                     
@@ -78,7 +78,7 @@
                     
 
                     
-                        <guid isPermaLink="true">https://exeterobserver.org/2024/07/03/exeter-and-exmouth-and-exeter-east-2024-general-elections-guide/</guid>
+                        <guid isPermaLink="true">https://localhost:3000/2024/07/03/exeter-and-exmouth-and-exeter-east-2024-general-elections-guide/</guid>
                     
 
                 </item>
@@ -98,7 +98,7 @@
                     
 
                     
-                        <link>https://exeterobserver.org/2024/06/28/2024-exeter-exmouth-and-exeter-east-general-elections-ballot-when-where-how-to-vote-person-post-proxy-voter-identification-requirements/</link>
+                        <link>https://localhost:3000/2024/06/28/2024-exeter-exmouth-and-exeter-east-general-elections-ballot-when-where-how-to-vote-person-post-proxy-voter-identification-requirements/</link>
                     
 
                     
@@ -116,7 +116,7 @@
                     
 
                     
-                        <guid isPermaLink="true">https://exeterobserver.org/2024/06/28/2024-exeter-exmouth-and-exeter-east-general-elections-ballot-when-where-how-to-vote-person-post-proxy-voter-identification-requirements/</guid>
+                        <guid isPermaLink="true">https://localhost:3000/2024/06/28/2024-exeter-exmouth-and-exeter-east-general-elections-ballot-when-where-how-to-vote-person-post-proxy-voter-identification-requirements/</guid>
                     
 
                 </item>
@@ -136,7 +136,7 @@
                     
 
                     
-                        <link>https://exeterobserver.org/2024/06/28/summer-fore-street-flea-market-exeter-sunday-14-july-2024/</link>
+                        <link>https://localhost:3000/2024/06/28/summer-fore-street-flea-market-exeter-sunday-14-july-2024/</link>
                     
 
                     
@@ -150,7 +150,7 @@
                     
 
                     
-                        <guid isPermaLink="true">https://exeterobserver.org/2024/06/28/summer-fore-street-flea-market-exeter-sunday-14-july-2024/</guid>
+                        <guid isPermaLink="true">https://localhost:3000/2024/06/28/summer-fore-street-flea-market-exeter-sunday-14-july-2024/</guid>
                     
 
                 </item>
@@ -170,7 +170,7 @@
                     
 
                     
-                        <link>https://exeterobserver.org/2024/06/26/brillsville-market-every-second-saturday-cowick-street-st-thomas/</link>
+                        <link>https://localhost:3000/2024/06/26/brillsville-market-every-second-saturday-cowick-street-st-thomas/</link>
                     
 
                     
@@ -184,7 +184,7 @@
                     
 
                     
-                        <guid isPermaLink="true">https://exeterobserver.org/2024/06/26/brillsville-market-every-second-saturday-cowick-street-st-thomas/</guid>
+                        <guid isPermaLink="true">https://localhost:3000/2024/06/26/brillsville-market-every-second-saturday-cowick-street-st-thomas/</guid>
                     
 
                 </item>
@@ -204,7 +204,7 @@
                     
 
                     
-                        <link>https://exeterobserver.org/2024/06/25/junior-doctors-strike-royal-devon-nhs-trust-national-dispute-pay-employment-conditions-general-election/</link>
+                        <link>https://localhost:3000/2024/06/25/junior-doctors-strike-royal-devon-nhs-trust-national-dispute-pay-employment-conditions-general-election/</link>
                     
 
                     
@@ -222,7 +222,7 @@
                     
 
                     
-                        <guid isPermaLink="true">https://exeterobserver.org/2024/06/25/junior-doctors-strike-royal-devon-nhs-trust-national-dispute-pay-employment-conditions-general-election/</guid>
+                        <guid isPermaLink="true">https://localhost:3000/2024/06/25/junior-doctors-strike-royal-devon-nhs-trust-national-dispute-pay-employment-conditions-general-election/</guid>
                     
 
                 </item>
@@ -242,7 +242,7 @@
                     
 
                     
-                        <link>https://exeterobserver.org/2024/06/21/janet-sainsbury-the-gift-of-nearness-saturday-6-july-to-saturday-31-august-2024-exeter-phoenix/</link>
+                        <link>https://localhost:3000/2024/06/21/janet-sainsbury-the-gift-of-nearness-saturday-6-july-to-saturday-31-august-2024-exeter-phoenix/</link>
                     
 
                     
@@ -260,7 +260,7 @@
                     
 
                     
-                        <guid isPermaLink="true">https://exeterobserver.org/2024/06/21/janet-sainsbury-the-gift-of-nearness-saturday-6-july-to-saturday-31-august-2024-exeter-phoenix/</guid>
+                        <guid isPermaLink="true">https://localhost:3000/2024/06/21/janet-sainsbury-the-gift-of-nearness-saturday-6-july-to-saturday-31-august-2024-exeter-phoenix/</guid>
                     
 
                 </item>
@@ -280,7 +280,7 @@
                     
 
                     
-                        <link>https://exeterobserver.org/2024/06/20/exeter-observer-spring-2024-community-share-offer/</link>
+                        <link>https://localhost:3000/2024/06/20/exeter-observer-spring-2024-community-share-offer/</link>
                     
 
                     
@@ -292,7 +292,7 @@
                     
 
                     
-                        <guid isPermaLink="true">https://exeterobserver.org/2024/06/20/exeter-observer-spring-2024-community-share-offer/</guid>
+                        <guid isPermaLink="true">https://localhost:3000/2024/06/20/exeter-observer-spring-2024-community-share-offer/</guid>
                     
 
                 </item>
@@ -312,7 +312,7 @@
                     
 
                     
-                        <link>https://exeterobserver.org/2024/06/20/green-phoenix-festival-sunday-30-june-2024-exeter-phoenix/</link>
+                        <link>https://localhost:3000/2024/06/20/green-phoenix-festival-sunday-30-june-2024-exeter-phoenix/</link>
                     
 
                     
@@ -330,7 +330,7 @@
                     
 
                     
-                        <guid isPermaLink="true">https://exeterobserver.org/2024/06/20/green-phoenix-festival-sunday-30-june-2024-exeter-phoenix/</guid>
+                        <guid isPermaLink="true">https://localhost:3000/2024/06/20/green-phoenix-festival-sunday-30-june-2024-exeter-phoenix/</guid>
                     
 
                 </item>
@@ -350,7 +350,7 @@
                     
 
                     
-                        <link>https://exeterobserver.org/2024/06/19/planning-inspector-discounts-highways-authority-responses-to-dismiss-redhills-housing-appeal-development-former-vehicle-breakers-yard-substantial-danger-pedestrians-drivers-rural-lane-exeter-outskirts/</link>
+                        <link>https://localhost:3000/2024/06/19/planning-inspector-discounts-highways-authority-responses-to-dismiss-redhills-housing-appeal-development-former-vehicle-breakers-yard-substantial-danger-pedestrians-drivers-rural-lane-exeter-outskirts/</link>
                     
 
                     
@@ -374,7 +374,7 @@
                     
 
                     
-                        <guid isPermaLink="true">https://exeterobserver.org/2024/06/19/planning-inspector-discounts-highways-authority-responses-to-dismiss-redhills-housing-appeal-development-former-vehicle-breakers-yard-substantial-danger-pedestrians-drivers-rural-lane-exeter-outskirts/</guid>
+                        <guid isPermaLink="true">https://localhost:3000/2024/06/19/planning-inspector-discounts-highways-authority-responses-to-dismiss-redhills-housing-appeal-development-former-vehicle-breakers-yard-substantial-danger-pedestrians-drivers-rural-lane-exeter-outskirts/</guid>
                     
 
                 </item>
@@ -394,7 +394,7 @@
                     
 
                     
-                        <link>https://exeterobserver.org/2024/06/17/the-exeter-digest-54-exeter-science-park-special-report/</link>
+                        <link>https://localhost:3000/2024/06/17/the-exeter-digest-54-exeter-science-park-special-report/</link>
                     
 
                     
@@ -406,7 +406,7 @@
                     
 
                     
-                        <guid isPermaLink="true">https://exeterobserver.org/2024/06/17/the-exeter-digest-54-exeter-science-park-special-report/</guid>
+                        <guid isPermaLink="true">https://localhost:3000/2024/06/17/the-exeter-digest-54-exeter-science-park-special-report/</guid>
                     
 
                 </item>
@@ -426,7 +426,7 @@
                     
 
                     
-                        <link>https://exeterobserver.org/2024/06/15/exeter-city-council-sinks-1.25m-into-struggling-exeter-science-park-company-unable-to-repay-7m-debts-serial-scrutiny-failures-emergency-meeting-increase-exposure-company-rescue-plan-risks-repeating-earlier-strategic-mistakes/</link>
+                        <link>https://localhost:3000/2024/06/15/exeter-city-council-sinks-1.25m-into-struggling-exeter-science-park-company-unable-to-repay-7m-debts-serial-scrutiny-failures-emergency-meeting-increase-exposure-company-rescue-plan-risks-repeating-earlier-strategic-mistakes/</link>
                     
 
                     
@@ -452,7 +452,7 @@
                     
 
                     
-                        <guid isPermaLink="true">https://exeterobserver.org/2024/06/15/exeter-city-council-sinks-1.25m-into-struggling-exeter-science-park-company-unable-to-repay-7m-debts-serial-scrutiny-failures-emergency-meeting-increase-exposure-company-rescue-plan-risks-repeating-earlier-strategic-mistakes/</guid>
+                        <guid isPermaLink="true">https://localhost:3000/2024/06/15/exeter-city-council-sinks-1.25m-into-struggling-exeter-science-park-company-unable-to-repay-7m-debts-serial-scrutiny-failures-emergency-meeting-increase-exposure-company-rescue-plan-risks-repeating-earlier-strategic-mistakes/</guid>
                     
 
                 </item>
@@ -472,7 +472,7 @@
                     
 
                     
-                        <link>https://exeterobserver.org/2024/06/10/homelessness-hardship-hustings-st-petrocks-citizens-advice-thursday-27-june-2024-south-street-baptist-church/</link>
+                        <link>https://localhost:3000/2024/06/10/homelessness-hardship-hustings-st-petrocks-citizens-advice-thursday-27-june-2024-south-street-baptist-church/</link>
                     
 
                     
@@ -492,7 +492,7 @@
                     
 
                     
-                        <guid isPermaLink="true">https://exeterobserver.org/2024/06/10/homelessness-hardship-hustings-st-petrocks-citizens-advice-thursday-27-june-2024-south-street-baptist-church/</guid>
+                        <guid isPermaLink="true">https://localhost:3000/2024/06/10/homelessness-hardship-hustings-st-petrocks-citizens-advice-thursday-27-june-2024-south-street-baptist-church/</guid>
                     
 
                 </item>
@@ -512,7 +512,7 @@
                     
 
                     
-                        <link>https://exeterobserver.org/2024/06/08/the-exeter-digest-53-water-lane-revisions-city-council-accounts-exeter-st-thomas-access-howell-road-flip/</link>
+                        <link>https://localhost:3000/2024/06/08/the-exeter-digest-53-water-lane-revisions-city-council-accounts-exeter-st-thomas-access-howell-road-flip/</link>
                     
 
                     
@@ -524,7 +524,7 @@
                     
 
                     
-                        <guid isPermaLink="true">https://exeterobserver.org/2024/06/08/the-exeter-digest-53-water-lane-revisions-city-council-accounts-exeter-st-thomas-access-howell-road-flip/</guid>
+                        <guid isPermaLink="true">https://localhost:3000/2024/06/08/the-exeter-digest-53-water-lane-revisions-city-council-accounts-exeter-st-thomas-access-howell-road-flip/</guid>
                     
 
                 </item>
@@ -544,7 +544,7 @@
                     
 
                     
-                        <link>https://exeterobserver.org/2024/06/07/revised-water-lane-redevelopment-plans-submitted-for-outline-approval-application-980-dwellings-40000m2-320-student-bedspaces-ex-industrial-site-railway-embankment-exeter-ship-canal-obfuscates-numerous-key-issues/</link>
+                        <link>https://localhost:3000/2024/06/07/revised-water-lane-redevelopment-plans-submitted-for-outline-approval-application-980-dwellings-40000m2-320-student-bedspaces-ex-industrial-site-railway-embankment-exeter-ship-canal-obfuscates-numerous-key-issues/</link>
                     
 
                     
@@ -570,7 +570,7 @@
                     
 
                     
-                        <guid isPermaLink="true">https://exeterobserver.org/2024/06/07/revised-water-lane-redevelopment-plans-submitted-for-outline-approval-application-980-dwellings-40000m2-320-student-bedspaces-ex-industrial-site-railway-embankment-exeter-ship-canal-obfuscates-numerous-key-issues/</guid>
+                        <guid isPermaLink="true">https://localhost:3000/2024/06/07/revised-water-lane-redevelopment-plans-submitted-for-outline-approval-application-980-dwellings-40000m2-320-student-bedspaces-ex-industrial-site-railway-embankment-exeter-ship-canal-obfuscates-numerous-key-issues/</guid>
                     
 
                 </item>
@@ -590,7 +590,7 @@
                     
 
                     
-                        <link>https://exeterobserver.org/2024/06/05/co-op-fortnight-fair-fundraiser-saturday-22-june-2024-cowick-street/</link>
+                        <link>https://localhost:3000/2024/06/05/co-op-fortnight-fair-fundraiser-saturday-22-june-2024-cowick-street/</link>
                     
 
                     
@@ -604,7 +604,7 @@
                     
 
                     
-                        <guid isPermaLink="true">https://exeterobserver.org/2024/06/05/co-op-fortnight-fair-fundraiser-saturday-22-june-2024-cowick-street/</guid>
+                        <guid isPermaLink="true">https://localhost:3000/2024/06/05/co-op-fortnight-fair-fundraiser-saturday-22-june-2024-cowick-street/</guid>
                     
 
                 </item>
@@ -624,7 +624,7 @@
                     
 
                     
-                        <link>https://exeterobserver.org/2024/06/05/annual-inspection-period-unaudited-2023-24-exeter-city-council-statement-of-accounts-special-information-access-rights-residents-questions-objections-external-auditor/</link>
+                        <link>https://localhost:3000/2024/06/05/annual-inspection-period-unaudited-2023-24-exeter-city-council-statement-of-accounts-special-information-access-rights-residents-questions-objections-external-auditor/</link>
                     
 
                     
@@ -648,7 +648,7 @@
                     
 
                     
-                        <guid isPermaLink="true">https://exeterobserver.org/2024/06/05/annual-inspection-period-unaudited-2023-24-exeter-city-council-statement-of-accounts-special-information-access-rights-residents-questions-objections-external-auditor/</guid>
+                        <guid isPermaLink="true">https://localhost:3000/2024/06/05/annual-inspection-period-unaudited-2023-24-exeter-city-council-statement-of-accounts-special-information-access-rights-residents-questions-objections-external-auditor/</guid>
                     
 
                 </item>
@@ -668,7 +668,7 @@
                     
 
                     
-                        <link>https://exeterobserver.org/2024/05/29/library-lates-windrush-celebration-devon-development-education-saturday-22-june-2024-exeter-library/</link>
+                        <link>https://localhost:3000/2024/05/29/library-lates-windrush-celebration-devon-development-education-saturday-22-june-2024-exeter-library/</link>
                     
 
                     
@@ -682,7 +682,7 @@
                     
 
                     
-                        <guid isPermaLink="true">https://exeterobserver.org/2024/05/29/library-lates-windrush-celebration-devon-development-education-saturday-22-june-2024-exeter-library/</guid>
+                        <guid isPermaLink="true">https://localhost:3000/2024/05/29/library-lates-windrush-celebration-devon-development-education-saturday-22-june-2024-exeter-library/</guid>
                     
 
                 </item>
@@ -702,7 +702,7 @@
                     
 
                     
-                        <link>https://exeterobserver.org/2024/05/29/exeter-st-thomas-improvement-bid-rejected-devon-denied-step-free-access-funding-five-years-two-thirds-access-for-all-money-to-conservative-seats-department-for-transport-announcement-constituency-political-pr/</link>
+                        <link>https://localhost:3000/2024/05/29/exeter-st-thomas-improvement-bid-rejected-devon-denied-step-free-access-funding-five-years-two-thirds-access-for-all-money-to-conservative-seats-department-for-transport-announcement-constituency-political-pr/</link>
                     
 
                     
@@ -722,7 +722,7 @@
                     
 
                     
-                        <guid isPermaLink="true">https://exeterobserver.org/2024/05/29/exeter-st-thomas-improvement-bid-rejected-devon-denied-step-free-access-funding-five-years-two-thirds-access-for-all-money-to-conservative-seats-department-for-transport-announcement-constituency-political-pr/</guid>
+                        <guid isPermaLink="true">https://localhost:3000/2024/05/29/exeter-st-thomas-improvement-bid-rejected-devon-denied-step-free-access-funding-five-years-two-thirds-access-for-all-money-to-conservative-seats-department-for-transport-announcement-constituency-political-pr/</guid>
                     
 
                 </item>
@@ -742,7 +742,7 @@
                     
 
                     
-                        <link>https://exeterobserver.org/2024/05/29/shillingford-organics-summer-solstice-saturday-22-june-2024-shillingford-abbot/</link>
+                        <link>https://localhost:3000/2024/05/29/shillingford-organics-summer-solstice-saturday-22-june-2024-shillingford-abbot/</link>
                     
 
                     
@@ -756,7 +756,7 @@
                     
 
                     
-                        <guid isPermaLink="true">https://exeterobserver.org/2024/05/29/shillingford-organics-summer-solstice-saturday-22-june-2024-shillingford-abbot/</guid>
+                        <guid isPermaLink="true">https://localhost:3000/2024/05/29/shillingford-organics-summer-solstice-saturday-22-june-2024-shillingford-abbot/</guid>
                     
 
                 </item>
