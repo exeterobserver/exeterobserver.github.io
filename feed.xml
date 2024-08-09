@@ -9,9 +9,9 @@
 
         <atom:link href="https://exeterobserver.org/feed.xml" rel="self" type="application/rss+xml"/>
 
-        <pubDate>Sun, 04 Aug 2024 12:10:35 +0100</pubDate>
+        <pubDate>Fri, 09 Aug 2024 19:55:13 +0100</pubDate>
 
-        <lastBuildDate>Sun, 04 Aug 2024 12:10:35 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 09 Aug 2024 19:55:13 +0100</lastBuildDate>
 
         
 
@@ -21,7 +21,7 @@
 
                 <item>
 
-                    <title>Exeter Digest #57: PCC defies panel - Musgrave Row pedestrian zone - Police underperforming // The Exeter Digest</title>
+                    <title>Exeter Digest #57: PCC defies panel - Musgrave Row pedestrian zone - Police underperforming // </title>
 
                     
                         <description>With a selection of Exeter Observer stories from the past twelve months to keep you ticking over during the summer recess.</description>
@@ -31,6 +31,8 @@
                         <link>https://exeterobserver.org/2024/08/03/the-exeter-digest-57-pcc-defies-panel-musgrave-row-pedestrian-zone-police-underperforming/</link>
                     
 
+                    
+                        <category>The Exeter Digest</category>
                     
 
                     
@@ -53,7 +55,7 @@
 
                 <item>
 
-                    <title>24 stories for the 2024 summer recess // Exeter Observer Community</title>
+                    <title>24 stories for the 2024 summer recess // </title>
 
                     
                         <description>Catch up with a curated selection of Exeter Observer stories from the past twelve months while the team takes a short break from publishing to carry out essential website maintenance and development work.</description>
@@ -63,6 +65,8 @@
                         <link>https://exeterobserver.org/2024/08/03/24-stories-for-the-2024-summer-recess/</link>
                     
 
+                    
+                        <category>News</category>
                     
 
                     
@@ -85,7 +89,7 @@
 
                 <item>
 
-                    <title>Devon and Cornwall PCC defies Police and Crime Panel to appoint former Torbay colleague as deputy // News</title>
+                    <title>Devon and Cornwall PCC defies Police and Crime Panel to appoint former Torbay colleague as deputy // </title>
 
                     
                         <description>Police and Crime Commissioner Alison Hernandez announced decision to hire Mark Kingscote on same day panel voted against appointment because &apos;candidate does not meet the minimum requirements of the post&apos;.</description>
@@ -96,10 +100,12 @@
                     
 
                     
-                        <category>Democracy and Governance</category>
+                        <category>News</category>
                     
 
                     
+                        
+                            <category>Democracy and Governance</category>
                         
                             <category>Devon and Cornwall Police</category>
                         
@@ -123,7 +129,7 @@
 
                 <item>
 
-                    <title>Musgrave Row pedestrian zone marred by moving traffic offences // Analysis</title>
+                    <title>Musgrave Row pedestrian zone marred by moving traffic offences // </title>
 
                     
                         <description>Survey suggests 30,000 prohibited private cars pass through street each year as a result of confusing signage, inconsistent restrictions and lack of enforcement.</description>
@@ -134,10 +140,12 @@
                     
 
                     
-                        <category>Transport and Mobility</category>
+                        <category>Analysis</category>
                     
 
                     
+                        
+                            <category>Transport and Mobility</category>
                         
                             <category>Exeter city centre</category>
                         
@@ -169,7 +177,7 @@
 
                 <item>
 
-                    <title>Devon &amp; Cornwall Police inspection finds force underperforming in half of areas assessed // News</title>
+                    <title>Devon &amp; Cornwall Police inspection finds force underperforming in half of areas assessed // </title>
 
                     
                         <description>His Majesty&apos;s Inspectorate of Constabulary Fire and Rescue Services has &apos;serious concerns&apos; over investigations management and says force still needs to reduce response times despite &apos;significant efforts to improve&apos;.</description>
@@ -180,10 +188,12 @@
                     
 
                     
-                        <category>Community and Society</category>
+                        <category>News</category>
                     
 
                     
+                        
+                            <category>Community and Society</category>
                         
                             <category>Devon and Cornwall Police</category>
                         
@@ -207,7 +217,7 @@
 
                 <item>
 
-                    <title>Exeter Digest #56: Grace Road Fields - Public health report // The Exeter Digest</title>
+                    <title>Exeter Digest #56: Grace Road Fields - Public health report // </title>
 
                     
                         <description>Upcoming community and culture highlights include Theatre in the Park and two independent markets.</description>
@@ -217,6 +227,8 @@
                         <link>https://exeterobserver.org/2024/07/24/the-exeter-digest-56-grace-road-fields-public-health-report/</link>
                     
 
+                    
+                        <category>The Exeter Digest</category>
                     
 
                     
@@ -239,7 +251,7 @@
 
                 <item>
 
-                    <title>Council to sell part of Grace Road Fields for heating plant and annexe rest for Water Lane redevelopment // Analysis</title>
+                    <title>Council to sell part of Grace Road Fields for heating plant and annexe rest for Water Lane redevelopment // </title>
 
                     
                         <description>New Exeter Local Plan &apos;strategic mixed use&apos; housing policy allocation to supersede planned campsite and outdoor event space, woodland planting and new canal basin at fifteen acre ex-playing field in Riverside Valley Park.</description>
@@ -250,10 +262,12 @@
                     
 
                     
-                        <category>Climate and Environment</category>
+                        <category>Analysis</category>
                     
 
                     
+                        
+                            <category>Climate and Environment</category>
                         
                             <category>Exeter Local Plan</category>
                         
@@ -285,7 +299,7 @@
 
                 <item>
 
-                    <title>Number of over-65s in Devon expected to increase by a third in next twenty years // News</title>
+                    <title>Number of over-65s in Devon expected to increase by a third in next twenty years // </title>
 
                     
                         <description>Public health report says proportion of working age adults in county will fall alongside rise in long-term health issues in older people with likely impacts on local health and social care.</description>
@@ -296,10 +310,12 @@
                     
 
                     
-                        <category>Community and Society</category>
+                        <category>News</category>
                     
 
                     
+                        
+                            <category>Community and Society</category>
                         
                             <category>Devon County Council</category>
                         
@@ -325,7 +341,7 @@
 
                 <item>
 
-                    <title>Exeter Independent Market // On Our Radar</title>
+                    <title>Exeter Independent Market // </title>
 
                     
                         <description>Exeter Cathedral market returns with handmade crafts, clothing and accessories, local food and drink and live music.</description>
@@ -336,9 +352,13 @@
                     
 
                     
-                        <category>Community and Society</category>
+                        <category>On Our Radar</category>
                     
 
+                    
+                        
+                            <category>Community and Society</category>
+                        
                     
 
                     
@@ -359,7 +379,7 @@
 
                 <item>
 
-                    <title>Love Riot // On Our Radar</title>
+                    <title>Love Riot // </title>
 
                     
                         <description>Miracle Theatre presents an open air reimagining of a Georgian-era romantic comedy.</description>
@@ -370,10 +390,12 @@
                     
 
                     
-                        <category>Arts and Culture</category>
+                        <category>On Our Radar</category>
                     
 
                     
+                        
+                            <category>Arts and Culture</category>
                         
                             <category>Exeter Phoenix</category>
                         
@@ -397,7 +419,7 @@
 
                 <item>
 
-                    <title>Spork! Summer Special 2024 // On Our Radar</title>
+                    <title>Spork! Summer Special 2024 // </title>
 
                     
                         <description>An evening of al fresco spoken-word comedy and poetry with Antosh Wojcik, Stewart Taylor and Micha Colombo.</description>
@@ -408,10 +430,12 @@
                     
 
                     
-                        <category>Arts and Culture</category>
+                        <category>On Our Radar</category>
                     
 
                     
+                        
+                            <category>Arts and Culture</category>
                         
                             <category>Exeter Phoenix</category>
                         
@@ -435,7 +459,7 @@
 
                 <item>
 
-                    <title>The Winter&apos;s Tale // On Our Radar</title>
+                    <title>The Winter&apos;s Tale // </title>
 
                     
                         <description>Sun &amp; Moon Theatre stages four al fresco performances of Shakespeare&apos;s A Winter&apos;s Tale.</description>
@@ -446,10 +470,12 @@
                     
 
                     
-                        <category>Arts and Culture</category>
+                        <category>On Our Radar</category>
                     
 
                     
+                        
+                            <category>Arts and Culture</category>
                         
                             <category>Exeter Phoenix</category>
                         
@@ -473,7 +499,7 @@
 
                 <item>
 
-                    <title>Devon 2024 general elections results // Briefings</title>
+                    <title>Devon 2024 general elections results // </title>
 
                     
                         <description>The ballots cast for each candidate with vote share in each constituency plus turnout and the distribution of seats.</description>
@@ -484,10 +510,12 @@
                     
 
                     
-                        <category>Democracy and Governance</category>
+                        <category>News</category>
                     
 
                     
+                        
+                            <category>Democracy and Governance</category>
                         
                             <category>General elections</category>
                         
@@ -511,7 +539,7 @@
 
                 <item>
 
-                    <title>Exeter Digest #55: 2024 general elections special // The Exeter Digest</title>
+                    <title>Exeter Digest #55: 2024 general elections special // </title>
 
                     
                         <description>Our guides cover predictions in both Exeter constituencies plus Labour manifesto promises, limitations and likely local impacts as well as when, where and how to vote and constituency boundary changes.</description>
@@ -521,6 +549,8 @@
                         <link>https://exeterobserver.org/2024/07/03/the-exeter-digest-55-general-elections-special/</link>
                     
 
+                    
+                        <category>The Exeter Digest</category>
                     
 
                     
@@ -543,7 +573,7 @@
 
                 <item>
 
-                    <title>Exeter and Exmouth &amp; Exeter East 2024 general elections guide // Comment</title>
+                    <title>Exeter and Exmouth &amp; Exeter East 2024 general elections guide // </title>
 
                     
                         <description>Steve Race is sure to be the new Exeter MP, but the outcome in newly-created Exmouth &amp; Exeter East is much less certain. Our guide covers predictions in both constituencies and Labour manifesto promises, limitations and likely local impacts.</description>
@@ -554,10 +584,12 @@
                     
 
                     
-                        <category>Democracy and Governance</category>
+                        <category>Comment</category>
                     
 
                     
+                        
+                            <category>Democracy and Governance</category>
                         
                             <category>General elections</category>
                         
@@ -581,7 +613,7 @@
 
                 <item>
 
-                    <title>When, where and how to vote in the 2024 Exeter and Exmouth &amp; Exeter East general elections // Briefings</title>
+                    <title>When, where and how to vote in the 2024 Exeter and Exmouth &amp; Exeter East general elections // </title>
 
                     
                         <description>Our guide to casting your ballot in person, by post and by proxy as well as voter ID requirements, new regulations for postal votes and constituency boundary changes.</description>
@@ -592,10 +624,12 @@
                     
 
                     
-                        <category>Democracy and Governance</category>
+                        <category>News</category>
                     
 
                     
+                        
+                            <category>Democracy and Governance</category>
                         
                             <category>General elections</category>
                         
@@ -619,7 +653,7 @@
 
                 <item>
 
-                    <title>Fore Street Flea // On Our Radar</title>
+                    <title>Fore Street Flea // </title>
 
                     
                         <description>Market with stalls selling vintage items, handmade craft, food and drink plus live music from local artists.</description>
@@ -630,9 +664,13 @@
                     
 
                     
-                        <category>Community and Society</category>
+                        <category>On Our Radar</category>
                     
 
+                    
+                        
+                            <category>Community and Society</category>
+                        
                     
 
                     
@@ -653,7 +691,7 @@
 
                 <item>
 
-                    <title>Brillsville Market // On Our Radar</title>
+                    <title>Brillsville Market // </title>
 
                     
                         <description>Regular community-run market that offers goods from local growers, makers and traders with a repair cafe and more.</description>
@@ -664,9 +702,13 @@
                     
 
                     
-                        <category>Community and Society</category>
+                        <category>On Our Radar</category>
                     
 
+                    
+                        
+                            <category>Community and Society</category>
+                        
                     
 
                     
@@ -687,7 +729,7 @@
 
                 <item>
 
-                    <title>Junior doctors strike takes place in week before general election // News</title>
+                    <title>Junior doctors strike takes place in week before general election // </title>
 
                     
                         <description>Latest round of industrial action is eleventh walkout by junior doctors in two year NHS staff dispute with government over pay and employment conditions.</description>
@@ -698,10 +740,12 @@
                     
 
                     
-                        <category>Community and Society</category>
+                        <category>News</category>
                     
 
                     
+                        
+                            <category>Community and Society</category>
                         
                             <category>Royal Devon NHS Trust</category>
                         
@@ -725,7 +769,7 @@
 
                 <item>
 
-                    <title>The Gift of Nearness // On Our Radar</title>
+                    <title>The Gift of Nearness // </title>
 
                     
                         <description>An exhibition of recent paintings by local artist Janet Sainsbury.</description>
@@ -736,10 +780,12 @@
                     
 
                     
-                        <category>Arts and Culture</category>
+                        <category>On Our Radar</category>
                     
 
                     
+                        
+                            <category>Arts and Culture</category>
                         
                             <category>Exeter Phoenix</category>
                         
