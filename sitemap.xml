@@ -3,7 +3,7 @@
 
     <url>
         <loc>https://exeterobserver.org</loc>
-        <lastmod>2024-10-25T11:26:43+01:00</lastmod>
+        <lastmod>2024-10-25T16:21:01+01:00</lastmod>
     </url>
 
 
@@ -14695,7 +14695,7 @@
 
             <url>
 
-                <loc>https://exeterobserver.org/join/</loc>
+                <loc>https://exeterobserver.org/legal/complaints/</loc>
 
                 
 
@@ -14707,7 +14707,13 @@
 
         
 
-    
+            <url>
+
+                <loc>https://exeterobserver.org/legal/corrections/</loc>
+
+                
+
+            </url>
 
         
 
@@ -14715,11 +14721,27 @@
 
         
 
-    
+            <url>
+
+                <loc>https://exeterobserver.org/legal/privacy-policy/</loc>
+
+                
+
+            </url>
 
         
 
     
+
+        
+
+            <url>
+
+                <loc>https://exeterobserver.org/legal/terms-and-conditions/</loc>
+
+                
+
+            </url>
 
         
 
@@ -14745,21 +14767,29 @@
 
         
 
+    
+
+        
+
+    
+
+        
+
+    
+
+        
+
+    
+
+        
+
             <url>
 
-                <loc>https://exeterobserver.org/support/</loc>
+                <loc>https://exeterobserver.org/upgrade/</loc>
 
                 
 
             </url>
-
-        
-
-    
-
-        
-
-    
 
         
 
