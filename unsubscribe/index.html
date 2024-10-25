@@ -61,7 +61,7 @@
                     // get page URL including any appended query string
                     const unSubscribeUrlParams = new URLSearchParams(window.location.search);
                     // extract the value of any appended query string with an 'email' key
-                    const unSubscribeEmailAddress = urlParams.get('email');
+                    const unSubscribeEmailAddress = unSubscribeUrlParams.get('email');
                     // if appended query string with an 'email' key is found, autofill form field with its value
                     if (email) {
                         const unSubscribeFormEmailInput = document.querySelector('#unsubscribeform input[type="email"]');#
