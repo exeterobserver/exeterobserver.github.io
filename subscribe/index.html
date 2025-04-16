@@ -70,11 +70,11 @@
                         // console.log('Captured form data:', formdata);
 
                         // confirm email not spam and email field not empty and validate captured email address
-                        const email = formdata.get('email').trim();
-                        if (email.includes("@darkfeed.io")) {
+                        const email = formdata.get('email').trim().toLowerCase();
+                        if (email.includes('darkfeed.io') {
                             return;
                         }
-                        if (email.includes("@example.com") {
+                        if (email.includes('example.com') {
                             return;
                         }
                         if (!email) {
