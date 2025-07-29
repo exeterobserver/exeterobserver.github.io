@@ -3,7 +3,7 @@
 
     <url>
         <loc>https://exeterobserver.org</loc>
-        <lastmod>2025-07-29T14:41:37+01:00</lastmod>
+        <lastmod>2025-07-29T15:03:35+01:00</lastmod>
     </url>
 
 
@@ -16877,12 +16877,6 @@
     
 
         <url>
-            <loc>https://exeterobserver.org/topics/flowerpot-fields</loc>
-        </url>
-
-    
-
-        <url>
             <loc>https://exeterobserver.org/topics/guildhall</loc>
         </url>
 
@@ -16920,12 +16914,6 @@
 
         <url>
             <loc>https://exeterobserver.org/topics/sidwell-street</loc>
-        </url>
-
-    
-
-        <url>
-            <loc>https://exeterobserver.org/topics/southernhay</loc>
         </url>
 
     
@@ -17105,12 +17093,6 @@
     
 
         <url>
-            <loc>https://exeterobserver.org/topics/public-parks</loc>
-        </url>
-
-    
-
-        <url>
             <loc>https://exeterobserver.org/topics/public-realm</loc>
         </url>
 
@@ -17166,6 +17148,12 @@
 
         <url>
             <loc>https://exeterobserver.org/topics/transport-policy</loc>
+        </url>
+
+    
+
+        <url>
+            <loc>https://exeterobserver.org/topics/valley-parks-green-spaces</loc>
         </url>
 
     
