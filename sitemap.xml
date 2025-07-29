@@ -3,7 +3,7 @@
 
     <url>
         <loc>https://exeterobserver.org</loc>
-        <lastmod>2025-07-29T09:04:26+01:00</lastmod>
+        <lastmod>2025-07-29T13:36:34+01:00</lastmod>
     </url>
 
 
@@ -10093,24 +10093,6 @@
 
         <url>
 
-            <loc>https://exeterobserver.org/2023/03/22/met-office-survey-majority-supports-greenhouse-gas-emission-reductions-action/</loc>
-
-            <lastmod>
-
-                
-
-                    2023-03-22T09:00:00+00:00
-
-                
-
-            </lastmod>
-
-        </url>
-
-    
-
-        <url>
-
             <loc>https://exeterobserver.org/2023/03/21/beaufort-house-student-accommodation-conversion-approved/</loc>
 
             <lastmod>
@@ -15349,6 +15331,24 @@
 
         <url>
 
+            <loc>https://exeterobserver.org/2021/03/30/exeter-pride-2021-cancelled/</loc>
+
+            <lastmod>
+
+                
+
+                    2021-03-30T10:15:00+01:00
+
+                
+
+            </lastmod>
+
+        </url>
+
+    
+
+        <url>
+
             <loc>https://exeterobserver.org/2021/03/26/selective-use-of-statistics-presents-unbalanced-account-of-exeter-economic-and-environmental-status-city-council-chief-executive-centre-for-cities/</loc>
 
             <lastmod>
@@ -16793,6 +16793,12 @@
     
 
         <url>
+            <loc>https://exeterobserver.org/topics/libraries-unlimited</loc>
+        </url>
+
+    
+
+        <url>
             <loc>https://exeterobserver.org/topics/liveable-exeter-place-board</loc>
         </url>
 
@@ -16884,12 +16890,6 @@
 
         <url>
             <loc>https://exeterobserver.org/topics/marsh-barton</loc>
-        </url>
-
-    
-
-        <url>
-            <loc>https://exeterobserver.org/topics/northernhay-gardens</loc>
         </url>
 
     
@@ -16998,12 +16998,6 @@
 
         <url>
             <loc>https://exeterobserver.org/topics/exeter-development-fund</loc>
-        </url>
-
-    
-
-        <url>
-            <loc>https://exeterobserver.org/topics/exeter-live-better</loc>
         </url>
 
     
@@ -17177,7 +17171,13 @@
     
 
         <url>
-            <loc>https://exeterobserver.org/topics/exeter-culture</loc>
+            <loc>https://exeterobserver.org/topics/emmanuel-hall</loc>
+        </url>
+
+    
+
+        <url>
+            <loc>https://exeterobserver.org/topics/exeter-library</loc>
         </url>
 
     
@@ -17195,7 +17195,7 @@
     
 
         <url>
-            <loc>https://exeterobserver.org/topics/libraries-unlimited</loc>
+            <loc>https://exeterobserver.org/topics/exeter-quay</loc>
         </url>
 
     
@@ -17207,13 +17207,43 @@
     
 
         <url>
+            <loc>https://exeterobserver.org/topics/northernhay-gardens</loc>
+        </url>
+
+    
+
+        <url>
             <loc>https://exeterobserver.org/topics/ramm</loc>
         </url>
 
     
 
         <url>
+            <loc>https://exeterobserver.org/topics/rougemont-gardens</loc>
+        </url>
+
+    
+
+        <url>
+            <loc>https://exeterobserver.org/topics/st-nicholas-priory</loc>
+        </url>
+
+    
+
+        <url>
             <loc>https://exeterobserver.org/topics/st-sidwell-s-community-centre</loc>
+        </url>
+
+    
+
+        <url>
+            <loc>https://exeterobserver.org/topics/st-thomas-church</loc>
+        </url>
+
+    
+
+        <url>
+            <loc>https://exeterobserver.org/topics/theatre-alibi</loc>
         </url>
 
     
