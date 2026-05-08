@@ -9,9 +9,9 @@
 
         <atom:link href="https://exeterobserver.org/feed.xml" type="application/rss+xml"/>
 
-        <pubDate>Fri, 08 May 2026 14:19:28 +0100</pubDate>
+        <pubDate>Fri, 08 May 2026 14:57:57 +0100</pubDate>
 
-        <lastBuildDate>Fri, 08 May 2026 14:19:28 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 08 May 2026 14:57:57 +0100</lastBuildDate>
 
         
 
@@ -26,7 +26,7 @@
                     
 
                     
-                        <description>The votes cast for each candidate with vote share and party vote share change in each ward, plus turnout and the distribution of seats.</description>
+                        <description>The votes cast for each candidate with vote share and party vote share change in each ward plus turnout, postal votes and the distribution of seats.</description>
                     
 
                     
