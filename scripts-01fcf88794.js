@@ -1,0 +1,1 @@
+document.addEventListener("DOMContentLoaded",()=>{let hamburgerButton=document.querySelector("mast-head button"),hamburgerMenu=document.querySelector(".sitenav ul");if(null!==hamburgerButton){const toggleMenu=()=>{hamburgerButton.classList.toggle("active"),hamburgerMenu.classList.toggle("visible")};hamburgerButton.addEventListener("click",toggleMenu)}});
